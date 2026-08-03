@@ -1,0 +1,22 @@
+# Zero to AI Expert: full site guide
+
+Canonical site: https://wenchangyue.github.io/zero-to-ai-expert/
+
+Zero to AI Expert publishes beginner-to-technical lessons on artificial intelligence. The learning path covers AI foundations, algorithms, large language models, mathematics, practical workflows, system building, reliability, and safety.
+
+## Current lesson
+
+### What Is Artificial Intelligence? A Beginner's Guide to Modern AI
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-is-artificial-intelligence/
+
+The lesson explains AI with four inspectable parts: input, transformation, output, and verification. It separates rule-based systems from machine learning, training from inference, and models from complete products. It introduces deep learning and token-based language generation, then explains why fluent output still requires a separate verification step.
+
+The page includes a quick answer, learning outcomes, six mechanism sections, seven frequently asked questions, and links to NIST, OECD, the Google Machine Learning Glossary, and primary papers on deep learning, transformers, large language models, and instruction following.
+
+## Machine-readable entry points
+
+- Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
+- Robots: https://wenchangyue.github.io/zero-to-ai-expert/robots.txt
+- Short LLM index: https://wenchangyue.github.io/zero-to-ai-expert/llms.txt
+- Repository: https://github.com/wenchangyue/zero-to-ai-expert

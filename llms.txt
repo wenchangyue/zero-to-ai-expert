@@ -1,0 +1,27 @@
+# Zero to AI Expert
+
+> Source-linked AI lessons from first principles to working systems.
+
+Site: https://wenchangyue.github.io/zero-to-ai-expert/
+YouTube: https://www.youtube.com/@ZeroToAIExpert
+Repository: https://github.com/wenchangyue/zero-to-ai-expert
+Author: Wenchang Yue
+Language: English
+Updated: 2026-08-03
+
+## Main pages
+
+- [Home](https://wenchangyue.github.io/zero-to-ai-expert/)
+- [Editorial and source policy](https://wenchangyue.github.io/zero-to-ai-expert/editorial-policy/)
+
+## Lesson pages
+
+<!-- AUTO-COMPANION-PAGES:START -->
+- [What Is Artificial Intelligence? A Beginner's Guide to Modern AI](https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-is-artificial-intelligence/)
+<!-- AUTO-COMPANION-PAGES:END -->
+
+## Use
+
+- Lesson pages distinguish models from complete AI systems.
+- A page is labeled as a transcript only when it matches the final narration and caption track.
+- Source links support the technical claims; the public repository records revisions.

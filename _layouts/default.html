@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines | truncate: 300 }}">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines | truncate: 300 }}">
+  <meta property="og:type" content="{% if page.video_id %}video.other{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{% if page.video_id %}https://i.ytimg.com/vi/{{ page.video_id }}/maxresdefault.jpg{% else %}{{ '/assets/agent-mark.svg' | absolute_url }}{% endif %}">
+  <style>
+    :root { --ink:#f3ebdd; --muted:#b8aea0; --bg:#171411; --panel:#211d18;
+      --line:#4b4339; --amber:#d99a3d; --rust:#d65a3a; --sage:#94a66d; --violet:#8c78a5; }
+    * { box-sizing:border-box; }
+    html { color-scheme:dark; }
+    body { margin:0; color:var(--ink); background:var(--bg);
+      background-image:linear-gradient(rgba(243,235,221,.028) 1px,transparent 1px),
+      linear-gradient(90deg,rgba(243,235,221,.028) 1px,transparent 1px),
+      radial-gradient(circle at 15% -5%,rgba(217,154,61,.13),transparent 35%);
+      background-size:32px 32px,32px 32px,auto;
+      font:17px/1.68 Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      -webkit-text-size-adjust:100%; }
+    .wrap { max-width:940px; margin:0 auto; padding:1.25rem 1.2rem 4rem; }
+    header { border-bottom:1px solid var(--line); padding-bottom:1rem; margin-bottom:2.4rem; }
+    header a { display:flex; align-items:center; gap:.75rem; color:var(--ink); text-decoration:none;
+      font-weight:800; letter-spacing:.03em; }
+    header img { width:42px; height:42px; border:1px solid var(--line); }
+    h1,h2,h3 { font-family:Georgia,"Times New Roman",serif; line-height:1.12; }
+    h1 { font-size:clamp(2.25rem,7vw,4.5rem); letter-spacing:-.035em; margin:.3rem 0 1.15rem; }
+    h2 { font-size:1.65rem; margin:2.5rem 0 .7rem; }
+    h3 { font-size:1.18rem; margin:1.55rem 0 .45rem; }
+    a { color:#efb65e; }
+    .primary-link { display:inline-block; background:var(--amber); color:var(--bg); padding:.72rem 1rem;
+      font-weight:850; text-decoration:none; }
+    .meta,.eyebrow { color:var(--muted); font:700 .78rem/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;
+      letter-spacing:.07em; text-transform:uppercase; }
+    .status { color:var(--amber); border-left:5px solid var(--amber); background:var(--panel); padding:.8rem 1rem; }
+    .quick-answer { border-left:7px solid var(--amber); background:var(--panel); padding:1rem 1.2rem; margin:1.5rem 0; }
+    .quick-answer h2 { color:var(--amber); font:850 .82rem/1.3 ui-monospace,SFMono-Regular,Menlo,monospace;
+      letter-spacing:.08em; text-transform:uppercase; margin:.1rem 0 .55rem; }
+    .lesson-card { border-top:1px solid var(--line); padding:1.25rem 0 .45rem; }
+    .lesson-card h2 { margin:.15rem 0 .45rem; }
+    .path-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; margin:1.2rem 0; }
+    .path-grid div { background:var(--panel); border-left:5px solid var(--sage); padding:.85rem 1rem; }
+    .watch { font-weight:750; }
+    blockquote { margin:1.2rem 0; padding:.25rem 1rem; border-left:4px solid var(--violet); color:var(--muted); }
+    code { background:#050505; color:#f3ebdd; padding:.1em .35em; }
+    footer { border-top:1px solid var(--line); margin-top:3.5rem; padding-top:1.1rem; color:var(--muted); font-size:.86rem; }
+    @media(max-width:620px){ body{font-size:16px}.wrap{padding-inline:1rem}.path-grid{grid-template-columns:1fr} }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header><a href="{{ '/' | relative_url }}"><img src="{{ '/assets/agent-mark.svg' | relative_url }}" alt="">{{ site.title }}</a></header>
+    <main>{{ content }}</main>
+    <footer>
+      <p>Source-linked AI education by {{ site.author }}. Explanations distinguish models from complete systems and generated output from verified results.</p>
+      <p><a href="{{ '/editorial-policy/' | relative_url }}">Editorial policy</a> · <a href="{{ '/llms.txt' | relative_url }}">llms.txt</a> · <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a> · <a href="{{ site.repository_url }}">GitHub source</a></p>
+    </footer>
+  </div>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@graph":[
+      {
+        "@type":"WebSite",
+        "@id":{{ site.url | append: site.baseurl | append: '/#website' | jsonify }},
+        "name":{{ site.title | jsonify }},
+        "url":{{ site.url | append: site.baseurl | append: '/' | jsonify }},
+        "description":{{ site.description | strip_newlines | jsonify }},
+        "inLanguage":"en",
+        "publisher":{"@id":{{ site.url | append: site.baseurl | append: '/#publisher' | jsonify }}}
+      },
+      {
+        "@type":"Organization",
+        "@id":{{ site.url | append: site.baseurl | append: '/#publisher' | jsonify }},
+        "name":{{ site.title | jsonify }},
+        "founder":{"@type":"Person","name":{{ site.author | jsonify }}},
+        "sameAs":[{{ site.youtube_channel | jsonify }},{{ site.repository_url | jsonify }}]
+      }
+    ]
+  }
+  </script>
+</body>
+</html>

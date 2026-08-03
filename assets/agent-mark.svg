@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Zero to AI Expert agent mark</title>
+  <desc id="desc">An open four-stage loop surrounding an amber intelligent core.</desc>
+  <rect width="1024" height="1024" fill="#171411"/>
+  <path d="M298 266H650L758 374" fill="none" stroke="#F3EBDD" stroke-width="68" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M758 298V650L650 758" fill="none" stroke="#F3EBDD" stroke-width="68" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M726 758H374L266 650" fill="none" stroke="#F3EBDD" stroke-width="68" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M266 726V374L374 266" fill="none" stroke="#F3EBDD" stroke-width="68" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M512 394L630 512L512 630L394 512Z" fill="#D99A3D"/>
+  <circle cx="512" cy="512" r="48" fill="#171411"/>
+  <circle cx="512" cy="512" r="15" fill="#F3EBDD"/>
+</svg>

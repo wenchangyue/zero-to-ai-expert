@@ -1,0 +1,30 @@
+title: Zero to AI Expert
+description: >-
+  Clear, source-linked lessons that explain artificial intelligence from first
+  principles to working systems, including machine learning, deep learning,
+  large language models, agents, evaluation, and practical AI workflows.
+author: Wenchang Yue
+lang: en
+url: "https://wenchangyue.github.io"
+baseurl: "/zero-to-ai-expert"
+youtube_channel: "https://www.youtube.com/@ZeroToAIExpert"
+repository_url: "https://github.com/wenchangyue/zero-to-ai-expert"
+
+collections:
+  lessons:
+    output: true
+    permalink: /lessons/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: lessons
+    values:
+      layout: lesson
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - TEMPLATE-lesson.md
