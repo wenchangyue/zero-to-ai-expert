@@ -12,8 +12,8 @@ duration_label: 19 minutes
 duration: PT19M34S
 youtube_url: https://youtu.be/4ir_uHC7bnk
 video_id: 4ir_uHC7bnk
-video_status: private
-upload_date: '2026-08-03'
+video_status: public
+upload_date: '2026-08-03T14:41:31-07:00'
 keywords:
   - artificial intelligence
   - AI for beginners
