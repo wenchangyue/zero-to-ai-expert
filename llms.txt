@@ -17,6 +17,7 @@ Updated: 2026-08-03
 ## Lesson pages
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [How Large Language Models Work: A Step-by-Step Visual Guide](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-large-language-models-work/)
 - [What Is Artificial Intelligence? A Beginner's Guide to Modern AI](https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-is-artificial-intelligence/)
 <!-- AUTO-COMPANION-PAGES:END -->
 

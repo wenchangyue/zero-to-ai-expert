@@ -4,15 +4,37 @@ Canonical site: https://wenchangyue.github.io/zero-to-ai-expert/
 
 Zero to AI Expert publishes beginner-to-technical lessons on artificial intelligence. The learning path covers AI foundations, algorithms, large language models, mathematics, practical workflows, system building, reliability, and safety.
 
-## Current lesson
+## Current lessons
+
+### How Large Language Models Work: A Step-by-Step Visual Guide
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-large-language-models-work/
+
+A large language model converts text into token IDs, looks up a learned vector for each ID, and passes the resulting matrix through many Transformer blocks. Causal self-attention mixes information from allowed earlier positions, while an MLP transforms each position. The final hidden vector is projected into one logit per vocabulary token. A decoder turns those logits into one selected token, appends it to the context, and repeats. Training uses next-token errors and backpropagation to adjust the model's parameters; ordinary chat inference keeps those base parameters fixed.
+
+What this lesson covers:
+
+- Trace a user request from serialized text to token IDs and embedding vectors.
+- Calculate the sequence of operations in scaled dot-product attention.
+- Explain the separate roles of queries, keys, values, residual paths, and the MLP.
+- Distinguish logits, probabilities, temperature, top-k, and top-p decoding.
+- Explain why prefill, decode, and the KV cache have different computational roles.
+- Separate training-time parameter updates from inference-time activations and cache.
+- Distinguish tokenizer vocabulary, model parameters, activations, cache, and external sources.
 
 ### What Is Artificial Intelligence? A Beginner's Guide to Modern AI
 
 Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-is-artificial-intelligence/
 
-The lesson explains AI with four inspectable parts: input, transformation, output, and verification. It separates rule-based systems from machine learning, training from inference, and models from complete products. It introduces deep learning and token-based language generation, then explains why fluent output still requires a separate verification step.
+Artificial intelligence is a broad category of machine-based systems. An AI system takes an input, transforms it with human-written rules or patterns learned from data, and produces an output for a human-defined task. Modern AI often uses machine learning. Training adjusts model parameters from examples; inference uses the trained parameters on new input. A fluent output still needs verification when accuracy matters.
 
-The page includes a quick answer, learning outcomes, six mechanism sections, seven frequently asked questions, and links to NIST, OECD, the Google Machine Learning Glossary, and primary papers on deep learning, transformers, large language models, and instruction following.
+What this lesson covers:
+
+- Identify the input, transformation, output, and verification step in an AI system.
+- Separate explicit rules from patterns learned through machine learning.
+- Explain how training differs from inference.
+- Place deep learning and large language models inside the larger AI category.
+- Explain why generated text can sound confident without being verified.
 
 ## Machine-readable entry points
 
