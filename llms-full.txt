@@ -36,6 +36,22 @@ What this lesson covers:
 - Place deep learning and large language models inside the larger AI category.
 - Explain why generated text can sound confident without being verified.
 
+### How AI Actually Runs: Software, Memory, CPU, and GPU
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-ai-actually-runs/
+
+An AI system is software executed by physical hardware. A microphone converts sound pressure into an electrical signal, and an audio interface turns that signal into numerical samples. Software stores the samples in memory and may transform them into features or send them to a remote service. During inference, compiled CPU or GPU programs combine the current input with learned model parameters. The resulting numbers are decoded into text, pixels, or audio that an application can present to the user.
+
+What this lesson covers:
+
+- Distinguish source code, bytecode, native code, machine instructions, and data.
+- Trace voice from a microphone to PCM samples, buffers, features, and model input.
+- Explain what RAM, GPU memory, drivers, runtimes, and kernels contribute.
+- Separate current input, learned model parameters, and temporary activations.
+- Explain where Python ends and compiled framework code begins in a representative path.
+- Distinguish local AI execution from a request sent to a cloud service.
+- Rebuild the complete route from physical input to visible or audible output.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
