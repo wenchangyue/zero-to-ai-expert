@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-08-11
+Updated: 2026-08-15
 
 ## Main pages
 
@@ -20,6 +20,7 @@ Updated: 2026-08-11
 - [How Large Language Models Work: A Step-by-Step Visual Guide](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-large-language-models-work/)
 - [What Is Artificial Intelligence? A Beginner's Guide to Modern AI](https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-is-artificial-intelligence/)
 - [How AI Actually Runs: Software, Memory, CPU, and GPU](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-ai-actually-runs/)
+- [Attention Is All You Need Explained: How the Original Transformer Works](https://wenchangyue.github.io/zero-to-ai-expert/lessons/attention-is-all-you-need-explained/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

@@ -52,6 +52,23 @@ What this lesson covers:
 - Distinguish local AI execution from a request sent to a cloud service.
 - Rebuild the complete route from physical input to visible or audible output.
 
+### Attention Is All You Need Explained: How the Original Transformer Works
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/attention-is-all-you-need-explained/
+
+The original Transformer converts token IDs into vectors, adds position information, and repeatedly uses attention and feed-forward layers to update those vectors. In one attention head, learned query-key dot products become normalized weights, and those weights mix value vectors. The decoder combines masked self-attention with encoder-decoder attention, projects its final vector into vocabulary logits, and selects the next token. Attention changes how information travels between positions, but embeddings, residual paths, normalization, feed-forward networks, and the output projection remain essential.
+
+What this lesson covers:
+
+- Trace one translation through the encoder and decoder of the original Transformer.
+- Explain how token IDs, embeddings, and sinusoidal positional encodings form the model input.
+- Calculate one scaled dot-product attention head with explicit teaching numbers.
+- Distinguish encoder self-attention, masked decoder self-attention, and cross-attention.
+- Explain how causal masking prevents target positions from reading future answers.
+- Follow a decoder vector through vocabulary logits, softmax, and next-token generation.
+- Separate parallel training from sequential autoregressive inference.
+- State what the 2017 paper demonstrated and what it did not invent or prove.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
