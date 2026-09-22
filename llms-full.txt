@@ -69,6 +69,19 @@ What this lesson covers:
 - Separate parallel training from sequential autoregressive inference.
 - State what the 2017 paper demonstrated and what it did not invent or prove.
 
+### What AI Can and Cannot Do Today: 6 Tasks Tested Live (1 Was Wrong)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-ai-can-and-cannot-do-today/
+
+Hand over rewriting, explaining and organizing, then read the result once and look for gaps the model filled. Do decisions and anything about your own situation together: the model lays out the trade-off, you decide. Check every fact, number, date, name, source and calculation by opening the source or using a calculator, because a wrong answer can sound exactly as confident as a right one. In the lesson's six recorded tests the model was wrong once, on a multiplication, and correct in five repeats of the same question.
+
+What this lesson covers:
+
+- Sort a task into one of three columns before asking an AI for help.
+- Recognize a filled gap in an otherwise correct rewrite or table.
+- Check a cited statistic by opening the source and its data table, not only the headline page.
+- Explain why exact arithmetic from a model without a calculator tool must be verified.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

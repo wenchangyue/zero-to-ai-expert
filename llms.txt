@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-08-15
+Updated: 2026-09-21
 
 ## Main pages
 
@@ -21,6 +21,7 @@ Updated: 2026-08-15
 - [What Is Artificial Intelligence? A Beginner's Guide to Modern AI](https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-is-artificial-intelligence/)
 - [How AI Actually Runs: Software, Memory, CPU, and GPU](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-ai-actually-runs/)
 - [Attention Is All You Need Explained: How the Original Transformer Works](https://wenchangyue.github.io/zero-to-ai-expert/lessons/attention-is-all-you-need-explained/)
+- [What AI Can and Cannot Do Today: 6 Tasks Tested Live (1 Was Wrong)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-ai-can-and-cannot-do-today/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use
