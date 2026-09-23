@@ -82,6 +82,19 @@ What this lesson covers:
 - Check a cited statistic by opening the source and its data table, not only the headline page.
 - Explain why exact arithmetic from a model without a calculator tool must be verified.
 
+### Where AI Actually Gets Things Wrong (I Checked 8 Answers)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/where-ai-actually-gets-it-wrong/
+
+Check by consequence, not by suspicion. In these tests the model refused all three invented topics and got well-documented facts right, including this year's Medicare Part B premium. It was wrong about one bookstore's opening hours and one bank account's monthly fee, and it added a reassurance about a steady check engine light that the owner's manual contradicts. So: for one specific business right now — hours, fees, current price — open that business's own page. For anything that could cost you money, time or safety, read the source that owns the answer rather than a summary. And read the model's hedge: on the bank fee it told me to verify, in all four answers, and it was right.
+
+What this lesson covers:
+
+- Recognize that a current refusal to invent does not mean every answer is accurate.
+- Identify the kinds of questions where a model's confident answer is least reliable.
+- Check an answer against the source that owns it rather than a summary of it.
+- Treat a model's hedge as information rather than politeness.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
