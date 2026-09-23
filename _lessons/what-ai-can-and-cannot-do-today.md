@@ -7,7 +7,7 @@ description: >-
   against a source or a calculator. The result is a one-page map: hand it over
   and read it, do it together, or check every line.
 date: '2026-09-21'
-modified: '2026-09-21'
+modified: '2026-09-23'
 course: AI Foundations
 level: Beginner
 duration_label: 10 minutes
@@ -43,9 +43,9 @@ faq:
   - question: Which AI model was tested?
     answer: >-
       Claude Sonnet, run as a plain assistant through a command-line interface on
-      2026-09-21 with no calculator, web search or other tools, and with no
-      project or user instructions. All six answers are quoted verbatim in the
-      video and listed below.
+      2026-09-21 with no calculator, web search or other tools. All six answers
+      are quoted verbatim in the video and listed below. See the correction at the
+      end of this page about what else was in the model's context during those runs.
   - question: Was the multiplication error a one-off?
     answer: >-
       The recorded answer to 48,271 × 9,384 was 453,047,064; the correct product
@@ -105,6 +105,21 @@ Any answer in any column can contain a fact or a number, and those get checked w
 
 These are results from one model, in one setup, on one day. Results may differ across apps, model versions and even repeated runs, as the multiplication showed. Apps that give the model tools such as a calculator or web search can move tasks between columns. The three columns are a working habit, not a fixed ranking of what AI can do.
 
+## Correction (2026-09-23)
+
+The lesson says the model had "only the words in each prompt." That was not exactly true, and the channel's own rule is to check every claim, including its own.
+
+The script that ran the six demos passed each prompt on the command line but left its own standard input open. The command-line tool also reads standard input, so the model received the test script along with the question — including the folder path it was writing to. It never changed an answer in a way that is visible in the recorded outputs, but in two later runs the model referred to "your demo project," which is how the problem surfaced.
+
+The demos were re-run on 2026-09-23 with that input closed and with no settings or instruction files loaded. What that changed:
+
+- **The arithmetic finding got stronger.** The clean re-run answered 48,271 × 9,384 as 452,987,064. The correct product is 452,975,064, so it was wrong again, by a different amount than the first time. Across all runs so far the answer has been wrong more than once, each time with a different wrong number, and each time stated just as calmly.
+- **The Pew answer held.** The model again cited the Pew Research Center survey, 34%, and the 23% figure for the previous year.
+- **The filled-in date did not repeat.** In the clean run the table kept "Friday" and did not add a specific date. The point the lesson draws from it — that a model fills gaps and those fills need checking — still holds, and the recorded run shows it happening, but that particular fill is not something you should expect every time.
+- **The job-offer answer varied.** The recorded run gave a conditional answer; the clean re-run led with a recommendation. The lesson's placement of decisions in the "do it together" column is unaffected.
+
+The evidence files for both the original and the clean re-run are kept with the episode. Future lessons run their demos through a single script that closes standard input, loads no settings, and records the exact conditions with each answer.
+
 ## Page status
 
-This page is a reviewed lesson companion. It follows the final narration and caption track but reorganizes the material for reading; it is not a verbatim transcript.
+This page is a reviewed lesson companion. It follows the final narration and caption track but reorganizes the material for reading; it is not a verbatim transcript. The correction above was added after publication and is not in the video.
