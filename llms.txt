@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-09-23
+Updated: 2026-09-24
 
 ## Main pages
 
@@ -23,6 +23,7 @@ Updated: 2026-09-23
 - [Attention Is All You Need Explained: How the Original Transformer Works](https://wenchangyue.github.io/zero-to-ai-expert/lessons/attention-is-all-you-need-explained/)
 - [What AI Can and Cannot Do Today: 6 Tasks Tested Live (1 Was Wrong)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/what-ai-can-and-cannot-do-today/)
 - [Where AI Actually Gets Things Wrong (I Checked 8 Answers)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/where-ai-actually-gets-it-wrong/)
+- [I Asked AI for the Same Email 4 Ways. It Wrote a Sentence I Never Said.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/the-sentence-it-wrote-that-i-never-said/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

@@ -95,6 +95,19 @@ What this lesson covers:
 - Check an answer against the source that owns it rather than a summary of it.
 - Treat a model's hedge as information rather than politeness.
 
+### I Asked AI for the Same Email 4 Ways. It Wrote a Sentence I Never Said.
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/the-sentence-it-wrote-that-i-never-said/
+
+Put five things in the request: who is involved, what has to happen, the context and especially the cause, the shape and length you want back, and an instruction to state its assumptions before answering. In this test the one-line prompt produced a generic memo, a hundred words of polite but vague context produced a longer generic memo, and the structured prompt produced an email that named the actual problem. It also wrote, in the sender's voice, that the tracker had already been relabelled — which had not happened, and which appeared in both structured runs. The assumptions list surfaced a wrong date but said nothing about that sentence, so you still have to read the draft.
+
+What this lesson covers:
+
+- Write a request that supplies the context a model cannot infer.
+- Recognize that a longer prompt is not the same as a more informative one.
+- Spot a draft that claims, in your voice, that you have already done something.
+- Use an assumptions list as a checklist rather than as a safety net.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
