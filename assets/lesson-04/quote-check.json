@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "summary-bare",
+    "repeat": 1,
+    "quotes": 0,
+    "exact": 0,
+    "continuous_partial": 0,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 0,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": []
+  },
+  {
+    "id": "summary-bare",
+    "repeat": 2,
+    "quotes": 0,
+    "exact": 0,
+    "continuous_partial": 0,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 0,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": []
+  },
+  {
+    "id": "summary-bare",
+    "repeat": 3,
+    "quotes": 0,
+    "exact": 0,
+    "continuous_partial": 0,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 0,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": []
+  },
+  {
+    "id": "clauses-cited",
+    "repeat": 1,
+    "quotes": 46,
+    "exact": 32,
+    "continuous_partial": 5,
+    "excerpt_with_ellipsis": 6,
+    "bracket_insertion": 1,
+    "trimmed_or_recased": 2,
+    "not_found": 0,
+    "page_ok": 46,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": [
+      {
+        "quote": "Landlord will return the Security Deposit, less lawful deductions, together with an itemized list of any deductions, within thirty (30) days after Tenant surrenders the Premises and returns all keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Security Deposit, less any lawful deductions, shall be returned within forty-five (45) days after the termination of this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay monthly rent of one thousand six hundred fifty dollars ($1,650.00) (⟨Monthly Rent⟩)",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2,
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Monthly Rent is due in advance on the first (1st) day of each calendar month without demand. If the Commencement Date is not the first day of a month, rent for the first partial month shall be prorated on a daily basis and paid before Tenant receives keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2,
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A returned payment fee of thirty-five dollars ($35.00) is charged for each payment returned unpaid by a bank for any reason",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2,
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Landlord has not received the full Monthly Rent by 11:59 p.m. on the fifth (5th) day of the month, Tenant shall pay an initial late charge of seventy-five dollars ($75.00), plus ten dollars ($10.00) for each additional day the rent remains unpaid, up to a maximum late charge of one hundred seventy-five dollars ($175.00) for that month",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 3,
+        "claimed_pages": [
+          2,
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Payments are applied first to unpaid fees and charges, then to past-due rent, then to current rent, regardless of any note written on the payment",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2,
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "On or before signing this Lease, Tenant shall pay a security deposit of one thousand six hundred fifty dollars ($1,650.00)",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Lawful deductions include unpaid rent, unpaid fees, the cost of repairing damage beyond normal wear and tear, the cost of removing property or trash left in the Premises, and any other charge this Lease states may be deducted from the Security Deposit",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall open accounts in Tenant's own name for electricity and gas effective on the Commencement Date ... If service lapses and Landlord pays to restore it, Tenant shall repay Landlord within ten (10) days of a written request",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 5,
+        "claimed_pages": [
+          5
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall keep the Premises heated to at least fifty-five degrees Fahrenheit (55°F) at all times from October 1 through April 30",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 5,
+        "claimed_pages": [
+          5
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant is responsible for the cost of repairing any damage caused by Tenant, occupants, guests or pets, other than normal wear and tear",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6,
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall replace light bulbs, smoke-detector batteries and HVAC filters at Tenant's own expense",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6,
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The cost of clearing a drain blocked by grease, wipes, hygiene products or similar items will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6,
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Any alteration made without consent may be removed by Landlord, and the cost of restoring the Premises will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6,
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If a repair was made necessary by Tenant's misuse or neglect, Landlord will charge Tenant the reasonable cost of the repair",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 8,
+        "claimed_pages": [
+          6,
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may end this Lease before the end of the Initial Term only by (a) giving Landlord written notice at least sixty (60) days before the date Tenant will move out, and (b) paying an early termination fee equal to two (2) months' Monthly Rent",
+        "kind": "bracket_insertion",
+        "inserted_brackets": [
+          "[$3,300]"
+        ],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The early termination fee is due with the notice. Rent remains due through the move-out date stated in the notice",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant moves out without following Section 8.1, Tenant remains liable for rent through the end of the Initial Term, less any rent Landlord receives from a replacement tenant, plus Landlord's reasonable costs of re-renting",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall indemnify Landlord against claims arising from the negligence of Tenant, occupants or guests in the Premises or the Common Areas",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 9,
+        "claimed_pages": [
+          9
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A request to sublet must be made in writing at least thirty (30) days before the proposed start of the sublease ... and must be accompanied by a nonrefundable sublease administration fee of one hundred dollars ($100.00)",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 9,
+        "claimed_pages": [
+          9,
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay a nonrefundable pet fee of three hundred dollars ($300.00) per household and monthly pet rent of forty dollars ($40.00) per cat, added to Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 10,
+        "claimed_pages": [
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "An unauthorized animal found in the Premises will result in a charge of fifty dollars ($50.00) per day until it is removed or a Pet Addendum is signed",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 10,
+        "claimed_pages": [
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The cost of cleaning, painting or replacing items to remove smoke odor or residue will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 11,
+        "claimed_pages": [
+          11,
+          12,
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Packages not collected within seven (7) days may be returned to the carrier",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 12,
+        "claimed_pages": [
+          11,
+          12,
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Replacement fobs cost twenty-five dollars ($25.00) each",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 12,
+        "claimed_pages": [
+          11,
+          12,
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay ninety-five dollars ($95.00) for each treatment of the Premises",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          11,
+          12,
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "unless the same pest is found in two or more neighboring units at the same time, in which case Landlord pays",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          11,
+          12,
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A treatment that cannot be completed because the Premises were not prepared will still be charged",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          11,
+          12,
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Landlord brings a legal action to enforce this Lease and wins, Tenant shall pay Landlord's reasonable attorney's fees and court costs to the extent allowed by law",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          13,
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Premises are considered abandoned if rent is unpaid for at least fifteen (15) days, Tenant appears to have moved out, and Tenant does not respond within five (5) days to a written notice",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant is responsible for reasonable costs of removal and storage",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Abandonment does not release Tenant from the obligation to pay rent through the end of the Term, less any rent Landlord receives from a replacement tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A notice sent by mail is effective three (3) days after mailing",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may add notes to the report for seven (7) days after move-in",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may request a pre-move-out inspection during the last fourteen (14) days of the Lease",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A carpet cleaning charge of one hundred fifty dollars ($150.00) will be deducted from the Security Deposit at move-out regardless of the condition of the carpet",
+        "kind": "trimmed_or_recased",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          15,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Keys not returned will be charged at the cost of rekeying the Premises",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          15,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant leaves property behind after move-out ... the cost will be deducted from the Security Deposit",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          15,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant stays in the Premises after the Lease ends without Landlord's written consent, Tenant shall pay rent for each day of holdover at one and one-half (1.5) times the daily rate of the Monthly Rent, and is responsible for any losses Landlord suffers",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          15,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If the casualty was caused by Tenant, occupants, guests or pets, rent does not abate and Tenant is responsible for the cost of repair to the extent not covered by Landlord's insurance",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 17,
+        "claimed_pages": [
+          17
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay for any fire department charge or damage resulting from Tenant disabling an alarm",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 17,
+        "claimed_pages": [
+          17
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "This Lease will automatically renew for an additional term of twelve (12) months unless either party gives the other written notice of non-renewal at least seventy-five (75) days before the last day of the Initial Term",
+        "kind": "trimmed_or_recased",
+        "inserted_brackets": [],
+        "real_page": 18,
+        "claimed_pages": [
+          18
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord may increase the Monthly Rent for a renewal term by up to six percent (6%) by giving Tenant written notice of the new rent at least ninety (90) days before the last day of the current term",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 18,
+        "claimed_pages": [
+          18
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Time is of the essence for all payment and notice deadlines in this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "may be changed only by a written amendment signed by Landlord and all Tenants",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      }
+    ]
+  },
+  {
+    "id": "clauses-cited",
+    "repeat": 2,
+    "quotes": 42,
+    "exact": 40,
+    "continuous_partial": 1,
+    "excerpt_with_ellipsis": 1,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 42,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": [
+      {
+        "quote": "Monthly Rent is due in advance on the first (1st) day of each calendar month without demand",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If the Commencement Date is not the first day of a month, rent for the first partial month shall be prorated on a daily basis and paid before Tenant receives keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A returned payment fee of thirty-five dollars ($35.00) is charged for each payment returned unpaid by a bank for any reason",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Landlord has not received the full Monthly Rent by 11:59 p.m. on the fifth (5th) day of the month, Tenant shall pay an initial late charge of seventy-five dollars ($75.00), plus ten dollars ($10.00) for each additional day the rent remains unpaid, up to a maximum late charge of one hundred seventy-five dollars ($175.00) for that month",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 3,
+        "claimed_pages": [
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "On or before signing this Lease, Tenant shall pay a security deposit of one thousand six hundred fifty dollars ($1,650.00) (the ⟨Security Deposit⟩)",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord will return the Security Deposit, less lawful deductions, together with an itemized list of any deductions, within thirty (30) days after Tenant surrenders the Premises and returns all keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant must give Landlord a forwarding address in writing",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If service lapses and Landlord pays to restore it, Tenant shall repay Landlord within ten (10) days of a written request",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 5,
+        "claimed_pages": [
+          5
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant is responsible for the cost of repairing any damage caused by Tenant, occupants, guests or pets, other than normal wear and tear",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall replace light bulbs, smoke-detector batteries and HVAC filters at Tenant's own expense",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The cost of clearing a drain blocked by grease, wipes, hygiene products or similar items will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Any alteration made without consent may be removed by Landlord, and the cost of restoring the Premises will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may end this Lease before the end of the Initial Term only by (a) giving Landlord written notice at least sixty (60) days before the date Tenant will move out, and (b) paying an early termination fee equal to two (2) months' Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The early termination fee is due with the notice. Rent remains due through the move-out date stated in the notice",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant moves out without following Section 8.1, Tenant remains liable for rent through the end of the Initial Term, less any rent Landlord receives from a replacement tenant, plus Landlord's reasonable costs of re-renting",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If a repair was made necessary by Tenant's misuse or neglect, Landlord will charge Tenant the reasonable cost of the repair",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 8,
+        "claimed_pages": [
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A request to sublet must be made in writing at least thirty (30) days before the proposed start of the sublease, must identify the proposed subtenant, and must be accompanied by a nonrefundable sublease administration fee of one hundred dollars ($100.00)",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 9,
+        "claimed_pages": [
+          9
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may keep up to two (2) cats after signing Landlord's Pet Addendum. Tenant shall pay a nonrefundable pet fee of three hundred dollars ($300.00) per household and monthly pet rent of forty dollars ($40.00) per cat, added to Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 10,
+        "claimed_pages": [
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "An unauthorized animal found in the Premises will result in a charge of fifty dollars ($50.00) per day until it is removed or a Pet Addendum is signed",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 10,
+        "claimed_pages": [
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The cost of cleaning, painting or replacing items to remove smoke odor or residue will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 11,
+        "claimed_pages": [
+          11
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Packages not collected within seven (7) days may be returned to the carrier",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 12,
+        "claimed_pages": [
+          12
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Replacement fobs cost twenty-five dollars ($25.00) each",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 12,
+        "claimed_pages": [
+          12
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord will treat the Premises for insects or rodents at no charge during the first thirty (30) days after the Commencement Date. After that period, Tenant shall pay ninety-five dollars ($95.00) for each treatment of the Premises, unless the same pest is found in two or more neighboring units at the same time, in which case Landlord pays",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A treatment that cannot be completed because the Premises were not prepared will still be charged",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A new rule takes effect thirty (30) days after written notice to Tenant",
+        "kind": "excerpt_with_ellipsis",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Landlord brings a legal action to enforce this Lease and wins, Tenant shall pay Landlord's reasonable attorney's fees and court costs to the extent allowed by law",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Premises are considered abandoned if rent is unpaid for at least fifteen (15) days, Tenant appears to have moved out, and Tenant does not respond within five (5) days to a written notice posted on the door and sent to Tenant's email address on file",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant is responsible for reasonable costs of removal and storage",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Abandonment does not release Tenant from the obligation to pay rent through the end of the Term, less any rent Landlord receives from a replacement tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A notice sent by mail is effective three (3) days after mailing",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may add notes to the report for seven (7) days after move-in",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may request a pre-move-out inspection during the last fourteen (14) days of the Lease to learn what Landlord expects to deduct from the Security Deposit",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Because carpets must be professionally cleaned between residents, a carpet cleaning charge of one hundred fifty dollars ($150.00) will be deducted from the Security Deposit at move-out regardless of the condition of the carpet",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Keys not returned will be charged at the cost of rekeying the Premises",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant leaves property behind after move-out, Landlord may store or dispose of it as the law allows, and the cost will be deducted from the Security Deposit",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay rent for each day of holdover at one and one-half (1.5) times the daily rate of the Monthly Rent, and is responsible for any losses Landlord suffers because the Premises were not available to a new tenant",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If the casualty was caused by Tenant, occupants, guests or pets, rent does not abate and Tenant is responsible for the cost of repair to the extent not covered by Landlord's insurance",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 17,
+        "claimed_pages": [
+          17
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay for any fire department charge or damage resulting from Tenant disabling an alarm",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 17,
+        "claimed_pages": [
+          17
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "At the end of the Initial Term, this Lease will automatically renew for an additional term of twelve (12) months unless either party gives the other written notice of non-renewal at least seventy-five (75) days before the last day of the Initial Term",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 18,
+        "claimed_pages": [
+          18
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord may increase the Monthly Rent for a renewal term by up to six percent (6%) by giving Tenant written notice of the new rent at least ninety (90) days before the last day of the current term",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 18,
+        "claimed_pages": [
+          18
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Security Deposit, less any lawful deductions, shall be returned within forty-five (45) days after the termination of this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If more than one person signs this Lease as Tenant, each person is responsible for the full amount of rent and all other obligations, not just a share",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      }
+    ]
+  },
+  {
+    "id": "clauses-cited",
+    "repeat": 3,
+    "quotes": 41,
+    "exact": 38,
+    "continuous_partial": 3,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 40,
+    "page_wrong": 1,
+    "page_unclaimed": 0,
+    "items": [
+      {
+        "quote": "Monthly Rent is due in advance on the first (1st) day of each calendar month without demand",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If the Commencement Date is not the first day of a month, rent for the first partial month shall be prorated on a daily basis and paid before Tenant receives keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A returned payment fee of thirty-five dollars ($35.00) is charged for each payment returned unpaid by a bank for any reason",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 2,
+        "claimed_pages": [
+          2
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Landlord has not received the full Monthly Rent by 11:59 p.m. on the fifth (5th) day of the month, Tenant shall pay an initial late charge of seventy-five dollars ($75.00), plus ten dollars ($10.00) for each additional day the rent remains unpaid, up to a maximum late charge of one hundred seventy-five dollars ($175.00) for that month",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 3,
+        "claimed_pages": [
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If rent is late in three (3) or more months during any twelve-month period, Landlord may require that all future rent be paid by cashier's check or money order",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 3,
+        "claimed_pages": [
+          3
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "On or before signing this Lease, Tenant shall pay a security deposit of one thousand six hundred fifty dollars ($1,650.00) (the ⟨Security Deposit⟩)",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord will return the Security Deposit, less lawful deductions, together with an itemized list of any deductions, within thirty (30) days after Tenant surrenders the Premises and returns all keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If service lapses and Landlord pays to restore it, Tenant shall repay Landlord within ten (10) days of a written request",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 5,
+        "claimed_pages": [
+          5
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant is responsible for the cost of repairing any damage caused by Tenant, occupants, guests or pets, other than normal wear and tear",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall replace light bulbs, smoke-detector batteries and HVAC filters at Tenant's own expense",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The cost of clearing a drain blocked by grease, wipes, hygiene products or similar items will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Any alteration made without consent may be removed by Landlord, and the cost of restoring the Premises will be charged to Tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 6,
+        "claimed_pages": [
+          6
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may end this Lease before the end of the Initial Term only by (a) giving Landlord written notice at least sixty (60) days before the date Tenant will move out, and (b) paying an early termination fee equal to two (2) months' Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant moves out without following Section 8.1, Tenant remains liable for rent through the end of the Initial Term, less any rent Landlord receives from a replacement tenant, plus Landlord's reasonable costs of re-renting",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If a repair was made necessary by Tenant's misuse or neglect, Landlord will charge Tenant the reasonable cost of the repair",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 8,
+        "claimed_pages": [
+          8
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A request to sublet must be made in writing at least thirty (30) days before the proposed start of the sublease, must identify the proposed subtenant, and must be accompanied by a nonrefundable sublease administration fee of one hundred dollars ($100.00)",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 9,
+        "claimed_pages": [
+          9
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay a nonrefundable pet fee of three hundred dollars ($300.00) per household and monthly pet rent of forty dollars ($40.00) per cat, added to Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 10,
+        "claimed_pages": [
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "An unauthorized animal found in the Premises will result in a charge of fifty dollars ($50.00) per day until it is removed or a Pet Addendum is signed",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 10,
+        "claimed_pages": [
+          10
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Replacement fobs cost twenty-five dollars ($25.00) each",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 12,
+        "claimed_pages": [
+          12
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "After that period, Tenant shall pay ninety-five dollars ($95.00) for each treatment of the Premises, unless the same pest is found in two or more neighboring units at the same time, in which case Landlord pays",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "A treatment that cannot be completed because the Premises were not prepared will still be charged",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant is in default if Tenant fails to pay rent or any other amount when due, fails to comply with any other term of this Lease after written notice and a reasonable time to cure, or gives false information on the rental application",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "a reasonable time to cure",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 13,
+        "claimed_pages": [
+          13
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Landlord brings a legal action to enforce this Lease and wins, Tenant shall pay Landlord's reasonable attorney's fees and court costs to the extent allowed by law",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Premises are considered abandoned if rent is unpaid for at least fifteen (15) days, Tenant appears to have moved out, and Tenant does not respond within five (5) days to a written notice posted on the door and sent to Tenant's email address on file",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Property left in abandoned Premises will be stored and disposed of as the law requires. Tenant is responsible for reasonable costs of removal and storage",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Abandonment does not release Tenant from the obligation to pay rent through the end of the Term, less any rent Landlord receives from a replacement tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 14,
+        "claimed_pages": [
+          14
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant may request a pre-move-out inspection during the last fourteen (14) days of the Lease to learn what Landlord expects to deduct from the Security Deposit",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 15,
+        "claimed_pages": [
+          15
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Because carpets must be professionally cleaned between residents, a carpet cleaning charge of one hundred fifty dollars ($150.00) will be deducted from the Security Deposit at move-out regardless of the condition of the carpet",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Keys not returned will be charged at the cost of rekeying the Premises",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant leaves property behind after move-out, Landlord may store or dispose of it as the law allows, and the cost will be deducted from the Security Deposit",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant stays in the Premises after the Lease ends without Landlord's written consent, Tenant shall pay rent for each day of holdover at one and one-half (1.5) times the daily rate of the Monthly Rent, and is responsible for any losses Landlord suffers because the Premises were not available to a new tenant",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If the casualty was caused by Tenant, occupants, guests or pets, rent does not abate and Tenant is responsible for the cost of repair to the extent not covered by Landlord's insurance",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 17,
+        "claimed_pages": [
+          17
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant shall pay for any fire department charge or damage resulting from Tenant disabling an alarm",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 17,
+        "claimed_pages": [
+          17
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "At the end of the Initial Term, this Lease will automatically renew for an additional term of twelve (12) months unless either party gives the other written notice of non-renewal at least seventy-five (75) days before the last day of the Initial Term",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 18,
+        "claimed_pages": [
+          18
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord may increase the Monthly Rent for a renewal term by up to six percent (6%) by giving Tenant written notice of the new rent at least ninety (90) days before the last day of the current term",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 18,
+        "claimed_pages": [
+          18
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Security Deposit, less any lawful deductions, shall be returned within forty-five (45) days after the termination of this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Landlord will return the Security Deposit, less lawful deductions, together with an itemized list of any deductions, within thirty (30) days after Tenant surrenders the Premises and returns all keys",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          4
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The Security Deposit, less any lawful deductions, shall be returned within forty-five (45) days after the termination of this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Tenant surrenders the Premises and returns all keys",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 4,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": false
+      },
+      {
+        "quote": "termination of this Lease",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 19,
+        "claimed_pages": [
+          19
+        ],
+        "page_ok": true
+      }
+    ]
+  },
+  {
+    "id": "two-questions",
+    "repeat": 1,
+    "quotes": 5,
+    "exact": 4,
+    "continuous_partial": 0,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 1,
+    "not_found": 0,
+    "page_ok": 4,
+    "page_wrong": 0,
+    "page_unclaimed": 1,
+    "items": [
+      {
+        "quote": "Early Termination by Tenant",
+        "kind": "trimmed_or_recased",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [],
+        "page_ok": null
+      },
+      {
+        "quote": "Tenant may end this Lease before the end of the Initial Term only by (a) giving Landlord written notice at least sixty (60) days before the date Tenant will move out, and (b) paying an early termination fee equal to two (2) months' Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The early termination fee is due with the notice. Rent remains due through the move-out date stated in the notice",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Paying the early termination fee does not release Tenant from charges for damage to the Premises or from any other amount owed under this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "At move-out, Tenant shall leave the Premises clean, remove all personal property and trash, and return all keys, fobs and parking or access cards",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      }
+    ]
+  },
+  {
+    "id": "two-questions",
+    "repeat": 2,
+    "quotes": 4,
+    "exact": 3,
+    "continuous_partial": 1,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 4,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": [
+      {
+        "quote": "Tenant may end this Lease before the end of the Initial Term only by (a) giving Landlord written notice at least sixty (60) days before the date Tenant will move out, and (b) paying an early termination fee equal to two (2) months' Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The early termination fee is due with the notice. Rent remains due through the move-out date stated in the notice",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Paying the early termination fee does not release Tenant from charges for damage to the Premises or from any other amount owed under this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7,
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "all keys, fobs and parking or access cards",
+        "kind": "continuous_partial",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      }
+    ]
+  },
+  {
+    "id": "two-questions",
+    "repeat": 3,
+    "quotes": 5,
+    "exact": 5,
+    "continuous_partial": 0,
+    "excerpt_with_ellipsis": 0,
+    "bracket_insertion": 0,
+    "trimmed_or_recased": 0,
+    "not_found": 0,
+    "page_ok": 5,
+    "page_wrong": 0,
+    "page_unclaimed": 0,
+    "items": [
+      {
+        "quote": "Tenant may end this Lease before the end of the Initial Term only by (a) giving Landlord written notice at least sixty (60) days before the date Tenant will move out, and (b) paying an early termination fee equal to two (2) months' Monthly Rent",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "The early termination fee is due with the notice. Rent remains due through the move-out date stated in the notice",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Paying the early termination fee does not release Tenant from charges for damage to the Premises or from any other amount owed under this Lease",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "Carpet Cleaning. Because carpets must be professionally cleaned between residents, a carpet cleaning charge of one hundred fifty dollars ($150.00) will be deducted from the Security Deposit at move-out regardless of the condition of the carpet",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 16,
+        "claimed_pages": [
+          16
+        ],
+        "page_ok": true
+      },
+      {
+        "quote": "If Tenant moves out without following Section 8.1, Tenant remains liable for rent through the end of the Initial Term, less any rent Landlord receives from a replacement tenant, plus Landlord's reasonable costs of re-renting",
+        "kind": "exact",
+        "inserted_brackets": [],
+        "real_page": 7,
+        "claimed_pages": [
+          7
+        ],
+        "page_ok": true
+      }
+    ]
+  }
+]

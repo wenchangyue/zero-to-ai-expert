@@ -108,6 +108,19 @@ What this lesson covers:
 - Spot a draft that claims, in your voice, that you have already done something.
 - Use an assumptions list as a checklist rather than as a safety net.
 
+### One of Three AI Summaries Left Out a Fee. How Would You Know?
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/one-summary-left-out-a-fee/
+
+A summary shows what the model chose to include; it cannot show what it left out. In this test, three summaries of the same 4,102-word lease all caught the automatic renewal, the carpet charge and the two deposit deadlines, but one of the three never mentioned the $95 pest charge, and another stated the default rule wrongly with no quote to check. Asking instead "which clauses cost me money or set a deadline, with the page and the exact sentence" produced answers that mentioned all twelve listed clauses, and every quoted passage could be checked: of 129, 110 were whole sentences or clauses word for word, none was missing from the lease, and no page number was wrong. Check the quotes that matter to your decision, and read the section around the clause you act on.
+
+What this lesson covers:
+
+- Replace "summarize this" with the question you actually need answered.
+- Ask for a page number and an exact quote for every point, so each one can be checked.
+- Check a quote by searching the document for a few distinctive words and reading around the match.
+- Know what a quote check cannot tell you, which is what the answer left out.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
