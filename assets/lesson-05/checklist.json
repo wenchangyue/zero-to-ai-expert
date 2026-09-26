@@ -1,0 +1,86 @@
+[
+ {
+  "id": "date",
+  "item": "Event date is Oct 17 (Oct 10 superseded: gym booked)",
+  "trap": "superseded date"
+ },
+ {
+  "id": "place",
+  "item": "Community center gym"
+ },
+ {
+  "id": "hours",
+  "item": "9-1"
+ },
+ {
+  "id": "goal",
+  "item": "Goal 2000 lbs vs maybe 1500: not decided",
+  "trap": "undecided number"
+ },
+ {
+  "id": "vol-need",
+  "item": "Need ~40 volunteers"
+ },
+ {
+  "id": "vol-have",
+  "item": "23 signed up"
+ },
+ {
+  "id": "budget",
+  "item": "Budget $300 from association"
+ },
+ {
+  "id": "flyer-cost",
+  "item": "Flyer quote now $95 (was $85)",
+  "trap": "superseded price"
+ },
+ {
+  "id": "flyers",
+  "item": "Priya: flyers by Oct 3"
+ },
+ {
+  "id": "boxes",
+  "item": "Marcus asks Fresh Mart for boxes; no date",
+  "trap": "no date"
+ },
+ {
+  "id": "insurance",
+  "item": "Sam: insurance form 1 week before event"
+ },
+ {
+  "id": "foodbank-call",
+  "item": "Someone to call food bank re truck pickup; no owner",
+  "trap": "no owner"
+ },
+ {
+  "id": "tables",
+  "item": "J (Jen or Jordan, unclear) asks about folding tables",
+  "trap": "ambiguous name"
+ },
+ {
+  "id": "signup",
+  "item": "Dana sets up sign-up sheet 'next week'; no calendar date",
+  "trap": "relative date"
+ },
+ {
+  "id": "cash",
+  "item": "Cash donations: open, treasurer to check"
+ },
+ {
+  "id": "parking",
+  "item": "Truck parking: open, center to get back"
+ },
+ {
+  "id": "glass",
+  "item": "No glass jars (food bank rule)"
+ },
+ {
+  "id": "truck",
+  "item": "Truck ~1200 lbs per trip"
+ },
+ {
+  "id": "bakesale",
+  "item": "Bake sale dropped",
+  "trap": "dropped plan"
+ }
+]

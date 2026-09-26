@@ -1,0 +1,135 @@
+{
+  "source": "test-notes.txt",
+  "source_dates": [
+    "10/10",
+    "10/17",
+    "10/3",
+    "9/11",
+    "9/15",
+    "9/8"
+  ],
+  "source_numbers": [
+    1,
+    2,
+    3,
+    8,
+    9,
+    10,
+    11,
+    15,
+    17,
+    23,
+    40,
+    85,
+    95,
+    300,
+    1200,
+    1400,
+    1500,
+    2000
+  ],
+  "runs": [
+    {
+      "id": "bare",
+      "repeat": 1,
+      "words": 377,
+      "dates_found": 7,
+      "numbers_found": 18,
+      "dates_not_in_notes": [
+        "9/26"
+      ],
+      "years_not_in_notes": [
+        "2026"
+      ],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "bare",
+      "repeat": 2,
+      "words": 358,
+      "dates_found": 8,
+      "numbers_found": 18,
+      "dates_not_in_notes": [
+        "9/26"
+      ],
+      "years_not_in_notes": [
+        "2026"
+      ],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "bare",
+      "repeat": 3,
+      "words": 395,
+      "dates_found": 7,
+      "numbers_found": 18,
+      "dates_not_in_notes": [
+        "9/26"
+      ],
+      "years_not_in_notes": [
+        "2026"
+      ],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "rules",
+      "repeat": 1,
+      "words": 426,
+      "dates_found": 10,
+      "numbers_found": 18,
+      "dates_not_in_notes": [],
+      "years_not_in_notes": [],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "rules",
+      "repeat": 2,
+      "words": 405,
+      "dates_found": 9,
+      "numbers_found": 22,
+      "dates_not_in_notes": [],
+      "years_not_in_notes": [],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "rules",
+      "repeat": 3,
+      "words": 476,
+      "dates_found": 12,
+      "numbers_found": 17,
+      "dates_not_in_notes": [],
+      "years_not_in_notes": [],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "rules-order",
+      "repeat": 1,
+      "words": 533,
+      "dates_found": 12,
+      "numbers_found": 31,
+      "dates_not_in_notes": [],
+      "years_not_in_notes": [],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "rules-order",
+      "repeat": 2,
+      "words": 491,
+      "dates_found": 10,
+      "numbers_found": 28,
+      "dates_not_in_notes": [],
+      "years_not_in_notes": [],
+      "numbers_not_in_notes": []
+    },
+    {
+      "id": "rules-order",
+      "repeat": 3,
+      "words": 496,
+      "dates_found": 11,
+      "numbers_found": 24,
+      "dates_not_in_notes": [],
+      "years_not_in_notes": [],
+      "numbers_not_in_notes": []
+    }
+  ]
+}

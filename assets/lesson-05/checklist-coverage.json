@@ -1,0 +1,88 @@
+{
+ "patterns": {
+  "date": "oct(ober)?\\.? 17",
+  "place": "community center",
+  "hours": "9(:00)?\\s*(am)?\\s*[-\u2013to]+\\s*1",
+  "goal": "1,?500",
+  "vol-need": "40",
+  "vol-have": "23",
+  "budget": "\\$300",
+  "flyer-cost": "\\$95",
+  "flyers": "oct\\.? 3",
+  "boxes": "fresh mart",
+  "insurance": "insurance",
+  "foodbank-call": "food bank.{0,40}(pickup|pick-up)|pickup.{0,40}food bank",
+  "tables": "tables",
+  "signup": "sign-?up sheet",
+  "cash": "cash",
+  "parking": "parking",
+  "glass": "glass",
+  "truck": "1,?200",
+  "bakesale": "bake sale"
+ },
+ "note": "regex presence per planted item; confirmed by reading each output",
+ "runs": [
+  {
+   "id": "bare",
+   "repeat": 1,
+   "present": 19,
+   "missing": []
+  },
+  {
+   "id": "bare",
+   "repeat": 2,
+   "present": 19,
+   "missing": []
+  },
+  {
+   "id": "bare",
+   "repeat": 3,
+   "present": 19,
+   "missing": []
+  },
+  {
+   "id": "rules",
+   "repeat": 1,
+   "present": 17,
+   "missing": [
+    "budget",
+    "truck"
+   ]
+  },
+  {
+   "id": "rules",
+   "repeat": 2,
+   "present": 18,
+   "missing": [
+    "budget"
+   ]
+  },
+  {
+   "id": "rules",
+   "repeat": 3,
+   "present": 17,
+   "missing": [
+    "budget",
+    "truck"
+   ]
+  },
+  {
+   "id": "rules-order",
+   "repeat": 1,
+   "present": 19,
+   "missing": []
+  },
+  {
+   "id": "rules-order",
+   "repeat": 2,
+   "present": 19,
+   "missing": []
+  },
+  {
+   "id": "rules-order",
+   "repeat": 3,
+   "present": 19,
+   "missing": []
+  }
+ ]
+}

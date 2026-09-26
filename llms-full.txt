@@ -121,6 +121,19 @@ What this lesson covers:
 - Check a quote by searching the document for a few distinctive words and reading around the match.
 - Know what a quote check cannot tell you, which is what the answer left out.
 
+### I Asked AI to Clean Up My Notes. It Added a Deadline Nobody Set.
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-added-a-deadline-nobody-set/
+
+A tidy AI report can contain things your notes never said and leave out things they did, with nothing on the page to tell you which. In this test, three plain "turn these notes into a clean report" runs handled the changed date, the dropped plan and the unclear name, but all three added a "prepared" date with a year the notes do not contain, two added their own next-steps lists, and one gave the goal an owner and put a deadline a week earlier than the notes. A prompt with sections and "use only what the notes say" stopped most additions but dropped the $300 budget in all three runs and called a settled price change a disagreement. Adding "the notes are in time order: a later note replaces an earlier one unless it says otherwise" gave the current price in all three runs. Before you send the report, go from the notes to the report line by line, then check every name, number and date in the report against the notes, and read the lines that need judgment side by side.
+
+What this lesson covers:
+
+- Tell the model which sections you want and to use only what the notes say.
+- Ask for "not in notes" when an owner or date is missing, instead of a guess.
+- Check the report against the notes in both directions before sending it.
+- Know why finding a word in the notes does not prove the report put it in the right place.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

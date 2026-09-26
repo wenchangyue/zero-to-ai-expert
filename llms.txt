@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-09-25
+Updated: 2026-09-26
 
 ## Main pages
 
@@ -25,6 +25,7 @@ Updated: 2026-09-25
 - [Where AI Actually Gets Things Wrong (I Checked 8 Answers)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/where-ai-actually-gets-it-wrong/)
 - [I Asked AI for the Same Email 4 Ways. It Wrote a Sentence I Never Said.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/the-sentence-it-wrote-that-i-never-said/)
 - [One of Three AI Summaries Left Out a Fee. How Would You Know?](https://wenchangyue.github.io/zero-to-ai-expert/lessons/one-summary-left-out-a-fee/)
+- [I Asked AI to Clean Up My Notes. It Added a Deadline Nobody Set.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-added-a-deadline-nobody-set/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use
