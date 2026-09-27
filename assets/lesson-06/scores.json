@@ -1,0 +1,468 @@
+{
+ "rubric": "fact-sheet.md (fixed before any run). Unit = one dinner. Revised after gate round 1 (2026-09-27): a code counts as 'fails' only when the text itself shows the problem; when the method or spice level is not stated it is recorded under 'unclear' and not counted. Chili without a stated spice level -> S4 unclear. Pizza and cornbread with no stated method -> S2 unclear. This only lowers the plain counts. Weeknight times are the model's own labels; nothing was cooked.",
+ "plans": [
+  {
+   "run": "plain#1",
+   "days": 7,
+   "dinners": [
+    {
+     "day": "Mon",
+     "dish": "Baked lemon garlic chicken thighs + roasted broccoli + rice (sheet-pan)",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "day": "Tue",
+     "dish": "Turkey or veggie chili",
+     "fails": [],
+     "note": "veggie option passes S1; chili spice level not stated (unclear)",
+     "unclear": [
+      "S4"
+     ],
+     "unclear_note": "chili, spice level not stated"
+    },
+    {
+     "day": "Wed",
+     "dish": "Stir-fry (tofu or beef) over noodles, ~25 min",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Sheet-pan salmon + asparagus + roasted potatoes",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "day": "Fri",
+     "dish": "Homemade pizza night",
+     "fails": [
+      "S5"
+     ],
+     "unclear": [
+      "S2"
+     ],
+     "unclear_note": "homemade pizza, method not stated"
+    },
+    {
+     "day": "Sat",
+     "dish": "Tacos (chicken, beef, or black bean)",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Slow-cooker pot roast + mashed potatoes + green beans",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    }
+   ],
+   "times_given_weeknights": 1,
+   "closing_offer": "tailor to dietary preferences (vegetarian, low-carb, budget-friendly, kid-friendly, etc.) or a number of servings"
+  },
+  {
+   "run": "plain#2",
+   "days": 7,
+   "dinners": [
+    {
+     "day": "Mon",
+     "dish": "Baked lemon herb chicken thighs + roasted broccoli + rice",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "day": "Tue",
+     "dish": "Beef or veggie tacos with slaw, salsa, black beans",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "One-pan salmon with garlic butter + asparagus + baby potatoes",
+     "fails": [
+      "S1"
+     ],
+     "note": "'one-pan' does not say oven, so S2 not counted"
+    },
+    {
+     "day": "Thu",
+     "dish": "Vegetarian stir-fry (tofu) over noodles",
+     "fails": []
+    },
+    {
+     "day": "Fri",
+     "dish": "Homemade pizza night",
+     "fails": [
+      "S5"
+     ],
+     "unclear": [
+      "S2"
+     ],
+     "unclear_note": "homemade pizza, method not stated"
+    },
+    {
+     "day": "Sat",
+     "dish": "Turkey or lentil chili with cornbread",
+     "fails": [],
+     "note": "lentil option passes S1; cornbread method not stated (unclear)",
+     "unclear": [
+      "S2",
+      "S4"
+     ],
+     "unclear_note": "cornbread method not stated; chili spice level not stated"
+    },
+    {
+     "day": "Sun",
+     "dish": "Roast chicken (or rotisserie) with mashed potatoes and green beans",
+     "fails": [
+      "S1"
+     ],
+     "note": "rotisserie alternative avoids the oven, so S2 not counted"
+    }
+   ],
+   "times_given_weeknights": 0,
+   "general_tip": "Swap any meat-based meal for a plant-based version by using tofu, beans, or lentils (a blanket tip, not a version of any dinner; not counted as passing S1)",
+   "closing_offer": "tailor to specific dietary needs (vegetarian, low-carb, gluten-free, etc.), a budget, or how many people",
+   "general_tip_note": "Acknowledged in narration."
+  },
+  {
+   "run": "plain#3",
+   "days": 7,
+   "dinners": [
+    {
+     "day": "Mon",
+     "dish": "Garlic butter chicken with roasted broccoli and rice",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "day": "Tue",
+     "dish": "Veggie stir-fry with tofu and noodles",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Baked salmon with lemon, asparagus, quinoa",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    },
+    {
+     "day": "Thu",
+     "dish": "Turkey chili with cornbread",
+     "fails": [
+      "S1"
+     ],
+     "unclear": [
+      "S2",
+      "S4"
+     ],
+     "unclear_note": "cornbread method not stated; chili spice level not stated"
+    },
+    {
+     "day": "Fri",
+     "dish": "Homemade pizza night",
+     "fails": [
+      "S5"
+     ],
+     "unclear": [
+      "S2"
+     ],
+     "unclear_note": "homemade pizza, method not stated"
+    },
+    {
+     "day": "Sat",
+     "dish": "Beef or black bean tacos with slaw and salsa",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Sheet-pan sausage, peppers, and potatoes",
+     "fails": [
+      "S1",
+      "S2"
+     ]
+    }
+   ],
+   "times_given_weeknights": 0,
+   "closing_offer": "tailor, e.g. vegetarian only, budget-friendly, low-carb, quick (<30 min) meals"
+  },
+  {
+   "run": "told#1",
+   "days": 6,
+   "dinners": [
+    {
+     "day": "Sat",
+     "dish": "Coconut chickpea curry & rice (~50 min), 'mild, not spicy — just curry powder, no chili'",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Stovetop 'baked' ziti (~45 min)",
+     "fails": []
+    },
+    {
+     "day": "Mon",
+     "dish": "Black bean & rice bowls (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Tue",
+     "dish": "Tomato butter pasta with peas (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Veggie egg fried rice (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Quick red lentil soup (25 min)",
+     "fails": []
+    }
+   ],
+   "times_given_weeknights": 4
+  },
+  {
+   "run": "told#2",
+   "days": 6,
+   "dinners": [
+    {
+     "day": "Sat",
+     "dish": "Fried rice (~30 min)",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Veggie lentil soup + grilled cheese (~55 min)",
+     "fails": []
+    },
+    {
+     "day": "Mon",
+     "dish": "Butter pea parmesan pasta (~20 min)",
+     "fails": []
+    },
+    {
+     "day": "Tue",
+     "dish": "Build-your-own rice bowls (~20 min)",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Egg drop noodle soup with tofu (~20 min)",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Creamy tomato pasta with spinach (~20 min)",
+     "fails": []
+    }
+   ],
+   "times_given_weeknights": 4,
+   "ambiguity": "shopping list says 'veggie/chicken bouillon or broth'; the Sunday lentil soup step says only 'broth'. A vegetarian option is offered; not scored as a failure."
+  },
+  {
+   "run": "told#3",
+   "days": 6,
+   "dinners": [
+    {
+     "day": "Sat",
+     "dish": "Vegetable fried rice (~40 min)",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "One-pot minestrone with cheese tortellini (~50 min)",
+     "fails": []
+    },
+    {
+     "day": "Mon",
+     "dish": "Garlic butter pasta with peas & parmesan (~20 min)",
+     "fails": []
+    },
+    {
+     "day": "Tue",
+     "dish": "Black bean & cheese quesadillas + corn-tomato salad (~20 min)",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Mild coconut chickpea & spinach stew over rice (~25 min)",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Creamy tomato soup + grilled cheese (~20 min)",
+     "fails": []
+    }
+   ],
+   "times_given_weeknights": 4
+  },
+  {
+   "run": "interview-1",
+   "days": 6,
+   "dinners": [
+    {
+     "day": "Sat",
+     "dish": "Vegetable & white bean minestrone + grilled cheese",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Skillet 'baked' ziti",
+     "fails": []
+    },
+    {
+     "day": "Mon",
+     "dish": "Veggie fried rice (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Tue",
+     "dish": "Simple tomato butter pasta (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Quick lentil & spinach soup (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Black bean & cheese rice bowls (25 min)",
+     "fails": []
+    }
+   ],
+   "times_given_weeknights": 4,
+   "ambiguity": "Wednesday optional add-in: 'add sliced kielbasa or diced ham while simmering (separately for your bowl if partner wants meat-free)' although the partner was stated to be vegetarian. Optional line; not scored."
+  },
+  {
+   "run": "interview-2",
+   "days": 6,
+   "dinners": [
+    {
+     "day": "Sat",
+     "dish": "Tomato soup + grilled cheese",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Stovetop vegetable lasagna soup",
+     "fails": []
+    },
+    {
+     "day": "Mon",
+     "dish": "Egg fried rice bowl (<=25 min)",
+     "fails": []
+    },
+    {
+     "day": "Tue",
+     "dish": "One-pot tomato basil pasta with white beans & spinach (<=25 min)",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Quick lentil & vegetable soup (<=25 min)",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Black bean & corn rice bowl (<=25 min)",
+     "fails": []
+    }
+   ],
+   "times_given_weeknights": 4,
+   "note": "plan came on turn 3, after one extra question (all-vegetarian or vegetarian base plus meat)"
+  },
+  {
+   "run": "interview-3",
+   "days": 6,
+   "dinners": [
+    {
+     "day": "Sat",
+     "dish": "Minestrone soup with crusty bread",
+     "fails": []
+    },
+    {
+     "day": "Sun",
+     "dish": "Build-your-own veggie & fried egg rice bowls",
+     "fails": []
+    },
+    {
+     "day": "Mon",
+     "dish": "Garlic butter pasta with peas & parmesan (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Tue",
+     "dish": "Quick veggie egg fried rice (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Wed",
+     "dish": "Tomato soup + stovetop grilled cheese (25 min)",
+     "fails": []
+    },
+    {
+     "day": "Thu",
+     "dish": "Sesame noodle bowl (warm) (25 min)",
+     "fails": []
+    }
+   ],
+   "times_given_weeknights": 4
+  }
+ ],
+ "questions": {
+  "interview-1": {
+   "asked": 9,
+   "facts_reached": [
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+   ],
+   "answered_no_preference": [
+    7
+   ]
+  },
+  "interview-2": {
+   "asked": 9,
+   "extra_round": 1,
+   "facts_reached": [
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+   ],
+   "answered_no_preference": [
+    6,
+    "turn-3 question"
+   ]
+  },
+  "interview-3": {
+   "asked": 10,
+   "facts_reached": [
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+   ],
+   "answered_no_preference": [
+    7,
+    9
+   ]
+  }
+ }
+}

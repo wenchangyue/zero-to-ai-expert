@@ -1,0 +1,4 @@
+[
+ {"id": "plain", "kind": "plain", "prompt": "Make me a weekly dinner plan."},
+ {"id": "told", "kind": "told", "prompt": "Make me a weekly dinner plan. I'm cooking for three: me, my partner and our 6-year-old. My partner is vegetarian (no meat or fish; eggs and dairy are fine), and there are no allergies. Our kitchen has a two-burner stove and a microwave, with no oven, air fryer, slow cooker or pressure cooker. Monday to Thursday, dinner has to be on the table within 25 minutes; on weekends up to an hour is fine. Our 6-year-old won't eat anything spicy. Friday is takeout, so I only need Saturday to Thursday. I shop once a week on Sunday, and I'd like it cheap-ish. We like pasta, rice bowls and soups, and I can follow a recipe but nothing fancy."}
+]

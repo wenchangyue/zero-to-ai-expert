@@ -134,6 +134,19 @@ What this lesson covers:
 - Check the report against the notes in both directions before sending it.
 - Know why finding a word in the notes does not prove the report put it in the right place.
 
+### I Asked AI for a Week of Dinners. Most Nights Wouldn't Have Worked.
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/make-ai-ask-you-first/
+
+When a request depends on facts about you that you did not give, the model fills them in with common defaults. Asked in six words for a week of dinners, three plans for a family with a vegetarian partner, no oven, a 25-minute weeknight limit, a child who eats nothing spicy and takeout on Friday clearly broke at least one of those facts on four, four and five of seven nights. Adding "Before you write it, ask me whatever you need to know, and wait for my answers" produced 9, 9 and 10 questions that reached all five facts, and after I answered them the plans had no clear failure on the same checks. Putting every fact in the first message did the same, for about the same amount of typing. Ask it to question you when you are not sure which details matter; either way, check the answer against the few things that would make it fail for you.
+
+What this lesson covers:
+
+- Recognize when an answer depends on facts about you that the model does not have.
+- Use one line that makes the model ask before it answers.
+- Decide between telling everything up front and letting it ask.
+- Check any plan against the three to five things that would make it fail for you.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
