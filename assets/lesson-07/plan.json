@@ -1,0 +1,45 @@
+{
+ "log": "runs.json",
+ "repeats": 3,
+ "conversations": [
+  {
+   "name": "B",
+   "turns": [
+    "final.txt"
+   ]
+  },
+  {
+   "name": "C",
+   "turns": [
+    "brief-plus-final.txt"
+   ]
+  },
+  {
+   "name": "D",
+   "turns": [
+    "setup.txt",
+    "paste.txt",
+    "final.txt"
+   ]
+  },
+  {
+   "name": "A",
+   "turns": [
+    "setup.txt",
+    "filler-01.txt",
+    "filler-02.txt",
+    "filler-03.txt",
+    "filler-04.txt",
+    "filler-05.txt",
+    "filler-06.txt",
+    "filler-07.txt",
+    "filler-08.txt",
+    "filler-09.txt",
+    "filler-10.txt",
+    "filler-11.txt",
+    "filler-12.txt",
+    "final.txt"
+   ]
+  }
+ ]
+}

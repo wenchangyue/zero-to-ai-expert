@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-09-27
+Updated: 2026-09-28
 
 ## Main pages
 
@@ -27,6 +27,7 @@ Updated: 2026-09-27
 - [One of Three AI Summaries Left Out a Fee. How Would You Know?](https://wenchangyue.github.io/zero-to-ai-expert/lessons/one-summary-left-out-a-fee/)
 - [I Asked AI to Clean Up My Notes. It Added a Deadline Nobody Set.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-added-a-deadline-nobody-set/)
 - [I Asked AI for a Week of Dinners. Most Nights Wouldn't Have Worked.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/make-ai-ask-you-first/)
+- [AI Kept What I Told It Through 180,000 Tokens. A New Chat Had None of It.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-kept-it-a-new-chat-never-had-it/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

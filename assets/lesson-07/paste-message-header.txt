@@ -1,0 +1,1 @@
+Here is our building's maintenance log. Which three issue types appear most often? Just list them.

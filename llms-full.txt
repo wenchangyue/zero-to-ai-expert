@@ -147,6 +147,19 @@ What this lesson covers:
 - Decide between telling everything up front and letting it ask.
 - Check any plan against the three to five things that would make it fail for you.
 
+### AI Kept What I Told It Through 180,000 Tokens. A New Chat Had None of It.
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-kept-it-a-new-chat-never-had-it/
+
+In this test it did not forget inside the chat. Four facts given in the first message were used in every answer after twelve unrelated requests, and, in a separate test, after a pasted 4,000-entry log that brought the input to about 180,000 tokens. In a new chat that never contained the facts, 7 of 23 listed options clearly broke one. Pasting a 61-word note of the facts at the top of a new chat brought them back in every answer. When AI seems to have forgotten something, first check whether the chat you are in actually contains it. What happens past an app's limit, and cases where the facts are present but overlooked, were not tested.
+
+What this lesson covers:
+
+- Understand that each reply is produced with the conversation so far as its input.
+- Know what a token and a context window are, and that limits differ by model and app.
+- Keep a short note of your situation and paste it at the top of a new chat.
+- Check first whether the chat actually contains what you told it.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

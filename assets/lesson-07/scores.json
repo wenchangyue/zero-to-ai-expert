@@ -1,0 +1,305 @@
+{
+ "rubric": "design.md (fixed before any run; unit = one answer). A failure counts only when the text clearly shows it. By that unit, B is 3/3 answers with at least one clear failure. Added as a descriptive count after the run: B answers are lists, so their listed options were also counted (7 of 23); A, C, D answers are scored per answer (main dish plus any alternative).",
+ "context_window_reported": [
+  1000000
+ ],
+ "model_reported": [
+  "claude-sonnet-5"
+ ],
+ "answers": [
+  {
+   "conv": "A-1",
+   "version": "A",
+   "turn": 14,
+   "context_tokens_at_question": 2626,
+   "words": 76,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "A-2",
+   "version": "A",
+   "turn": 14,
+   "context_tokens_at_question": 2623,
+   "words": 115,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": [
+    "optional side 'frozen dumplings' may contain meat (F1 unclear)"
+   ]
+  },
+  {
+   "conv": "A-3",
+   "version": "A",
+   "turn": 14,
+   "context_tokens_at_question": 2698,
+   "words": 113,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "B-1",
+   "version": "B",
+   "turn": 1,
+   "context_tokens_at_question": 642,
+   "words": 111,
+   "facts_named": [],
+   "suggestions": [
+    {
+     "text": "Stir-fry with whatever veggies/protein you have",
+     "fails": []
+    },
+    {
+     "text": "Sheet-pan chicken and vegetables",
+     "fails": [
+      "F1",
+      "F2"
+     ]
+    },
+    {
+     "text": "Pasta aglio e olio or a simple tomato sauce",
+     "fails": []
+    },
+    {
+     "text": "Quesadillas or tacos",
+     "fails": []
+    },
+    {
+     "text": "Sheet-pan salmon with roasted potatoes and asparagus",
+     "fails": [
+      "F1",
+      "F2"
+     ]
+    },
+    {
+     "text": "One-pot chili or soup",
+     "fails": []
+    },
+    {
+     "text": "Stuffed peppers or a quick curry",
+     "fails": []
+    },
+    {
+     "text": "Big salad with rotisserie chicken",
+     "fails": [
+      "F1"
+     ]
+    },
+    {
+     "text": "Grain bowl with whatever's in the fridge",
+     "fails": []
+    }
+   ],
+   "unclear": [
+    "One-pot chili or soup: spice level not stated (F4 unclear)",
+    "a quick curry: spice level not stated (F4 unclear)",
+    "Stuffed peppers: method not stated (F2 unclear)"
+   ],
+   "closing_quote": "If you tell me what you have on hand (or dietary preferences)",
+   "clear_fail_suggestions": 3
+  },
+  {
+   "conv": "B-2",
+   "version": "B",
+   "turn": 1,
+   "context_tokens_at_question": 644,
+   "words": 126,
+   "facts_named": [],
+   "suggestions": [
+    {
+     "text": "Stir-fry with whatever veggies/protein you have on hand",
+     "fails": []
+    },
+    {
+     "text": "Pasta with a simple garlic-butter or tomato sauce",
+     "fails": []
+    },
+    {
+     "text": "Tacos with ground beef, chicken, or beans",
+     "fails": []
+    },
+    {
+     "text": "A big salad with grilled chicken or chickpeas",
+     "fails": []
+    },
+    {
+     "text": "Sheet-pan dinner — toss chicken thighs and chopped vegetables with olive oil and seasoning, roast at 425°F for ~25-30 min",
+     "fails": [
+      "F1",
+      "F2",
+      "F3"
+     ]
+    }
+   ],
+   "unclear": [],
+   "closing_quote": "your dietary preferences, or how much time you want to spend cooking",
+   "clear_fail_suggestions": 1
+  },
+  {
+   "conv": "B-3",
+   "version": "B",
+   "turn": 1,
+   "context_tokens_at_question": 646,
+   "words": 118,
+   "facts_named": [],
+   "suggestions": [
+    {
+     "text": "Taco Tuesday! Ground beef/chicken or black beans",
+     "fails": []
+    },
+    {
+     "text": "Stir-fry with whatever veggies + protein you have",
+     "fails": []
+    },
+    {
+     "text": "Pasta with garlic, olive oil, parmesan, and red pepper flakes (15 min)",
+     "fails": [
+      "F4"
+     ]
+    },
+    {
+     "text": "Sheet-pan chicken thighs with roasted veggies",
+     "fails": [
+      "F1",
+      "F2"
+     ]
+    },
+    {
+     "text": "Grilled cheese + tomato soup",
+     "fails": []
+    },
+    {
+     "text": "One-pot chili",
+     "fails": []
+    },
+    {
+     "text": "Big salad with grilled chicken/chickpeas",
+     "fails": []
+    },
+    {
+     "text": "Salmon with a side of roasted asparagus",
+     "fails": [
+      "F1",
+      "F2"
+     ]
+    },
+    {
+     "text": "Veggie stir-fry with tofu",
+     "fails": []
+    }
+   ],
+   "unclear": [
+    "One-pot chili: spice level not stated (F4 unclear)"
+   ],
+   "closing_quote": "any dietary preferences/time constraints",
+   "clear_fail_suggestions": 3
+  },
+  {
+   "conv": "C-1",
+   "version": "C",
+   "turn": 1,
+   "context_tokens_at_question": 777,
+   "words": 285,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "C-2",
+   "version": "C",
+   "turn": 1,
+   "context_tokens_at_question": 774,
+   "words": 302,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "C-3",
+   "version": "C",
+   "turn": 1,
+   "context_tokens_at_question": 775,
+   "words": 302,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "D-1",
+   "version": "D",
+   "turn": 3,
+   "context_tokens_at_question": 176810,
+   "words": 146,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "D-2",
+   "version": "D",
+   "turn": 3,
+   "context_tokens_at_question": 178253,
+   "words": 127,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  },
+  {
+   "conv": "D-3",
+   "version": "D",
+   "turn": 3,
+   "context_tokens_at_question": 182221,
+   "words": 166,
+   "facts_named": [
+    "vegetarian",
+    "equipment",
+    "time",
+    "spice"
+   ],
+   "fails": [],
+   "unclear": []
+  }
+ ]
+}
