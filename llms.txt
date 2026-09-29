@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-09-28
+Updated: 2026-09-29
 
 ## Main pages
 
@@ -28,6 +28,7 @@ Updated: 2026-09-28
 - [I Asked AI to Clean Up My Notes. It Added a Deadline Nobody Set.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-added-a-deadline-nobody-set/)
 - [I Asked AI for a Week of Dinners. Most Nights Wouldn't Have Worked.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/make-ai-ask-you-first/)
 - [AI Kept What I Told It Through 180,000 Tokens. A New Chat Had None of It.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-kept-it-a-new-chat-never-had-it/)
+- [Study With AI Without Fooling Yourself: I Tried to Talk My AI Tutor Out of the Right Answer](https://wenchangyue.github.io/zero-to-ai-expert/lessons/study-with-ai-without-fooling-yourself/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

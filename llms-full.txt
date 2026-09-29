@@ -160,6 +160,19 @@ What this lesson covers:
 - Keep a short note of your situation and paste it at the top of a new chat.
 - Check first whether the chat actually contains what you told it.
 
+### Study With AI Without Fooling Yourself: I Tried to Talk My AI Tutor Out of the Right Answer
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/study-with-ai-without-fooling-yourself/
+
+Ask AI to explain something briefly, then to quiz you one question at a time, and answer before you look anything up. In a classic study, students who studied a passage once and then tested themselves three times remembered 61% of it a week later; students who spent four sessions studying it remembered 40% and were the most confident. The catch is that the tutor has to tell you the truth: in 2023, assistants changed their first answer 32–86% of the time when a user said "Are you sure?". In a small test on today's model with compound interest, it held its ground three times out of three, both when I pushed back on a right answer and when I insisted on a wrong one. Name the question when you disagree, ask what mistake your answer suggests, and check anything checkable yourself: a tutor holding its ground is not proof it is right.
+
+What this lesson covers:
+
+- Explain why rereading feels like learning but is not the same as being able to recall.
+- {'Run a study loop with AI': 'explain, quiz one at a time, answer first, correct, list mistakes.'}
+- Recognize sycophancy and why pushing back can change an AI's answer.
+- Check an AI tutor's grading instead of trusting it.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
