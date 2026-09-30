@@ -173,6 +173,19 @@ What this lesson covers:
 - Recognize sycophancy and why pushing back can change an AI's answer.
 - Check an AI tutor's grading instead of trusting it.
 
+### Fix a Spreadsheet Formula With AI: My Total Was $1,120 Short and Showed No Error
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-formula-wrong-total-no-error/
+
+A formula can return a number with no error and still be wrong, because SUMIFS simply skips rows that do not match. On a 20-row practice sheet with a trailing space in one region cell and one amount stored as text, the SUMIFS formula Claude wrote returned 3,060 instead of 4,180. Pasting the whole sheet helped the model spot the space, but two of three answers wrongly said SUMIFS would ignore it, and none could see the text-stored number. Ask for a check formula next to the first one, make the AI explain every dollar of any gap, check its explanation in the cell (LEN, ISTEXT), test against a total you know, and then fix the data.
+
+What this lesson covers:
+
+- Explain why SUMIFS can return a wrong total without any error.
+- Recognize why an AI cannot see cell types or your layout from a question or a paste.
+- Ask for a check formula and use disagreement between two calculations to find a problem.
+- Check an AI's explanation of a problem in the cell itself before accepting a fix.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

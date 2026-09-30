@@ -1,0 +1,219 @@
+{
+  "single_turn": [
+    {
+      "id": "A-nodata",
+      "arm": "no data",
+      "prompt": "In my Excel orders sheet, I need a formula that adds up all the sales for the East region in March 2026. What formula should I use?",
+      "repeat": 1,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:07+00:00",
+      "returncode": 0,
+      "output": "Use **SUMIFS**, which lets you sum a range based on multiple criteria (region + date range).\n\nAssuming your data has:\n- Region in column **B**\n- Order Date in column **C**\n- Sales amount in column **D**\n\n```excel\n=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<=\"&DATE(2026,3,31))\n```\n\n**How it works:**\n- `D:D` – the range being summed (Sales)\n- `B:B, \"East\"` – first condition: Region must equal \"East\"\n- `C:C, \">=\"&DATE(2026,3,1)` – second condition: date on or after March 1, 2026\n- `C:C, \"<=\"&DATE(2026,3,31)` – third condition: date on or before March 31, 2026\n\n**Tips:**\n- Adjust column letters (`B`, `C`, `D`) to match your actual sheet layout.\n- Using full-column references (`D:D`) is fine for smaller sheets but can slow down large workbooks — better to use specific ranges like `D2:D10000` if your data is large.\n- If you want to end the range more precisely (to avoid issues with the 31st for months with fewer days, though March always has 31), you could instead use `\"<\"&DATE(2026,4,1)` for the upper bound:\n\n```excel\n=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<\"&DATE(2026,4,1))\n```\n\nThis second version is generally safer since it avoids any edge-case issues with time values in the date column."
+    },
+    {
+      "id": "A-nodata",
+      "arm": "no data",
+      "prompt": "In my Excel orders sheet, I need a formula that adds up all the sales for the East region in March 2026. What formula should I use?",
+      "repeat": 2,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:14+00:00",
+      "returncode": 0,
+      "output": "Use **SUMIFS**, which is the cleanest way to sum values based on multiple conditions (region + date range).\n\nAssuming your data has columns like:\n- **Region** in column B\n- **Order Date** in column C\n- **Sales** in column D\n\n```excel\n=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<=\"&DATE(2026,3,31))\n```\n\n**How it works:**\n- `D:D` — the range you're summing (Sales)\n- `B:B, \"East\"` — only rows where Region = East\n- `C:C, \">=\"&DATE(2026,3,1)` — order date on/after March 1, 2026\n- `C:C, \"<=\"&DATE(2026,3,31)` — order date on/before March 31, 2026\n\n**Tips:**\n- Replace the full-column references (`D:D`, `B:B`, `C:C`) with specific ranges (e.g., `D2:D1000`) if your sheet is large, for better performance.\n- If you'd rather reference a cell for the region instead of typing \"East\", use something like `B:B, $F$1` where F1 contains \"East\" — makes the formula reusable for other regions.\n- If you want to be extra safe with the end-of-month date (in case of leap years or varying month lengths), you can use `EOMONTH(DATE(2026,3,1),0)` instead of hardcoding `DATE(2026,3,31)`:\n\n```excel\n=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<=\"&EOMONTH(DATE(2026,3,1),0))\n```\n\nLet me know your actual column layout and I can tailor the formula exactly to your sheet."
+    },
+    {
+      "id": "A-nodata",
+      "arm": "no data",
+      "prompt": "In my Excel orders sheet, I need a formula that adds up all the sales for the East region in March 2026. What formula should I use?",
+      "repeat": 3,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:22+00:00",
+      "returncode": 0,
+      "output": "For summing sales by region and date range, use **SUMIFS** — it's built exactly for multiple criteria like this.\n\nAssuming your data has columns like:\n- **Region** (e.g., column B)\n- **Date** (e.g., column C)\n- **Sales** (e.g., column D)\n\n### Formula:\n```excel\n=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<=\"&DATE(2026,3,31))\n```\n\n### How it works:\n- `D:D` – the range you're summing (Sales)\n- `B:B, \"East\"` – only rows where Region = East\n- `C:C, \">=\"&DATE(2026,3,1)` – date on or after March 1, 2026\n- `C:C, \"<=\"&DATE(2026,3,31)` – date on or before March 31, 2026\n\n### Tip\nIf you want it to automatically cover the whole month regardless of how many days it has (safer for Feb, 30 vs 31 day months, etc.), use the first day of the *next* month as an exclusive upper bound:\n\n```excel\n=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<\"&DATE(2026,4,1))\n```\n\nThis version is more robust and is the one I'd recommend using.\n\n**Note:** Replace `B:B`, `C:C`, and `D:D` with your actual column references (e.g., `B2:B500`) if you want to avoid scanning entire columns for performance reasons on large sheets."
+    },
+    {
+      "id": "B-shape",
+      "arm": "headers + first three rows",
+      "prompt": "In Excel I have a sheet called Orders. Row 1 has headers, and the data is in rows 2 to 21:\nA = Order date\nB = Region\nC = Product\nD = Amount\n\nHere are the first three data rows:\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n\nWrite one formula that adds up Amount for the East region in March 2026.",
+      "repeat": 1,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:30+00:00",
+      "returncode": 0,
+      "output": "Here's a formula using `SUMIFS`:\n\n```excel\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<\"&DATE(2026,4,1))\n```\n\n**How it works:**\n- `D2:D21` — the range to sum (Amount)\n- `B2:B21, \"East\"` — only rows where Region is East\n- `A2:A21, \">=\"&DATE(2026,3,1)` — Order date on or after March 1, 2026\n- `A2:A21, \"<\"&DATE(2026,4,1)` — Order date before April 1, 2026 (i.e., through end of March)\n\nUsing `DATE(2026,3,1)` and `<DATE(2026,4,1)` (rather than `<=3/31/2026`) avoids issues if any dates have time components."
+    },
+    {
+      "id": "B-shape",
+      "arm": "headers + first three rows",
+      "prompt": "In Excel I have a sheet called Orders. Row 1 has headers, and the data is in rows 2 to 21:\nA = Order date\nB = Region\nC = Product\nD = Amount\n\nHere are the first three data rows:\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n\nWrite one formula that adds up Amount for the East region in March 2026.",
+      "repeat": 2,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:35+00:00",
+      "returncode": 0,
+      "output": "Here's a formula using `SUMIFS`:\n\n```\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<\"&DATE(2026,4,1))\n```\n\n**How it works:**\n- `D2:D21` — the range to sum (Amount)\n- `B2:B21, \"East\"` — only rows where Region is East\n- `A2:A21, \">=\"&DATE(2026,3,1)` — Order date on or after March 1, 2026\n- `A2:A21, \"<\"&DATE(2026,4,1)` — Order date before April 1, 2026 (i.e., through the end of March)\n\nUsing `DATE(2026,3,1)` and `<DATE(2026,4,1)` is safer than comparing text strings, since it works correctly regardless of your cell's date format."
+    },
+    {
+      "id": "B-shape",
+      "arm": "headers + first three rows",
+      "prompt": "In Excel I have a sheet called Orders. Row 1 has headers, and the data is in rows 2 to 21:\nA = Order date\nB = Region\nC = Product\nD = Amount\n\nHere are the first three data rows:\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n\nWrite one formula that adds up Amount for the East region in March 2026.",
+      "repeat": 3,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:40+00:00",
+      "returncode": 0,
+      "output": "Here's a formula using `SUMIFS`:\n\n```excel\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<\"&DATE(2026,4,1))\n```\n\n**How it works:**\n- `D2:D21` — the range to sum (Amount)\n- `B2:B21, \"East\"` — only rows where Region is East\n- `A2:A21, \">=\"&DATE(2026,3,1)` — Order date on or after March 1, 2026\n- `A2:A21, \"<\"&DATE(2026,4,1)` — Order date before April 1, 2026 (i.e., through end of March)\n\nThis correctly captures all of March 2026 regardless of how many days are in the month, and avoids issues that can arise from text-based date comparisons."
+    },
+    {
+      "id": "C-paste",
+      "arm": "whole sheet pasted",
+      "prompt": "Here is my Excel sheet called Orders, copied straight from Excel. Row 1 is the header row, the data is in rows 2 to 21, columns A to D.\n\nOrder date\tRegion\tProduct\tAmount\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n3/3/2026\tWest\tMugs\t410\n3/5/2026\tNorth\tTea sets\t780\n3/6/2026\tEast\tMugs\t480\n3/9/2026\tSouth\tCandles\t150\n3/11/2026\tEast\tTea sets\t275\n3/14/2026\tEast \tCandles\t640\n3/16/2026\tWest\tTea sets\t920\n3/18/2026\tNorth\tMugs\t230\n3/19/2026\tEast\tTea sets\t1150\n3/22/2026\tSouth\tMugs\t340\n3/25/2026\tEast\tMugs\t905\n3/27/2026\tWest\tCandles\t300\n3/30/2026\tNorth\tCandles\t615\n3/31/2026\tEast\tMugs\t410\n4/1/2026\tEast\tTea sets\t700\n4/3/2026\tSouth\tTea sets\t455\n4/7/2026\tWest\tMugs\t185\n\nWrite one formula that adds up Amount for the East region in March 2026.",
+      "repeat": 1,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:45+00:00",
+      "returncode": 0,
+      "output": "Use SUMIFS with a date range condition:\n\n```\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31))\n```\n\n**Note:** Row 9 (3/14/2026) has \"East \" with a trailing space in the Region column. SUMIFS criteria matching can be inconsistent with trailing/leading spaces, so it's worth double-checking that this row is included in the result. If you want to be safe, you could first clean the Region column with `=TRIM(B2)` in a helper column and reference that instead."
+    },
+    {
+      "id": "C-paste",
+      "arm": "whole sheet pasted",
+      "prompt": "Here is my Excel sheet called Orders, copied straight from Excel. Row 1 is the header row, the data is in rows 2 to 21, columns A to D.\n\nOrder date\tRegion\tProduct\tAmount\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n3/3/2026\tWest\tMugs\t410\n3/5/2026\tNorth\tTea sets\t780\n3/6/2026\tEast\tMugs\t480\n3/9/2026\tSouth\tCandles\t150\n3/11/2026\tEast\tTea sets\t275\n3/14/2026\tEast \tCandles\t640\n3/16/2026\tWest\tTea sets\t920\n3/18/2026\tNorth\tMugs\t230\n3/19/2026\tEast\tTea sets\t1150\n3/22/2026\tSouth\tMugs\t340\n3/25/2026\tEast\tMugs\t905\n3/27/2026\tWest\tCandles\t300\n3/30/2026\tNorth\tCandles\t615\n3/31/2026\tEast\tMugs\t410\n4/1/2026\tEast\tTea sets\t700\n4/3/2026\tSouth\tTea sets\t455\n4/7/2026\tWest\tMugs\t185\n\nWrite one formula that adds up Amount for the East region in March 2026.",
+      "repeat": 2,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:52+00:00",
+      "returncode": 0,
+      "output": "```excel\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31))\n```\n\n**Note:** Row 9 has \"East \" (with a trailing space) in the Region column. SUMIFS typically still matches this to \"East\" since it ignores trailing/leading whitespace in text comparisons, so this formula should correctly include that row. If you want to be extra safe, you could clean up that cell to remove the trailing space."
+    },
+    {
+      "id": "C-paste",
+      "arm": "whole sheet pasted",
+      "prompt": "Here is my Excel sheet called Orders, copied straight from Excel. Row 1 is the header row, the data is in rows 2 to 21, columns A to D.\n\nOrder date\tRegion\tProduct\tAmount\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n3/3/2026\tWest\tMugs\t410\n3/5/2026\tNorth\tTea sets\t780\n3/6/2026\tEast\tMugs\t480\n3/9/2026\tSouth\tCandles\t150\n3/11/2026\tEast\tTea sets\t275\n3/14/2026\tEast \tCandles\t640\n3/16/2026\tWest\tTea sets\t920\n3/18/2026\tNorth\tMugs\t230\n3/19/2026\tEast\tTea sets\t1150\n3/22/2026\tSouth\tMugs\t340\n3/25/2026\tEast\tMugs\t905\n3/27/2026\tWest\tCandles\t300\n3/30/2026\tNorth\tCandles\t615\n3/31/2026\tEast\tMugs\t410\n4/1/2026\tEast\tTea sets\t700\n4/3/2026\tSouth\tTea sets\t455\n4/7/2026\tWest\tMugs\t185\n\nWrite one formula that adds up Amount for the East region in March 2026.",
+      "repeat": 3,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "--restricted, no settings files, --tools \"\" (all built-in tools off), --strict-mcp-config (no MCP servers), plain system prompt, fresh /tmp working directory, stdin closed",
+      "run_at_utc": "2026-09-30T12:38:59+00:00",
+      "returncode": 0,
+      "output": "Here's a formula using `SUMIFS`:\n\n```\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31))\n```\n\n**How it works:**\n- `D2:D21` — the range being summed (Amount)\n- `B2:B21, \"East\"` — only rows where Region is East\n- `A2:A21, \">=\"&DATE(2026,3,1)` — Order date on or after March 1, 2026\n- `A2:A21, \"<=\"&DATE(2026,3,31)` — Order date on or before March 31, 2026\n\nThis should sum the East rows in March 2026 (2/28, 3/2, 3/6, 3/11, 3/14, 3/19, 3/25) = **4,050**.\n\n**Note:** Row 9 (\"3/14/2026\") has \"East \" with a trailing space in the Region column. Excel's `SUMIFS` typically still matches this to \"East\" since it ignores trailing spaces in text comparisons, but it's worth cleaning up that cell to avoid ambiguity in other formulas (like exact-match lookups) where trailing spaces can cause mismatches."
+    }
+  ],
+  "check_conversations": [
+    {
+      "conv": "method-1",
+      "turn": 1,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "same flags as run_demo.py; later turns use --resume on the same session",
+      "run_at_utc": "2026-09-30T12:38:07+00:00",
+      "prompt": "Here is my Excel sheet called Orders, copied straight from Excel. Row 1 is the header row, the data is in rows 2 to 21, columns A to D.\n\nOrder date\tRegion\tProduct\tAmount\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n3/3/2026\tWest\tMugs\t410\n3/5/2026\tNorth\tTea sets\t780\n3/6/2026\tEast\tMugs\t480\n3/9/2026\tSouth\tCandles\t150\n3/11/2026\tEast\tTea sets\t275\n3/14/2026\tEast \tCandles\t640\n3/16/2026\tWest\tTea sets\t920\n3/18/2026\tNorth\tMugs\t230\n3/19/2026\tEast\tTea sets\t1150\n3/22/2026\tSouth\tMugs\t340\n3/25/2026\tEast\tMugs\t905\n3/27/2026\tWest\tCandles\t300\n3/30/2026\tNorth\tCandles\t615\n3/31/2026\tEast\tMugs\t410\n4/1/2026\tEast\tTea sets\t700\n4/3/2026\tSouth\tTea sets\t455\n4/7/2026\tWest\tMugs\t185\n\nWrite one formula that adds up Amount for the East region in March 2026.\n\nBefore I trust it: tell me anything in my data that could make this formula give a wrong total without showing any error, and give me one or two check formulas I can put in the sheet to test the answer.",
+      "output": "## Formula\n\n```\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<\"&DATE(2026,4,1))\n```\n\nUsing `>=` March 1 and `<` April 1 (rather than `<=` March 31) avoids issues if any date has a time component attached.\n\n## What could make this silently wrong\n\n**1. Trailing space in \"Region\"** — Row 9 (3/14/2026, Candles, 640) has `\"East \"` with a trailing space instead of `\"East\"`. SUMIFS does an exact text match and does **not** trim spaces, so this row will be **silently excluded** from the total — no error, just a number that's too low by 640.\n\n**2. Dates stored as text instead of real dates** — If any \"Order date\" cell was pasted/typed in a way that Excel treats as text (left-aligned, doesn't respond to date math), the `A2:A21, \">=\"&DATE(...)` comparison will skip it silently. Worth a quick visual check (text dates are usually left-aligned; real dates are right-aligned).\n\n**3. Inconsistent spelling/casing of region or product names** elsewhere in a larger sheet (e.g., \"east\", \"EAST \", \"Eastern\") would also be silently excluded — not an issue in this exact dataset beyond the one you have, but worth knowing for future data entry.\n\n## Check formulas\n\n**Check for hidden space/spelling variants** — this should equal the \"true\" total, catching the trailing-space row:\n```\n=SUMPRODUCT((TRIM(B2:B21)=\"East\")*(A2:A21>=DATE(2026,3,1))*(A2:A21<DATE(2026,4,1))*D2:D21)\n```\nIf this number is **higher** than your SUMIFS result, you know a text-matching issue (like the trailing space) is hiding rows.\n\n**Check that all dates are real dates (not text):**\n```\n=SUMPRODUCT(--NOT(ISNUMBER(A2:A21)))\n```\nThis should return `0`. Any number greater than 0 means some dates are stored as text and could be silently skipped by the SUMIFS date criteria.",
+      "usage": {
+        "input_tokens": 2,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 1094,
+        "output_tokens": 2250,
+        "context_tokens": 1096,
+        "model": "claude-sonnet-5",
+        "context_window": 1000000,
+        "cost_usd": 0.02688
+      }
+    },
+    {
+      "conv": "method-2",
+      "turn": 1,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "same flags as run_demo.py; later turns use --resume on the same session",
+      "run_at_utc": "2026-09-30T12:38:32+00:00",
+      "prompt": "Here is my Excel sheet called Orders, copied straight from Excel. Row 1 is the header row, the data is in rows 2 to 21, columns A to D.\n\nOrder date\tRegion\tProduct\tAmount\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n3/3/2026\tWest\tMugs\t410\n3/5/2026\tNorth\tTea sets\t780\n3/6/2026\tEast\tMugs\t480\n3/9/2026\tSouth\tCandles\t150\n3/11/2026\tEast\tTea sets\t275\n3/14/2026\tEast \tCandles\t640\n3/16/2026\tWest\tTea sets\t920\n3/18/2026\tNorth\tMugs\t230\n3/19/2026\tEast\tTea sets\t1150\n3/22/2026\tSouth\tMugs\t340\n3/25/2026\tEast\tMugs\t905\n3/27/2026\tWest\tCandles\t300\n3/30/2026\tNorth\tCandles\t615\n3/31/2026\tEast\tMugs\t410\n4/1/2026\tEast\tTea sets\t700\n4/3/2026\tSouth\tTea sets\t455\n4/7/2026\tWest\tMugs\t185\n\nWrite one formula that adds up Amount for the East region in March 2026.\n\nBefore I trust it: tell me anything in my data that could make this formula give a wrong total without showing any error, and give me one or two check formulas I can put in the sheet to test the answer.",
+      "output": "## Formula\n\n```excel\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<\"&DATE(2026,4,1))\n```\n\n## What could make this silently wrong\n\n1. **Trailing space in \"East \"** — Row 15 (3/14/2026, Candles, 640) has \"East \" with a trailing space in the Region column. `SUMIFS` does **not** trim whitespace when matching text criteria, so this row will be **excluded** even though it's visually \"East.\" Your total would be understated by 640, with no error shown.\n\n2. **Dates stored as text instead of real date values** — If any Order date cells were pasted/formatted as text (common when pasting from Excel into some tools), the `\">=\"` / `\"<\"` date comparisons will silently fail to match those rows (or match incorrectly), and you won't get an error — just missing rows.\n\n3. **Wrong year assumption** — The formula assumes \"March 2026\" specifically. If a future paste ever includes March data from a different year, this formula will correctly exclude it — but only if the dates are real dates, not text (see #2).\n\n## Check formulas\n\n**1. Check for hidden spaces in Region (catches the \"East \" issue):**\n```excel\n=SUMPRODUCT(--(TRIM(B2:B21)<>B2:B21))\n```\nIf this returns anything other than 0, you have extra spaces somewhere — fix with `TRIM()` or clean the source data.\n\n**2. Check that all dates are real date values (not text):**\n```excel\n=SUMPRODUCT(--ISNUMBER(A2:A21))\n```\nShould return 20 (matching your 20 data rows). If it's less, some dates are text and your SUMIFS date filtering can't be trusted.\n\n**Bonus — a trimmed version of the main formula for comparison:**\n```excel\n=SUMPRODUCT((TRIM(B2:B21)=\"East\")*(A2:A21>=DATE(2026,3,1))*(A2:A21<DATE(2026,4,1))*D2:D21)\n```\nIf this gives a different (higher) result than your original SUMIFS formula, that confirms the trailing-space row was being missed.",
+      "usage": {
+        "input_tokens": 2,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 1089,
+        "output_tokens": 1673,
+        "context_tokens": 1091,
+        "model": "claude-sonnet-5",
+        "context_window": 1000000,
+        "cost_usd": 0.02109
+      }
+    },
+    {
+      "conv": "method-3",
+      "turn": 1,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "same flags as run_demo.py; later turns use --resume on the same session",
+      "run_at_utc": "2026-09-30T12:38:53+00:00",
+      "prompt": "Here is my Excel sheet called Orders, copied straight from Excel. Row 1 is the header row, the data is in rows 2 to 21, columns A to D.\n\nOrder date\tRegion\tProduct\tAmount\n2/17/2026\tEast\tMugs\t260\n2/28/2026\tEast\tCandles\t530\n3/2/2026\tEast\tCandles\t320\n3/3/2026\tWest\tMugs\t410\n3/5/2026\tNorth\tTea sets\t780\n3/6/2026\tEast\tMugs\t480\n3/9/2026\tSouth\tCandles\t150\n3/11/2026\tEast\tTea sets\t275\n3/14/2026\tEast \tCandles\t640\n3/16/2026\tWest\tTea sets\t920\n3/18/2026\tNorth\tMugs\t230\n3/19/2026\tEast\tTea sets\t1150\n3/22/2026\tSouth\tMugs\t340\n3/25/2026\tEast\tMugs\t905\n3/27/2026\tWest\tCandles\t300\n3/30/2026\tNorth\tCandles\t615\n3/31/2026\tEast\tMugs\t410\n4/1/2026\tEast\tTea sets\t700\n4/3/2026\tSouth\tTea sets\t455\n4/7/2026\tWest\tMugs\t185\n\nWrite one formula that adds up Amount for the East region in March 2026.\n\nBefore I trust it: tell me anything in my data that could make this formula give a wrong total without showing any error, and give me one or two check formulas I can put in the sheet to test the answer.",
+      "output": "## Formula\n\n```\n=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31))\n```\n\n## What could make this look right but be wrong\n\n1. **Trailing space in \"East \"** — Row for 3/14/2026 has `East ` (extra space) instead of `East`. SUMIFS text matching does **not** ignore trailing/leading spaces, so this row will silently be excluded from the total. No error, just a number that's too low. This is the most likely issue in your data as shown.\n\n2. **Dates stored as text, not real dates** — If the Order date column was pasted in a way that turned some dates into text strings (common when pasting from other apps), the `>=` / `<=` date comparisons will silently skip those rows too. Text-dates are usually left-aligned instead of right-aligned in the cell — worth a quick visual scan.\n\n3. **Amount stored as text** — If any Amount value has a leading apostrophe or came in as text, SUMIFS/SUM will just skip it (treat as 0) rather than error.\n\n4. **Inconsistent region spelling** (e.g., \"East\" vs \"east coast\" vs abbreviations) — case doesn't matter to SUMIFS, but different wording would silently exclude rows. Not an issue here, but worth watching in future data.\n\n## Check formulas\n\n**1. Row-count sanity check** — count how many rows *should* match, and eyeball it against what you expect (I count 7 East/March rows by eye, including the \"East \" one):\n\n```\n=COUNTIFS(A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31), B2:B21, \"East\")\n```\n\nIf this returns 6 instead of 7, that's the trailing-space row getting dropped.\n\n**2. Trim-based cross-check** — recompute the sum while trimming stray spaces from Region, and compare to your original formula:\n\n```\n=SUMPRODUCT((TRIM(B2:B21)=\"East\") * (A2:A21>=DATE(2026,3,1)) * (A2:A21<=DATE(2026,3,31)) * D2:D21)\n```\n\nIf this formula gives a **different (higher) result** than your SUMIFS, that confirms the \"East \" row was being silently excluded — and tells you the trimmed version (4,180) is the correct total, not whatever SUMIFS alone returns (which would be 3,540).\n\nI'd recommend fixing the actual cell (remove the trailing space from \"East \") rather than relying on TRIM() permanently, so the raw data stays clean.",
+      "usage": {
+        "input_tokens": 2,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 1095,
+        "output_tokens": 2158,
+        "context_tokens": 1097,
+        "model": "claude-sonnet-5",
+        "context_window": 1000000,
+        "cost_usd": 0.025964
+      }
+    },
+    {
+      "conv": "method-1",
+      "turn": 2,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "same flags as run_demo.py; later turns use --resume on the same session",
+      "run_at_utc": "2026-09-30T12:40:22+00:00",
+      "prompt": "I put your formulas in the sheet. The SUMIFS formula shows 3,060. Your SUMPRODUCT check shows 4,180. The date check shows 0. Explain every dollar of the difference, and give me the one formula I should use.",
+      "output": "## The math behind the $1,120 gap\n\n$4,180 − $3,060 = **$1,120**, and that comes from exactly two rows where the Region cell isn't a clean `\"East\"` — it has extra space characters. `SUMIFS` requires an exact text match, so it drops these rows. `TRIM()` in the SUMPRODUCT formula strips ordinary spaces, so it picks them back up.\n\n| Date | Product | Amount | Why SUMIFS misses it |\n|---|---|---|---|\n| 3/6/2026 | Mugs | **$480** | Region cell has an extra space (not visible when you look at it, but present in the cell) |\n| 3/14/2026 | Candles | **$640** | Region cell is `\"East \"` with a trailing space (the one we spotted earlier) |\n\n$480 + $640 = **$1,120** — accounts for the entire difference.\n\nEverything else reconciles cleanly:\n- SUMIFS total (clean \"East\" rows only): 320 + 275 + 1,150 + 905 + 410 = **3,060** ✓\n- Add back the two space-corrupted rows: 3,060 + 480 + 640 = **4,180** ✓\n- Date check = 0, so no text-date issue is contributing anything here.\n\n## The one formula to use\n\n```\n=SUMPRODUCT((TRIM(B2:B21)=\"East\")*(A2:A21>=DATE(2026,3,1))*(A2:A21<DATE(2026,4,1))*D2:D21)\n```\n\nThis gives you the correct **$4,180**, because it normalizes whitespace in the Region column before comparing.\n\n**One caveat:** `TRIM()` only removes regular spaces, not non-breaking spaces or other odd characters. Since this fixed both problem rows, your issue is ordinary spaces — but if you add more data later and a total looks off again, don't assume TRIM will always catch it.\n\n**Recommended long-term fix:** clean the Region column itself (select column B → Find & Replace, or run `=TRIM(B2)` in a helper column and paste values back) so your simpler SUMIFS formula works correctly going forward, rather than relying on a workaround formula every time.",
+      "usage": {
+        "input_tokens": 2,
+        "cache_read_input_tokens": 1094,
+        "cache_creation_input_tokens": 2370,
+        "output_tokens": 3465,
+        "context_tokens": 3466,
+        "model": "claude-sonnet-5",
+        "context_window": 1000000,
+        "cost_usd": 0.0712328
+      }
+    },
+    {
+      "conv": "method-2",
+      "turn": 2,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "same flags as run_demo.py; later turns use --resume on the same session",
+      "run_at_utc": "2026-09-30T12:40:57+00:00",
+      "prompt": "I put your formulas in the sheet. The SUMIFS formula shows 3,060. The hidden-space check shows 1. The real-date check shows 20. The trimmed SUMPRODUCT shows 4,180. Explain every dollar of the difference, and give me the one formula I should use.",
+      "output": "## Reconciling the numbers\n\n**The gap:** 4,180 − 3,060 = **$1,120**\n\n**Where it must come from:** The two formulas are identical except for one thing — the SUMPRODUCT version wraps `TRIM()` around the Region check before comparing to \"East.\" The date logic (`>=` and `<` against March 1 / April 1) is **exactly the same** in both formulas, and your real-date check confirms all 20 dates are genuine numbers. So the entire $1,120 gap has to come from Region cells that don't literally equal \"East,\" but do equal \"East\" once trimmed.\n\n**Breaking down $1,120:**\n- **$640** — the row you already know about: 3/14/2026, \"East \" (trailing space), Candles.\n- **$480** — a *second* row must also have a Region mismatch, because 640 alone only accounts for part of the gap. Based on your March/East rows, this points to 3/6/2026, Mugs, $480.\n\n**The red flag:** Your hidden-space check (`SUMPRODUCT(--(TRIM(B2:B21)<>B2:B21))`) only returned **1**, but the math says there should be **two** problem cells. That's a real inconsistency worth chasing down — it likely means the second bad cell isn't a plain space. A common cause: a **non-breaking space** (CHAR(160)), which often sneaks in from copy-pasting out of a web page or another app. `TRIM()` does **not** remove CHAR(160), so a cell with a non-breaking space would pass your hidden-space check undetected, yet still fail a literal `=\"East\"` match in SUMIFS.\n\n**Pinpoint it exactly** with a helper column:\n```excel\n=LEN(B2)-LEN(TRIM(B2))\n```\nIf this is 0 for a row but SUMIFS still misses it, add:\n```excel\n=LEN(B2)-LEN(SUBSTITUTE(TRIM(B2),CHAR(160),\"\"))\n```\nAny nonzero result there confirms a non-breaking space.\n\n## The one formula to use\n\nGiven the risk of both ordinary and non-breaking spaces, use a version that strips both before comparing:\n\n```excel\n=SUMPRODUCT((TRIM(SUBSTITUTE(B2:B21,CHAR(160),\" \"))=\"East\") * (A2:A21>=DATE(2026,3,1)) * (A2:A21<DATE(2026,4,1)) * D2:D21)\n```\n\nThis should return **4,180**, matching your original trimmed SUMPRODUCT — confirming it's already catching everything. But I'd still recommend cleaning the Region column directly (retype or re-paste as values) rather than relying on the formula to paper over dirty data going forward, since new entries could introduce the same problem again.",
+      "usage": {
+        "input_tokens": 2,
+        "cache_read_input_tokens": 1089,
+        "cache_creation_input_tokens": 1809,
+        "output_tokens": 18418,
+        "context_tokens": 2900,
+        "model": "claude-sonnet-5",
+        "context_window": 1000000,
+        "cost_usd": 0.2127278
+      }
+    },
+    {
+      "conv": "method-3",
+      "turn": 2,
+      "model": "Claude Sonnet via Claude Code CLI 2.1.280 (Claude Code)",
+      "mode": "same flags as run_demo.py; later turns use --resume on the same session",
+      "run_at_utc": "2026-09-30T12:44:05+00:00",
+      "prompt": "I put your formulas in the sheet. The SUMIFS formula shows 3,060. The COUNTIFS check shows 6. The trimmed SUMPRODUCT shows 4,180. Explain every dollar of the difference, and give me the one formula I should use.",
+      "output": "## Explaining the $1,120 gap ($4,180 − $3,060)\n\nTwo separate data problems are stacking on top of each other:\n\n**Problem 1 — $640 (the \"East \" trailing space, row for 3/14/2026)**\nSUMIFS and COUNTIFS both do exact text matching on Region, so `\"East \"` (with the trailing space) doesn't match the criterion `\"East\"`. This row is dropped from **both** the count and the sum.\n\n**Problem 2 — $480 (the 3/6/2026 row, Mugs, 480)**\nThe Amount in this row is stored as **text**, not a number. Here's why that produces exactly this pattern:\n- **COUNTIFS** only looks at Region (column B) and Order date (column A) — it never touches Amount. So this row still satisfies \"East\" + \"in March,\" and gets counted. That's why COUNTIFS = 6, not 5.\n- **SUMIFS** does look at Amount (column D), and SUMIFS silently treats text as 0 when summing. So this row is counted but contributes $0 to the total.\n\nPut together:\n- Correct total (all 7 East/March rows): **$4,180**\n- Minus the \"East \" row missed by exact-match criteria: −$640\n- Minus the 3/6 row whose Amount is text (contributes $0 in SUMIFS): −$480\n- = **$3,060** ✅ matches what you're seeing\n\nThis is a good example of why a wrong-looking SUMIFS never throws an error — every number involved is individually valid, just silently excluded or zeroed out.\n\n## The one formula to use\n\n```\n=SUMPRODUCT((TRIM(B2:B21)=\"East\") * (A2:A21>=DATE(2026,3,1)) * (A2:A21<=DATE(2026,3,31)) * (D2:D21*1))\n```\n\nThis gives you **$4,180**, the correct total. It works around both issues at once:\n- `TRIM(B2:B21)=\"East\"` catches the row with the stray trailing space.\n- `D2:D21*1` forces any text-formatted numbers in Amount to be treated as real numbers (multiplying text by 1 coerces it, which is why your trimmed SUMPRODUCT already came out right without you asking it to).\n\n**However**, I'd treat this as a patch, not a permanent fix. I'd recommend actually cleaning the source cells:\n- Remove the trailing space from `\"East \"` in the Region cell for 3/14/2026.\n- Re-enter the Amount for 3/6/2026 as a real number (select the cell, retype 480, or use Data → Text to Columns to force numeric conversion).\n\nOnce those two cells are fixed, your original plain `SUMIFS` formula will return the correct $4,180 on its own, and it'll be more transparent to anyone else opening the sheet than a SUMPRODUCT workaround.",
+      "usage": {
+        "input_tokens": 2,
+        "cache_read_input_tokens": 1095,
+        "cache_creation_input_tokens": 2286,
+        "output_tokens": 2960,
+        "context_tokens": 3383,
+        "model": "claude-sonnet-5",
+        "context_window": 1000000,
+        "cost_usd": 0.064931
+      }
+    }
+  ]
+}

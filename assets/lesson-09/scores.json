@@ -1,0 +1,84 @@
+{
+  "unit": "one run = one fresh conversation; values from eval-r1/eval-r2 LibreOffice 26.2.4.2; expected total from make_sheet.py (sum of the planted row list, not a spreadsheet formula)",
+  "truth": {
+    "east_march_total": 4180,
+    "rows": 7,
+    "planted": {
+      "D7": "480 stored as text",
+      "B10": "'East ' trailing space"
+    }
+  },
+  "A_nodata": {
+    "runs": 3,
+    "assumed_date_col_C": 3,
+    "asked_about_layout": 0,
+    "result_on_our_sheet": 0,
+    "asked_about_layout_def": "asked before giving a formula",
+    "invited_layout_after_formula": 1
+  },
+  "B_shape": {
+    "runs": 3,
+    "formula_identical": 3,
+    "result": 3060,
+    "warned_of_anything": 0
+  },
+  "C_paste": {
+    "runs": 3,
+    "result": 3060,
+    "noticed_trailing_space": 3,
+    "said_sumifs_ignores_trailing_space": 2,
+    "hedged_inconsistent": 1,
+    "noticed_text_number": 0,
+    "gave_own_total": 1,
+    "own_total_value": 4050,
+    "own_total_rows_included_feb28_excluded_mar31": true,
+    "row_number_given": "9 (actual 10)"
+  },
+  "method_turn1": {
+    "runs": 3,
+    "correctly_said_space_row_excluded": 3,
+    "mentioned_text_amounts_generically": 1,
+    "row_numbers_given": [
+      "9",
+      "15",
+      "none"
+    ],
+    "offered_trim_sum_check": 3,
+    "trim_sum_check_value": 4180,
+    "sumifs_value": 3060,
+    "m3_predicted_sumifs": 3540
+  },
+  "method_turn2": {
+    "runs": 3,
+    "located_480_row_by_arithmetic": 3,
+    "correct_cause_text_number": 1,
+    "wrong_cause_confident_hidden_space": 1,
+    "wrong_cause_hedged_nbsp_with_check": 1,
+    "final_formula_value": [
+      4180,
+      4180,
+      4180
+    ],
+    "disproof": {
+      "LEN(B7)": 4,
+      "LEN(B7)-LEN(TRIM(B7))": 0,
+      "nbsp_check_B7": 0,
+      "ISTEXT(D7)": "TRUE"
+    },
+    "m3_used_countifs_6_clue": true,
+    "m2_first_asserted_region_column": true
+  },
+  "cleaned_sheet": {
+    "plain_sumifs": 4180,
+    "final_formulas": [
+      4180,
+      4180,
+      4180
+    ]
+  },
+  "excel_attempt": "Microsoft Excel 16.113.2 did not respond to AppleScript workbook commands (timeouts); not used as an engine",
+  "all_formulas_evaluated": {
+    "distinct": 16,
+    "file": "eval-all-libreoffice.json"
+  }
+}

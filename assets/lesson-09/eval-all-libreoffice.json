@@ -1,0 +1,159 @@
+[
+  {
+    "id": "f01",
+    "formula": "=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<=\"&DATE(2026,3,31))",
+    "from": [
+      "A-nodata#1",
+      "A-nodata#2",
+      "A-nodata#3"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "0"
+  },
+  {
+    "id": "f02",
+    "formula": "=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<\"&DATE(2026,4,1))",
+    "from": [
+      "A-nodata#1",
+      "A-nodata#3"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "0"
+  },
+  {
+    "id": "f03",
+    "formula": "=SUMIFS(D:D, B:B, \"East\", C:C, \">=\"&DATE(2026,3,1), C:C, \"<=\"&EOMONTH(DATE(2026,3,1),0))",
+    "from": [
+      "A-nodata#2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "0"
+  },
+  {
+    "id": "f04",
+    "formula": "=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<\"&DATE(2026,4,1))",
+    "from": [
+      "B-shape#1",
+      "B-shape#2",
+      "B-shape#3",
+      "method-1#t1",
+      "method-2#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "3060"
+  },
+  {
+    "id": "f05",
+    "formula": "=SUMIFS(D2:D21, B2:B21, \"East\", A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31))",
+    "from": [
+      "C-paste#1",
+      "C-paste#2",
+      "C-paste#3",
+      "method-3#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "3060"
+  },
+  {
+    "id": "f06",
+    "formula": "=TRIM(B2)",
+    "from": [
+      "C-paste#1",
+      "method-1#t2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "East"
+  },
+  {
+    "id": "f07",
+    "formula": "=SUMPRODUCT((TRIM(B2:B21)=\"East\")*(A2:A21>=DATE(2026,3,1))*(A2:A21<DATE(2026,4,1))*D2:D21)",
+    "from": [
+      "method-1#t1",
+      "method-2#t1",
+      "method-1#t2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "4180"
+  },
+  {
+    "id": "f08",
+    "formula": "=SUMPRODUCT(--NOT(ISNUMBER(A2:A21)))",
+    "from": [
+      "method-1#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "0"
+  },
+  {
+    "id": "f09",
+    "formula": "=SUMPRODUCT(--(TRIM(B2:B21)<>B2:B21))",
+    "from": [
+      "method-2#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "1"
+  },
+  {
+    "id": "f10",
+    "formula": "=SUMPRODUCT(--ISNUMBER(A2:A21))",
+    "from": [
+      "method-2#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "20"
+  },
+  {
+    "id": "f11",
+    "formula": "=COUNTIFS(A2:A21, \">=\"&DATE(2026,3,1), A2:A21, \"<=\"&DATE(2026,3,31), B2:B21, \"East\")",
+    "from": [
+      "method-3#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "6"
+  },
+  {
+    "id": "f12",
+    "formula": "=SUMPRODUCT((TRIM(B2:B21)=\"East\") * (A2:A21>=DATE(2026,3,1)) * (A2:A21<=DATE(2026,3,31)) * D2:D21)",
+    "from": [
+      "method-3#t1"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "4180"
+  },
+  {
+    "id": "f13",
+    "formula": "=LEN(B2)-LEN(TRIM(B2))",
+    "from": [
+      "method-2#t2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "0"
+  },
+  {
+    "id": "f14",
+    "formula": "=LEN(B2)-LEN(SUBSTITUTE(TRIM(B2),CHAR(160),\"\"))",
+    "from": [
+      "method-2#t2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "0"
+  },
+  {
+    "id": "f15",
+    "formula": "=SUMPRODUCT((TRIM(SUBSTITUTE(B2:B21,CHAR(160),\" \"))=\"East\") * (A2:A21>=DATE(2026,3,1)) * (A2:A21<DATE(2026,4,1)) * D2:D21)",
+    "from": [
+      "method-2#t2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "4180"
+  },
+  {
+    "id": "f16",
+    "formula": "=SUMPRODUCT((TRIM(B2:B21)=\"East\") * (A2:A21>=DATE(2026,3,1)) * (A2:A21<=DATE(2026,3,31)) * (D2:D21*1))",
+    "from": [
+      "method-3#t2"
+    ],
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "4180"
+  }
+]
