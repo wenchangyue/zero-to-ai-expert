@@ -186,6 +186,19 @@ What this lesson covers:
 - Ask for a check formula and use disagreement between two calculations to find a problem.
 - Check an AI's explanation of a problem in the cell itself before accepting a fix.
 
+### Turn a Meeting Transcript Into Action Items With AI (and Catch the Small Errors)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-meeting-notes-no-quote-no-task/
+
+Ask the AI for each action item's owner, deadline and the exact words where it was agreed, with a time stamp; write "not stated" when the owner or deadline was not said; list suggestions separately. Then search the transcript for the quotes that matter and follow each topic to the end of the meeting, check every calendar date against the meeting date, and if the transcript has only speaker numbers, ask the AI to mark any name it adds as a guess. In a test on one short fictional transcript (15 runs of Claude Sonnet), the model avoided all six planted traps; the errors were a deadline nobody said, a date before the meeting, and names filled in without saying they were guesses.
+
+What this lesson covers:
+
+- Explain why meeting decisions are hard to summarize (the decision can come late).
+- Use a "no quote, no task" request to get action items you can check.
+- Check relative dates against the meeting date.
+- Handle transcripts that label speakers only by number.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

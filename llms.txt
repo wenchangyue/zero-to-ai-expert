@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-09-30
+Updated: 2026-10-01
 
 ## Main pages
 
@@ -30,6 +30,7 @@ Updated: 2026-09-30
 - [AI Kept What I Told It Through 180,000 Tokens. A New Chat Had None of It.](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-kept-it-a-new-chat-never-had-it/)
 - [Study With AI Without Fooling Yourself: I Tried to Talk My AI Tutor Out of the Right Answer](https://wenchangyue.github.io/zero-to-ai-expert/lessons/study-with-ai-without-fooling-yourself/)
 - [Fix a Spreadsheet Formula With AI: My Total Was $1,120 Short and Showed No Error](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-formula-wrong-total-no-error/)
+- [Turn a Meeting Transcript Into Action Items With AI (and Catch the Small Errors)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-meeting-notes-no-quote-no-task/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

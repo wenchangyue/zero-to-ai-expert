@@ -1,0 +1,61 @@
+{
+  "unit": "one run = one fresh conversation (Claude Sonnet via claude -p, clean harness); answer key fixed before runs in truth.md",
+  "traps": [
+    "T1 caterer still Grace",
+    "T2 flyers firm for Priya",
+    "T3 budget given an owner",
+    "T4 fair date decided",
+    "T5 sign-up form given a deadline",
+    "T6 social post owned"
+  ],
+  "A_summary": {
+    "runs": 3,
+    "trap_hits": 0,
+    "missed_firm_items": 0,
+    "invented_deadline_leo_confirm_hall": 2,
+    "calendar_dates_given": 1,
+    "calendar_dates_wrong": 0
+  },
+  "B_actions": {
+    "runs": 3,
+    "trap_hits": 0,
+    "missed_firm_items": 0,
+    "calendar_dates_given": 3,
+    "calendar_dates_wrong": 1,
+    "wrong_dates_detail": "B-actions#3: Friday (Oct 2), Monday (Oct 5) for a meeting on Tue Oct 6 (should be Oct 9, Oct 12)"
+  },
+  "C_quoted": {
+    "runs": 3,
+    "trap_hits": 0,
+    "missed_firm_items": 0,
+    "quotes": 31,
+    "quotes_not_found": 0,
+    "check": "quote-check-c.json"
+  },
+  "D_unlabeled": {
+    "runs": 3,
+    "trap_hits": 0,
+    "missed_firm_items": 0,
+    "names_filled_in": 3,
+    "names_correct": 3,
+    "said_names_were_inferred": 0,
+    "timestamp_name_labels_not_in_source": [
+      0,
+      9,
+      4
+    ]
+  },
+  "E_unlabeled_mark_guesses": {
+    "runs": 3,
+    "prompt_added": "If the transcript does not name a speaker, keep the speaker number, and mark any name you add as a guess.",
+    "disclosed_guesses": 3,
+    "disclosed_at_each_item_or_upfront": 2,
+    "disclosed_only_in_end_note": 1,
+    "timestamp_name_labels_not_in_source": [
+      0,
+      0,
+      0
+    ],
+    "trap_hits": 0
+  }
+}
