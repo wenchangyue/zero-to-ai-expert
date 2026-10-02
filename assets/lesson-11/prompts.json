@@ -1,0 +1,5 @@
+[
+ {"id": "A-nosearch", "tools": "", "prompt": "I want to know whether the UK's 2022 four-day work week trial actually worked. Give me the key results with numbers, and list your sources with links."},
+ {"id": "B-search", "tools": "WebSearch,WebFetch", "prompt": "I want to know whether the UK's 2022 four-day work week trial actually worked. Give me the key results with numbers, and list your sources with links."},
+ {"id": "C-search-quote", "tools": "WebSearch,WebFetch", "prompt": "I want to know whether the UK's 2022 four-day work week trial actually worked. Give me the key results with numbers. For every number: give the link you got it from and copy the exact sentence from that page that contains it, in quotation marks. Use the original report where you can, not news articles. If you could not open a page, say so instead of guessing."}
+]

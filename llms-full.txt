@@ -199,6 +199,18 @@ What this lesson covers:
 - Check relative dates against the meeting date.
 - Handle transcripts that label speakers only by number.
 
+### How to Check the Sources in an AI Research Answer (Open, Find, Trace)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-research-sources-open-find-trace/
+
+Open every link the AI gives you; a dead link means you cannot check the claim through it. Ask for the exact sentence behind every number, with its link, and search the page for it. For numbers you will repeat, trace them to the original study and read how they were measured. In one test (Claude Sonnet, 3 runs per setup, one question about the UK's 2022 four-day week trial), 8 of 13 links given without web search returned "page not found"; with search no link returned 404 but no number was tied to a page; asking for the exact sentence gave 37 of 37 quotes found word for word. None of the 9 answers mentioned that the report says its staff-turnover drop is not statistically significant.
+
+What this lesson covers:
+
+- Check whether an AI answer's links open, and what a dead link does and does not tell you.
+- Use one request that ties every number to a link and an exact sentence.
+- Find the caveat a summary leaves out by tracing a number to the original report.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
