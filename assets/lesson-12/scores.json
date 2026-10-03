@@ -1,0 +1,520 @@
+{
+ "per_arm": {
+  "A": {
+   "answers": 9,
+   "K1_signed_Dana": [
+    0,
+    9
+   ],
+   "K2_no_placeholders": [
+    0,
+    9
+   ],
+   "K3_under_120_words": [
+    1,
+    9
+   ],
+   "K4_no_exclamation": [
+    1,
+    9
+   ],
+   "K5_shift_facts": [
+    0,
+    3
+   ],
+   "placeholders_total": 49,
+   "words": [
+    188,
+    145,
+    197,
+    169,
+    202,
+    194,
+    109,
+    149,
+    140
+   ],
+   "K6_no_promised_date": [
+    3,
+    3
+   ]
+  },
+  "B": {
+   "answers": 9,
+   "K1_signed_Dana": [
+    9,
+    9
+   ],
+   "K2_no_placeholders": [
+    9,
+    9
+   ],
+   "K3_under_120_words": [
+    9,
+    9
+   ],
+   "K4_no_exclamation": [
+    9,
+    9
+   ],
+   "K5_shift_facts": [
+    3,
+    3
+   ],
+   "placeholders_total": 0,
+   "words": [
+    90,
+    63,
+    83,
+    87,
+    108,
+    92,
+    45,
+    68,
+    63
+   ],
+   "K6_no_promised_date": [
+    3,
+    3
+   ]
+  },
+  "B2": {
+   "answers": 3,
+   "K1_signed_Dana": [
+    3,
+    3
+   ],
+   "K2_no_placeholders": [
+    2,
+    3
+   ],
+   "K3_under_120_words": [
+    3,
+    3
+   ],
+   "K4_no_exclamation": [
+    3,
+    3
+   ],
+   "K6_no_promised_date": [
+    1,
+    3
+   ],
+   "placeholders_total": 1,
+   "words": [
+    81,
+    70,
+    53
+   ]
+  },
+  "C": {
+   "answers": 9,
+   "K1_signed_Dana": [
+    9,
+    9
+   ],
+   "K2_no_placeholders": [
+    9,
+    9
+   ],
+   "K3_under_120_words": [
+    9,
+    9
+   ],
+   "K4_no_exclamation": [
+    9,
+    9
+   ],
+   "K5_shift_facts": [
+    3,
+    3
+   ],
+   "placeholders_total": 0,
+   "words": [
+    68,
+    57,
+    59,
+    100,
+    91,
+    71,
+    41,
+    46,
+    44
+   ],
+   "K6_no_promised_date": [
+    3,
+    3
+   ]
+  },
+  "D-T4": {
+   "runs": 3,
+   "leaks": 2,
+   "signed_Dana": 2,
+   "mentions_work": 0
+  }
+ },
+ "per_run": [
+  {
+   "id": "A-T1",
+   "repeat": 1,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 188,
+   "K5_shift_facts": false
+  },
+  {
+   "id": "A-T1",
+   "repeat": 2,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 145,
+   "K5_shift_facts": false
+  },
+  {
+   "id": "A-T1",
+   "repeat": 3,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 197,
+   "K5_shift_facts": false
+  },
+  {
+   "id": "A-T2",
+   "repeat": 1,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 169
+  },
+  {
+   "id": "A-T2",
+   "repeat": 2,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": true,
+   "words": 202
+  },
+  {
+   "id": "A-T2",
+   "repeat": 3,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 194
+  },
+  {
+   "id": "A-T3",
+   "repeat": 1,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": false,
+   "words": 109,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "We'd be happy to arrange a pickup.",
+    "Let me know if you'd like me to adjust the tone (more formal/casual) or add specific pickup times if you already know your team's availability."
+   ]
+  },
+  {
+   "id": "A-T3",
+   "repeat": 2,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 149,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "To arrange pickup, could you let us know a few details:",
+    "What's the pickup address (if different from your contact info on file)?",
+    "Once we have your availability, we'll coordinate with our team to schedule a pickup that's convenient for you.",
+    "Let me know if you'd like me to adjust the tone (more casual/formal), add specific pickup logistics you already have in mind, or fill in any placeholders with real details."
+   ]
+  },
+  {
+   "id": "A-T3",
+   "repeat": 3,
+   "K1_signed_Dana": false,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": false,
+   "K4_no_exclamation": false,
+   "words": 140,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "Here's a draft reply you can customize with your actual pickup details:",
+    "We'd be happy to arrange a pickup.",
+    "Could you let us know what days/times work best for you, along with the pickup address?",
+    "Let me know if you'd like me to adjust the tone (more formal/casual), add specific pickup dates/times, or include your organization's address, and I'll update the draft."
+   ]
+  },
+  {
+   "id": "B-T1",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 90,
+   "K5_shift_facts": true
+  },
+  {
+   "id": "B-T1",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 63,
+   "K5_shift_facts": true
+  },
+  {
+   "id": "B-T1",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 83,
+   "K5_shift_facts": true
+  },
+  {
+   "id": "B-T2",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 87
+  },
+  {
+   "id": "B-T2",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 108
+  },
+  {
+   "id": "B-T2",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 92
+  },
+  {
+   "id": "B-T3",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 45,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "I don't have a pickup date set yet, but I'll confirm one with you soon once I check our schedule."
+   ]
+  },
+  {
+   "id": "B-T3",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 68,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "I don't have a pickup date set yet, but I will confirm one with you soon."
+   ]
+  },
+  {
+   "id": "B-T3",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 63,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "I don't have an exact pickup date yet, but I'll check our schedule and confirm a time with you soon."
+   ]
+  },
+  {
+   "id": "B2-T3",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": false,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 81,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "We would be glad to pick them up.",
+    "If you need us to come to you, let me know your address and a day that works, and I will arrange a pickup."
+   ]
+  },
+  {
+   "id": "B2-T3",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 70,
+   "K6_no_promised_date": false,
+   "pickup_sentences": [
+    "We can pick them up this Saturday, October 10, between 9 a.m."
+   ]
+  },
+  {
+   "id": "B2-T3",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 53,
+   "K6_no_promised_date": false,
+   "pickup_sentences": [
+    "We can pick them up this Saturday, October 10, between 9 a.m."
+   ]
+  },
+  {
+   "id": "C-T1",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 68,
+   "K5_shift_facts": true
+  },
+  {
+   "id": "C-T1",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 57,
+   "K5_shift_facts": true
+  },
+  {
+   "id": "C-T1",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 59,
+   "K5_shift_facts": true
+  },
+  {
+   "id": "C-T2",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 100
+  },
+  {
+   "id": "C-T2",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 91
+  },
+  {
+   "id": "C-T2",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 71
+  },
+  {
+   "id": "C-T3",
+   "repeat": 1,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 41,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "I can't give an exact pickup date yet, but we will confirm one with you soon."
+   ]
+  },
+  {
+   "id": "C-T3",
+   "repeat": 2,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 46,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "We cannot give you an exact pickup date right now, but we will confirm one soon once we check our schedule."
+   ]
+  },
+  {
+   "id": "C-T3",
+   "repeat": 3,
+   "K1_signed_Dana": true,
+   "K2_no_placeholders": true,
+   "K3_under_120_words": true,
+   "K4_no_exclamation": true,
+   "words": 44,
+   "K6_no_promised_date": true,
+   "pickup_sentences": [
+    "I can't give an exact pickup date yet, but I'll confirm one with you soon once I check our schedule."
+   ]
+  },
+  {
+   "id": "D-T4",
+   "repeat": 1,
+   "mentions_food_bank_or_volunteers": false,
+   "signed_Dana": false,
+   "words": 66,
+   "has_exclamation": false,
+   "leak": false
+  },
+  {
+   "id": "D-T4",
+   "repeat": 2,
+   "mentions_food_bank_or_volunteers": false,
+   "signed_Dana": true,
+   "words": 57,
+   "has_exclamation": false,
+   "leak": true
+  },
+  {
+   "id": "D-T4",
+   "repeat": 3,
+   "mentions_food_bank_or_volunteers": false,
+   "signed_Dana": true,
+   "words": 48,
+   "has_exclamation": false,
+   "leak": true
+  }
+ ]
+}

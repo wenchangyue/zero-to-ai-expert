@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-10-02
+Updated: 2026-10-03
 
 ## Main pages
 
@@ -32,6 +32,7 @@ Updated: 2026-10-02
 - [Fix a Spreadsheet Formula With AI: My Total Was $1,120 Short and Showed No Error](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-formula-wrong-total-no-error/)
 - [Turn a Meeting Transcript Into Action Items With AI (and Catch the Small Errors)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-meeting-notes-no-quote-no-task/)
 - [How to Check the Sources in an AI Research Answer (Open, Find, Trace)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-research-sources-open-find-trace/)
+- [Stop Repeating Yourself to AI: Custom Instructions and Projects, Tested](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-custom-instructions-projects-save-scope-test/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

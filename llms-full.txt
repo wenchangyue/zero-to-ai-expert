@@ -211,6 +211,19 @@ What this lesson covers:
 - Use one request that ties every number to a link and an exact sentence.
 - Find the caveat a summary leaves out by tracing a number to the original report.
 
+### Stop Repeating Yourself to AI: Custom Instructions and Projects, Tested
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-custom-instructions-projects-save-scope-test/
+
+Save your background once as short rules (context, how answers should look, what never to do), put rules for one job in a project for that job, and test each rule in a fresh chat by asking the question that tempts the mistake. In one test (Claude Sonnet, 3 runs per setup, a fictional volunteer coordinator): with no background the answers were templates with 49 blanks across 9 answers; with her six rules pasted or saved, every answer passed every check; leaving one line out of the paste led 2 of 3 replies to promise a pickup date; and the saved rules signed a personal gift list "Dana" in 2 of 3 runs (0 of 3 without them).
+
+What this lesson covers:
+
+- Explain why a fresh chat without memory needs your background every time.
+- Write saved instructions as context, how, and never rules.
+- Decide what belongs in global instructions and what belongs in a project.
+- Test saved instructions in a fresh chat, including the "never" rules.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

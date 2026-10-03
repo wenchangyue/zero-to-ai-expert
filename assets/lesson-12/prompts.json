@@ -1,0 +1,72 @@
+[
+ {
+  "id": "A-T1",
+  "arm": "A no context",
+  "task": "T1",
+  "prompt": "Write a reminder to our volunteers about this week's shift."
+ },
+ {
+  "id": "A-T2",
+  "arm": "A no context",
+  "task": "T2",
+  "prompt": "Write a thank-you note to the volunteers who helped at last week's food drive."
+ },
+ {
+  "id": "A-T3",
+  "arm": "A no context",
+  "task": "T3",
+  "prompt": "A donor emailed asking when we can pick up the 12 folding chairs she wants to give us. Write a reply."
+ },
+ {
+  "id": "B-T1",
+  "arm": "B pasted every time",
+  "task": "T1",
+  "prompt": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.\n\nWrite a reminder to our volunteers about this week's shift."
+ },
+ {
+  "id": "B-T2",
+  "arm": "B pasted every time",
+  "task": "T2",
+  "prompt": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.\n\nWrite a thank-you note to the volunteers who helped at last week's food drive."
+ },
+ {
+  "id": "B-T3",
+  "arm": "B pasted every time",
+  "task": "T3",
+  "prompt": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.\n\nA donor emailed asking when we can pick up the 12 folding chairs she wants to give us. Write a reply."
+ },
+ {
+  "id": "B2-T3",
+  "arm": "B2 pasted, one line forgotten",
+  "task": "T3",
+  "prompt": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n\nA donor emailed asking when we can pick up the 12 folding chairs she wants to give us. Write a reply."
+ },
+ {
+  "id": "C-T1",
+  "arm": "C saved instructions",
+  "task": "T1",
+  "instructions": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.",
+  "prompt": "Write a reminder to our volunteers about this week's shift."
+ },
+ {
+  "id": "C-T2",
+  "arm": "C saved instructions",
+  "task": "T2",
+  "instructions": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.",
+  "prompt": "Write a thank-you note to the volunteers who helped at last week's food drive."
+ },
+ {
+  "id": "C-T3",
+  "arm": "C saved instructions",
+  "task": "T3",
+  "instructions": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.",
+  "prompt": "A donor emailed asking when we can pick up the 12 folding chairs she wants to give us. Write a reply."
+ },
+ {
+  "id": "D-T4",
+  "arm": "D saved instructions, unrelated request",
+  "task": "T4",
+  "instructions": "I'm Dana Okafor, volunteer coordinator at Riverside Food Bank, a small nonprofit.\n- Most of what I write goes to volunteers: plain words, no jargon, no exclamation marks.\n- Keep messages under 120 words.\n- Volunteer shifts are Saturdays, 9 a.m. to noon, at our Elm Street warehouse.\n- Sign every message \"Dana\".\n- Never promise a delivery or pickup date; say we'll confirm one.",
+  "prompt": "Suggest three birthday gift ideas for my dad. He likes gardening."
+ }
+]
