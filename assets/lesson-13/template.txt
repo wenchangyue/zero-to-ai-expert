@@ -1,0 +1,18 @@
+Here is this week's school newsletter. My child is in Grade 3.
+Make one table with these columns: Date | What | Bring or pay | Deadline.
+- Write every date as a calendar date with the weekday (for example, Mon Jan 5). If the newsletter gives only a weekday or "next week", work out the date from the newsletter's date.
+- Include only things for Grade 3 or for all grades.
+- Leave out anything cancelled.
+- Write "not stated" if something is missing.
+After the table, add a short list called "Changes" for anything moved, corrected or cancelled.
+
+Newsletter:
+{paste this week's newsletter here}
+
+Before you answer, check your table against this checklist and fix anything that fails:
+1. Every date matches the newsletter, or is worked out from the newsletter's date.
+2. Nothing in the table is only for other grades.
+3. Nothing cancelled is in the table.
+4. Every form, fee and item to bring is in "Bring or pay".
+5. Every corrected date uses the new date.
+Then give the final table and the Changes list, followed by the checklist with a check mark or the fix you made for each line.

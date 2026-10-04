@@ -1,0 +1,430 @@
+{
+ "per_arm": {
+  "A": {
+   "answers": 6,
+   "required_found": 27,
+   "required_total": 39,
+   "trap_errors": 0,
+   "answers_with_trap_error": 0,
+   "tables": 0,
+   "column_sets": []
+  },
+  "B": {
+   "answers": 6,
+   "required_found": 39,
+   "required_total": 39,
+   "trap_errors": 0,
+   "answers_with_trap_error": 0,
+   "tables": 6,
+   "column_sets": [
+    [
+     "date",
+     "what",
+     "bring or pay",
+     "deadline"
+    ]
+   ]
+  },
+  "C": {
+   "answers": 6,
+   "required_found": 39,
+   "required_total": 39,
+   "trap_errors": 0,
+   "answers_with_trap_error": 0,
+   "tables": 6,
+   "column_sets": [
+    [
+     "date",
+     "what",
+     "bring or pay",
+     "deadline"
+    ]
+   ]
+  }
+ },
+ "per_run": [
+  {
+   "id": "A-W2",
+   "repeat": 1,
+   "week": 2,
+   "required_found": 4,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [
+    "W2a"
+   ],
+   "traps": {
+    "T2x_grade5_listed": null,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": false,
+   "columns": null,
+   "words": 161
+  },
+  {
+   "id": "A-W2",
+   "repeat": 2,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 1,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": null,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": false,
+   "columns": null,
+   "words": 217
+  },
+  {
+   "id": "A-W2",
+   "repeat": 3,
+   "week": 2,
+   "required_found": 4,
+   "required_total": 5,
+   "optional_found": 1,
+   "missed": [
+    "W2a"
+   ],
+   "traps": {
+    "T2x_grade5_listed": null,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": false,
+   "columns": null,
+   "words": 200
+  },
+  {
+   "id": "A-W3",
+   "repeat": 1,
+   "week": 3,
+   "required_found": 5,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [
+    "W3b",
+    "W3b_due",
+    "W3c"
+   ],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": false,
+   "columns": null,
+   "words": 178
+  },
+  {
+   "id": "A-W3",
+   "repeat": 2,
+   "week": 3,
+   "required_found": 5,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [
+    "W3b",
+    "W3b_due",
+    "W3c"
+   ],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": false,
+   "columns": null,
+   "words": 180
+  },
+  {
+   "id": "A-W3",
+   "repeat": 3,
+   "week": 3,
+   "required_found": 4,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [
+    "W3b",
+    "W3b_due",
+    "W3c",
+    "W3d"
+   ],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": false,
+   "columns": null,
+   "words": 177
+  },
+  {
+   "id": "B-W2",
+   "repeat": 1,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": false,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 214
+  },
+  {
+   "id": "B-W2",
+   "repeat": 2,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": false,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 246
+  },
+  {
+   "id": "B-W2",
+   "repeat": 3,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": false,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 222
+  },
+  {
+   "id": "B-W3",
+   "repeat": 1,
+   "week": 3,
+   "required_found": 8,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 218
+  },
+  {
+   "id": "B-W3",
+   "repeat": 2,
+   "week": 3,
+   "required_found": 8,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 218
+  },
+  {
+   "id": "B-W3",
+   "repeat": 3,
+   "week": 3,
+   "required_found": 8,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 239
+  },
+  {
+   "id": "C-W2",
+   "repeat": 1,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": false,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 363
+  },
+  {
+   "id": "C-W2",
+   "repeat": 2,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": false,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 340
+  },
+  {
+   "id": "C-W2",
+   "repeat": 3,
+   "week": 2,
+   "required_found": 5,
+   "required_total": 5,
+   "optional_found": 2,
+   "missed": [],
+   "traps": {
+    "T2x_grade5_listed": false,
+    "T2y_cancelled_listed_as_on": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 330
+  },
+  {
+   "id": "C-W3",
+   "repeat": 1,
+   "week": 3,
+   "required_found": 8,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 404
+  },
+  {
+   "id": "C-W3",
+   "repeat": 2,
+   "week": 3,
+   "required_found": 8,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 345
+  },
+  {
+   "id": "C-W3",
+   "repeat": 3,
+   "week": 3,
+   "required_found": 8,
+   "required_total": 8,
+   "optional_found": 0,
+   "missed": [],
+   "traps": {
+    "T3x_grade45_listed": false,
+    "T3y_retake_nov3": false
+   },
+   "trap_errors": 0,
+   "table": true,
+   "columns": [
+    "date",
+    "what",
+    "bring or pay",
+    "deadline"
+   ],
+   "words": 375
+  }
+ ]
+}

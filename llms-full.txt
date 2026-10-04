@@ -224,6 +224,19 @@ What this lesson covers:
 - Decide what belongs in global instructions and what belongs in a project.
 - Test saved instructions in a fresh chat, including the "never" rules.
 
+### Your First Reusable AI Workflow: A Template and a Checklist, Tested
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/reusable-ai-workflow-template-checklist-rerun/
+
+Write the job description once as a template (the shape of the answer and every rule you would otherwise forget), keep a three- or four-line checklist you run yourself against the source, and rerun the template on two new inputs before you trust it. In one test (Claude Sonnet, two fictional school newsletters, 3 runs per setup), requests typed fresh each week had 27 of 39 events and deadlines with the right date and no consistent format; a template had 39 of 39 with the same four columns; adding an AI self-check gave the same score, no reported fixes, and longer answers.
+
+What this lesson covers:
+
+- Explain why a request retyped each week gives different answers.
+- Write a template by turning last week's fixes into rules.
+- Keep a short checklist you run yourself, separate from any AI self-check.
+- Rerun a template on new inputs and fix the template, not just the answer.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

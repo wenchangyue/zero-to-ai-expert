@@ -1,0 +1,132 @@
+[
+ {
+  "id": "A-W2",
+  "repeat": 1,
+  "pairs": 5,
+  "weekday_mismatch": [],
+  "before_newsletter": [
+   "Wednesday, Oct 7"
+  ]
+ },
+ {
+  "id": "A-W2",
+  "repeat": 2,
+  "pairs": 5,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "A-W2",
+  "repeat": 3,
+  "pairs": 5,
+  "weekday_mismatch": [
+   "Wednesday, Oct 15"
+  ],
+  "before_newsletter": []
+ },
+ {
+  "id": "A-W3",
+  "repeat": 1,
+  "pairs": 1,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "A-W3",
+  "repeat": 2,
+  "pairs": 1,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "A-W3",
+  "repeat": 3,
+  "pairs": 2,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "B-W2",
+  "repeat": 1,
+  "pairs": 11,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "B-W2",
+  "repeat": 2,
+  "pairs": 12,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "B-W2",
+  "repeat": 3,
+  "pairs": 12,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "B-W3",
+  "repeat": 1,
+  "pairs": 14,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "B-W3",
+  "repeat": 2,
+  "pairs": 12,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "B-W3",
+  "repeat": 3,
+  "pairs": 11,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "C-W2",
+  "repeat": 1,
+  "pairs": 17,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "C-W2",
+  "repeat": 2,
+  "pairs": 15,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "C-W2",
+  "repeat": 3,
+  "pairs": 17,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "C-W3",
+  "repeat": 1,
+  "pairs": 14,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "C-W3",
+  "repeat": 2,
+  "pairs": 13,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ },
+ {
+  "id": "C-W3",
+  "repeat": 3,
+  "pairs": 16,
+  "weekday_mismatch": [],
+  "before_newsletter": []
+ }
+]
