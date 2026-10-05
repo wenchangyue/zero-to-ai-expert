@@ -1,0 +1,143 @@
+{
+ "A1": [],
+ "A2": [],
+ "A3": [
+  {
+   "sku": "FH-04",
+   "quote": "hand-finished-look gold rim",
+   "group": "handmade"
+  }
+ ],
+ "B1": [
+  {
+   "sku": "FH-43",
+   "quote": "looks good indoors or out on a porch",
+   "group": "outdoor"
+  }
+ ],
+ "B2": [
+  {
+   "sku": "FH-46",
+   "quote": "they add to its handmade character",
+   "group": "handmade"
+  }
+ ],
+ "B3": [
+  {
+   "sku": "FH-46",
+   "quote": "they add to its handmade charm",
+   "group": "handmade"
+  }
+ ],
+ "C1": [
+  {
+   "sku": "FH-01",
+   "quote": "Handcrafted-style stoneware",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-07",
+   "quote": "handcrafted-style quality",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-19",
+   "quote": "built for little hands and the occasional drop",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-22",
+   "quote": "for a tight, easy seal",
+   "group": "seal"
+  },
+  {
+   "sku": "FH-22",
+   "quote": "for a more sustainable kitchen",
+   "group": "eco"
+  },
+  {
+   "sku": "FH-29",
+   "quote": "renewable material",
+   "group": "eco"
+  },
+  {
+   "sku": "FH-30",
+   "quote": "hand-poured soy wax",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-34",
+   "quote": "timeless, handmade feel",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-46",
+   "quote": "eco-conscious choice",
+   "group": "eco"
+  },
+  {
+   "sku": "FH-46",
+   "quote": "add to its handmade character",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-50",
+   "quote": "renewable material",
+   "group": "eco"
+  }
+ ],
+ "C2": [
+  {
+   "sku": "FH-22",
+   "quote": "The airtight swing-top closure",
+   "group": "seal"
+  },
+  {
+   "sku": "FH-43",
+   "quote": "indoor and outdoor spaces alike",
+   "group": "outdoor"
+  },
+  {
+   "sku": "FH-46",
+   "quote": "sustainable choice",
+   "group": "eco"
+  },
+  {
+   "sku": "FH-46",
+   "quote": "add to its handmade character",
+   "group": "handmade"
+  }
+ ],
+ "C3": [
+  {
+   "sku": "FH-07",
+   "quote": "handmade-style stoneware",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-46",
+   "quote": "add to its handcrafted charm",
+   "group": "handmade"
+  },
+  {
+   "sku": "FH-46",
+   "quote": "A sustainable, stylish choice",
+   "group": "eco"
+  }
+ ],
+ "D1": [],
+ "D2": [
+  {
+   "sku": "FH-47",
+   "quote": "relaxed, handcrafted feel",
+   "group": "handmade"
+  }
+ ],
+ "D3": [
+  {
+   "sku": "FH-07",
+   "quote": "handmade-style charm",
+   "group": "handmade"
+  }
+ ]
+}

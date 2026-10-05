@@ -1,0 +1,51 @@
+sku,product,material,size,details,colors,care,price,note
+FH-01,Everyday Mug,stoneware,4 in tall,holds 12 oz,"Oat, Slate, Moss",dishwasher and microwave safe,$22,
+FH-02,Tall Latte Mug,stoneware,5.5 in tall,holds 16 oz,"Oat, Ink",dishwasher and microwave safe,$26,
+FH-03,Espresso Cup,porcelain,2.5 in tall,holds 3 oz,White,dishwasher safe,$14,sold as a single cup
+FH-04,Gold Rim Mug,porcelain,4 in tall,holds 10 oz,White with gold rim,hand wash only,$28,not microwave safe (gold rim)
+FH-05,Speckled Camp Mug,enamel-coated steel,3.5 in tall,holds 12 oz,"Cream, Forest",,$18,
+FH-06,Kids' Mug,stoneware,3 in tall,holds 8 oz,"Sky, Sun",dishwasher and microwave safe,$16,
+FH-07,Seconds Mug,stoneware,4 in tall,holds 12 oz,Oat,dishwasher and microwave safe,$12,seconds: small glaze flaws
+FH-08,Double-Wall Glass Mug,borosilicate glass,4.5 in tall,holds 11 oz,Clear,,$24,
+FH-09,Cereal Bowl,stoneware,6 in wide,holds 24 oz,"Oat, Slate, Moss",dishwasher and microwave safe,$20,
+FH-10,Pasta Bowl,stoneware,9 in wide,holds 32 oz,"Oat, Slate",dishwasher and microwave safe,$28,
+FH-11,Dip Bowl Set,stoneware,3.5 in wide,set of 4,"Oat, Slate, Moss, Ink",dishwasher safe,$24,
+FH-12,Serving Bowl,stoneware,11 in wide,holds 3 quarts,Oat,,$48,
+FH-13,Gold Rim Salad Bowl,porcelain,8 in wide,holds 28 oz,White with gold rim,hand wash only,$34,not microwave safe (gold rim)
+FH-14,Seconds Pasta Bowl,stoneware,9 in wide,holds 32 oz,Slate,dishwasher and microwave safe,$16,seconds: small glaze flaws
+FH-15,Dinner Plate,stoneware,10.5 in wide,,"Oat, Slate, Moss",dishwasher and microwave safe,$26,Moss is discontinued; do not list it
+FH-16,Side Plate,stoneware,8 in wide,,"Oat, Slate",dishwasher and microwave safe,$18,
+FH-17,Gold Rim Dessert Plate,porcelain,7 in wide,,White with gold rim,hand wash only,$22,not microwave safe (gold rim)
+FH-18,Oval Platter,stoneware,14 x 9 in,,Oat,,$46,
+FH-19,Kids' Divided Plate,melamine,9 in wide,three sections,"Sky, Sun",dishwasher safe (top rack),$12,not for microwave use
+FH-20,Glass Storage Jar Small,glass with bamboo lid,4 in tall,holds 16 oz,Clear,"jar dishwasher safe, wipe lid clean",$12,
+FH-21,Glass Storage Jar Large,glass with bamboo lid,8 in tall,holds 64 oz,Clear,"jar dishwasher safe, wipe lid clean",$22,
+FH-22,Swing-Top Bottle,glass,10 in tall,holds 33 oz,Clear,,$15,
+FH-23,Spice Jar Set,glass with cork lid,3 in tall,"set of 6, 4 oz each",Clear,hand wash,$28,labels not included
+FH-24,Oil Cruet,glass,9 in tall,holds 17 oz,Amber,hand wash,$19,
+FH-25,Walnut Cutting Board,walnut,16 x 10 in,0.75 in thick,Walnut,hand wash; oil monthly,$64,
+FH-26,Maple Cutting Board,maple,18 x 12 in,1 in thick,Maple,hand wash; oil monthly,$58,
+FH-27,Bread Board,oak,15 x 8 in,with juice groove,Oak,,$42,
+FH-28,Cheese Board,olive wood,12 x 6 in,irregular natural edge,Olive wood,hand wash; oil monthly,$38,each board is unique
+FH-29,Bamboo Prep Board Set,bamboo,"10 x 7 in and 13 x 9 in",set of 2,Bamboo,hand wash,$24,
+FH-30,Cedar & Smoke Candle,soy wax,3.5 in tall,burns about 45 hours,Amber jar,trim wick to 1/4 in before each burn,$32,
+FH-31,Fig Leaf Candle,soy wax,3.5 in tall,burns about 45 hours,Green jar,trim wick to 1/4 in before each burn,$32,
+FH-32,Sea Salt Candle,soy wax,3 in tall,,White jar,trim wick to 1/4 in before each burn,$26,
+FH-33,Travel Tin Candle,soy wax,2 in tall,burns about 20 hours,Tin,trim wick to 1/4 in before each burn,$14,
+FH-34,Pillar Candle,beeswax,6 in tall,,Natural,"burn on a heat-safe plate, trim wick",$24,
+FH-35,Taper Candles,beeswax,10 in tall,set of 2,"Natural, Ink",burn in a holder,$12,Ink is discontinued; do not list it
+FH-36,Linen Tea Towel,100% linen,20 x 28 in,,"Natural, Rust, Ink",machine wash cold,$16,
+FH-37,Waffle Dish Towel,100% cotton,18 x 28 in,set of 2,"White, Slate",machine wash warm,$18,
+FH-38,Linen Napkins,100% linen,18 x 18 in,set of 4,"Natural, Rust",machine wash cold,$32,
+FH-39,Cotton Apron,cotton canvas,32 x 28 in,adjustable neck strap,"Natural, Ink",,$36,
+FH-40,Oven Mitt,cotton canvas,13 in long,,"Natural, Rust",machine wash cold,$18,
+FH-41,Linen Table Runner,100% linen,14 x 90 in,,Natural,machine wash cold,$38,
+FH-42,Terracotta Planter Small,terracotta,4 in wide,drainage hole and saucer,Terracotta,,$12,
+FH-43,Terracotta Planter Large,terracotta,8 in wide,drainage hole and saucer,Terracotta,,$26,
+FH-44,Glazed Planter,stoneware,6 in wide,no drainage hole,"Oat, Moss",wipe clean,$28,
+FH-45,Bud Vase,stoneware,5 in tall,,"Oat, Ink",wipe clean,$18,not watertight; use for dried stems only
+FH-46,Tall Glass Vase,recycled glass,12 in tall,,Clear green,hand wash,$34,small bubbles in the glass are normal
+FH-47,Hanging Planter,stoneware with jute cord,5 in wide,cord 30 in long,Oat,,$30,
+FH-48,Plant Stand,acacia wood,24 in tall,fits pots up to 10 in wide,Natural,,$54,ships unassembled
+FH-49,Serving Tray,acacia wood,18 x 12 in,with handles,Natural,wipe clean,$44,
+FH-50,Cork Coaster Set,cork,4 in wide,set of 6,Natural,,$12,

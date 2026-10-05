@@ -237,6 +237,19 @@ What this lesson covers:
 - Keep a short checklist you run yourself, separate from any AI self-check.
 - Rerun a template on new inputs and fix the template, not just the answer.
 
+### Fifty Product Descriptions in One Go, With Quality Control
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-product-descriptions-sweep-sample-widen/
+
+Search the whole batch for words your product sheet never uses (handmade, eco-, renewable, airtight, outdoor, -free, warranty, resistant, limited) and check every hit; then read five to ten descriptions at random plus every row with a warning; when you find one problem, check every row like it, fix the request and check the new batch again. In one test (Claude Sonnet, a 50-row fictional sheet, 3 runs per request), a request for persuasive, SEO-friendly copy invented claims in 9, 3 and 2 of 50 rows; the word search found 13 of the 14 counted problem rows, while a random five would have caught the 3-row case about 28% of the time.
+
+What this lesson covers:
+
+- Explain why persuasive copy requests can add claims your product data never made.
+- Run a word sweep for claims your sheet never uses, with whole-word matching off.
+- Explain why a clean random sample does not show the batch is clean.
+- Decide when to widen a check, and why to fix the request rather than one row.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

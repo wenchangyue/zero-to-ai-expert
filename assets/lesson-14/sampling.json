@@ -1,0 +1,217 @@
+{
+ "answers": [
+  {
+   "answer": "A1",
+   "errorRows": 0,
+   "rows": [],
+   "pSample5": 0.0,
+   "pSample10": 0.0,
+   "sweepCatchesRows": [],
+   "sweepHits": 0,
+   "sweepHitRows": []
+  },
+  {
+   "answer": "A2",
+   "errorRows": 0,
+   "rows": [],
+   "pSample5": 0.0,
+   "pSample10": 0.0,
+   "sweepCatchesRows": [],
+   "sweepHits": 0,
+   "sweepHitRows": []
+  },
+  {
+   "answer": "A3",
+   "errorRows": 1,
+   "rows": [
+    "FH-04"
+   ],
+   "pSample5": 0.1,
+   "pSample10": 0.2,
+   "sweepCatchesRows": [
+    "FH-04"
+   ],
+   "sweepHits": 1,
+   "sweepHitRows": [
+    "FH-04"
+   ]
+  },
+  {
+   "answer": "B1",
+   "errorRows": 1,
+   "rows": [
+    "FH-43"
+   ],
+   "pSample5": 0.1,
+   "pSample10": 0.2,
+   "sweepCatchesRows": [],
+   "sweepHits": 1,
+   "sweepHitRows": [
+    "FH-05"
+   ]
+  },
+  {
+   "answer": "B2",
+   "errorRows": 1,
+   "rows": [
+    "FH-46"
+   ],
+   "pSample5": 0.1,
+   "pSample10": 0.2,
+   "sweepCatchesRows": [
+    "FH-46"
+   ],
+   "sweepHits": 2,
+   "sweepHitRows": [
+    "FH-05",
+    "FH-46"
+   ]
+  },
+  {
+   "answer": "B3",
+   "errorRows": 1,
+   "rows": [
+    "FH-46"
+   ],
+   "pSample5": 0.1,
+   "pSample10": 0.2,
+   "sweepCatchesRows": [
+    "FH-46"
+   ],
+   "sweepHits": 1,
+   "sweepHitRows": [
+    "FH-46"
+   ]
+  },
+  {
+   "answer": "C1",
+   "errorRows": 9,
+   "rows": [
+    "FH-01",
+    "FH-07",
+    "FH-19",
+    "FH-22",
+    "FH-29",
+    "FH-30",
+    "FH-34",
+    "FH-46",
+    "FH-50"
+   ],
+   "pSample5": 0.646,
+   "pSample10": 0.891,
+   "sweepCatchesRows": [
+    "FH-01",
+    "FH-07",
+    "FH-22",
+    "FH-29",
+    "FH-30",
+    "FH-34",
+    "FH-46",
+    "FH-50"
+   ],
+   "sweepHits": 11,
+   "sweepHitRows": [
+    "FH-01",
+    "FH-05",
+    "FH-07",
+    "FH-22",
+    "FH-29",
+    "FH-30",
+    "FH-34",
+    "FH-46",
+    "FH-50"
+   ]
+  },
+  {
+   "answer": "C2",
+   "errorRows": 3,
+   "rows": [
+    "FH-22",
+    "FH-43",
+    "FH-46"
+   ],
+   "pSample5": 0.276,
+   "pSample10": 0.496,
+   "sweepCatchesRows": [
+    "FH-22",
+    "FH-43",
+    "FH-46"
+   ],
+   "sweepHits": 4,
+   "sweepHitRows": [
+    "FH-22",
+    "FH-43",
+    "FH-46"
+   ]
+  },
+  {
+   "answer": "C3",
+   "errorRows": 2,
+   "rows": [
+    "FH-07",
+    "FH-46"
+   ],
+   "pSample5": 0.192,
+   "pSample10": 0.363,
+   "sweepCatchesRows": [
+    "FH-07",
+    "FH-46"
+   ],
+   "sweepHits": 4,
+   "sweepHitRows": [
+    "FH-05",
+    "FH-07",
+    "FH-46"
+   ]
+  },
+  {
+   "answer": "D1",
+   "errorRows": 0,
+   "rows": [],
+   "pSample5": 0.0,
+   "pSample10": 0.0,
+   "sweepCatchesRows": [],
+   "sweepHits": 1,
+   "sweepHitRows": [
+    "FH-05"
+   ]
+  },
+  {
+   "answer": "D2",
+   "errorRows": 1,
+   "rows": [
+    "FH-47"
+   ],
+   "pSample5": 0.1,
+   "pSample10": 0.2,
+   "sweepCatchesRows": [
+    "FH-47"
+   ],
+   "sweepHits": 1,
+   "sweepHitRows": [
+    "FH-47"
+   ]
+  },
+  {
+   "answer": "D3",
+   "errorRows": 1,
+   "rows": [
+    "FH-07"
+   ],
+   "pSample5": 0.1,
+   "pSample10": 0.2,
+   "sweepCatchesRows": [
+    "FH-07"
+   ],
+   "sweepHits": 1,
+   "sweepHitRows": [
+    "FH-07"
+   ]
+  }
+ ],
+ "cleanSampleBound": {
+  "5": 21,
+  "10": 11,
+  "20": 5
+ }
+}

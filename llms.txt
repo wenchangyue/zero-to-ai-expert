@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-10-04
+Updated: 2026-10-05
 
 ## Main pages
 
@@ -34,6 +34,7 @@ Updated: 2026-10-04
 - [How to Check the Sources in an AI Research Answer (Open, Find, Trace)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-research-sources-open-find-trace/)
 - [Stop Repeating Yourself to AI: Custom Instructions and Projects, Tested](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-custom-instructions-projects-save-scope-test/)
 - [Your First Reusable AI Workflow: A Template and a Checklist, Tested](https://wenchangyue.github.io/zero-to-ai-expert/lessons/reusable-ai-workflow-template-checklist-rerun/)
+- [Fifty Product Descriptions in One Go, With Quality Control](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-product-descriptions-sweep-sample-widen/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use
