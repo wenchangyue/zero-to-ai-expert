@@ -250,6 +250,19 @@ What this lesson covers:
 - Explain why a clean random sample does not show the batch is clean.
 - Decide when to widen a check, and why to fix the request rather than one row.
 
+### AI for Teachers: Draft a Lesson Pack Fast, Then Check It
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-for-teachers-lesson-quiz-feedback-checks/
+
+Let AI draft the pack, then run three checks: paste the whole pack and the student answers into a new chat and ask for every factual error, quoted; give the quiz without its key to another new chat and look at every mismatch and wording flag; and check every number and named fact you will say against a trusted source. In one test (Claude Sonnet, a Grade 7 Moon-phases pack, 3 runs), the packs took 20 to 27 seconds and the feedback was right in 9 of 9 cases, but 2 of 3 plans said the Moon orbits Earth in about 29.5 days (the orbit is about 27; 29.5 is the cycle of phases). The fresh-chat check caught that 4 of 4 times but missed an activity tip that put the head's shadow at new moon.
+
+What this lesson covers:
+
+- Explain why a mostly-correct AI lesson pack still needs line-by-line checks.
+- Run a fresh-chat fact check and a blind retake of a quiz.
+- Explain why agreement between two chats is not proof.
+- Check numbers and named facts, and walk through activities, before class.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

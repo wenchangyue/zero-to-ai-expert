@@ -1,0 +1,57 @@
+{
+ "packSeconds": [
+  24,
+  27,
+  20
+ ],
+ "packSecondsSource": "run_at_utc of runs 1-3 (12:34:42, 12:35:06, 12:35:33 UTC) and runs.json write time 12:35:53 UTC",
+ "feedback": {
+  "studentA_noInventedError": "3/3",
+  "studentB_shadowCaught": "3/3",
+  "studentC_swapCaught": "3/3"
+ },
+ "quiz": {
+  "items": 30,
+  "keyErrorsByReading": 0,
+  "ambiguousByKey": 0
+ },
+ "lessonErrors": {
+  "pack1": [
+   "Objective: 'the Moon's position in its ~29.5-day orbit around Earth' (orbit is ~27.3 days; 29.5 is the cycle of phases)",
+   "Tip: 'the head blocks the light at \"new moon\" position' (with the lamp as Sun and head as Earth, the head shadows the ball at the full-moon position, as in a lunar eclipse; at new moon the ball is between lamp and head) \u2014 found by the GPT-6 script review, missed by my read and by both fresh-chat checks"
+  ],
+  "pack2": [
+   "Mini-lesson: 'The Moon orbits Earth about once every 29.5 days.'"
+  ],
+  "pack3": []
+ },
+ "foundByMyReadBeforeChecks": {
+  "orbitSlip": "2/2",
+  "quarterNote": "0/1 (missed; found by the fresh-chat check, then verified against NASA)",
+  "headTip": "0/1"
+ },
+ "timingsSumTo45": "3/3",
+ "factCheckB": {
+  "runs": 6,
+  "orbitSlipCaught": "4/4",
+  "quarterNoteCaught": "2/2",
+  "cleanPackSaidNoErrors": "2/2",
+  "falseErrorClaims": 0,
+  "secondsEach": "15-17",
+  "headTipCaught": "0/2"
+ },
+ "blindRetakeC": {
+  "runs": 6,
+  "itemsAnswered": 60,
+  "agreeWithKey": 60,
+  "flaggedQ2AsPossiblyTwoAnswers": "6/6",
+  "alsoFlaggedQ4": "1/6 (quiz 3, retake 2)",
+  "secondsEach": "6-9"
+ },
+ "classification": "Definite factual errors: the orbit slip (packs 1, 2) and the head-shadow tip (pack 1). Potentially misleading wording: the 'quarter' note (pack 1). falseErrorClaims counts B claims judged wrong on reading; it is not an exhaustive validation.",
+ "potentiallyMisleadingWording": {
+  "pack1": [
+   "Answer-key note: the first quarter looking half-lit is 'a good teaching moment about why it's called quarter' (the name comes from a quarter of the way through the cycle; NASA)"
+  ]
+ }
+}
