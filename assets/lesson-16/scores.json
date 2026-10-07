@@ -1,0 +1,239 @@
+{
+ "B1": {
+  "kept": 50,
+  "recall": "18/20",
+  "missed": [
+   8,
+   68
+  ],
+  "missedNoAbstract": [
+   68
+  ],
+  "canaryAllKept": true,
+  "canaryKept": [
+   7,
+   22,
+   59
+  ],
+  "decided": 200,
+  "include": 12,
+  "unsure": 38,
+  "includeOnlyRecall": "10/20",
+  "undecided": []
+ },
+ "B2": {
+  "kept": 52,
+  "recall": "18/20",
+  "missed": [
+   8,
+   56
+  ],
+  "missedNoAbstract": [],
+  "canaryAllKept": true,
+  "canaryKept": [
+   7,
+   22,
+   59
+  ],
+  "decided": 200,
+  "include": 9,
+  "unsure": 43,
+  "includeOnlyRecall": "8/20",
+  "undecided": []
+ },
+ "B3": {
+  "kept": 51,
+  "recall": "17/20",
+  "missed": [
+   8,
+   56,
+   68
+  ],
+  "missedNoAbstract": [
+   68
+  ],
+  "canaryAllKept": true,
+  "canaryKept": [
+   7,
+   22,
+   59
+  ],
+  "decided": 200,
+  "include": 12,
+  "unsure": 39,
+  "includeOnlyRecall": "9/20",
+  "undecided": []
+ },
+ "A1": {
+  "kept": 18,
+  "recall": "17/20",
+  "missed": [
+   8,
+   68,
+   153
+  ],
+  "missedNoAbstract": [
+   68,
+   153
+  ],
+  "canaryAllKept": true,
+  "canaryKept": [
+   7,
+   22,
+   59
+  ]
+ },
+ "A2": {
+  "kept": 26,
+  "recall": "17/20",
+  "missed": [
+   8,
+   68,
+   153
+  ],
+  "missedNoAbstract": [
+   68,
+   153
+  ],
+  "canaryAllKept": true,
+  "canaryKept": [
+   7,
+   22,
+   59
+  ]
+ },
+ "A3": {
+  "kept": 29,
+  "recall": "18/20",
+  "missed": [
+   8,
+   68
+  ],
+  "missedNoAbstract": [
+   68
+  ],
+  "canaryAllKept": true,
+  "canaryKept": [
+   7,
+   22,
+   59
+  ]
+ },
+ "secondLookOnA1Excludes": {
+  "C1": {
+   "flagged": 14,
+   "rows": [
+    9,
+    41,
+    48,
+    58,
+    64,
+    94,
+    113,
+    117,
+    136,
+    137,
+    153,
+    156,
+    159,
+    160
+   ],
+   "recovered": [
+    153
+   ]
+  },
+  "C2": {
+   "flagged": 16,
+   "rows": [
+    9,
+    41,
+    48,
+    58,
+    64,
+    94,
+    113,
+    116,
+    117,
+    127,
+    130,
+    136,
+    137,
+    153,
+    156,
+    159
+   ],
+   "recovered": [
+    153
+   ]
+  },
+  "C3": {
+   "flagged": 16,
+   "rows": [
+    9,
+    41,
+    58,
+    64,
+    94,
+    113,
+    116,
+    117,
+    127,
+    130,
+    136,
+    137,
+    153,
+    156,
+    159,
+    160
+   ],
+   "recovered": [
+    153
+   ]
+  }
+ },
+ "noAbstractRule": {
+  "rule": "excluded records with no abstract and DBT/MBT/TFP/schema words in the title",
+  "count": 14,
+  "rows": [
+   47,
+   58,
+   64,
+   68,
+   93,
+   94,
+   116,
+   120,
+   136,
+   153,
+   160,
+   174,
+   182,
+   186
+  ],
+  "recovers": [
+   68,
+   153
+  ]
+ },
+ "timingSeconds": {
+  "A_per_run": [
+   25,
+   27,
+   33
+  ],
+  "B_per_batch": "about 8",
+  "B_full_pass": "about 80",
+  "C_per_run": [
+   26,
+   33,
+   30
+  ]
+ },
+ "notes": {
+  "A3": "said it recommended 31 but listed 29 numbers",
+  "paper8": "abstract states a 12-week residential programme and about half with BPD; the review included it. Our criteria paraphrase omitted the review's exception (trials with <66% BPD were kept if disaggregated data were provided)",
+  "paper68": "no abstract in OpenAlex, Crossref or Semantic Scholar; title says 'naturalistic evaluation'; the review (RCTs only) included it after full text",
+  "paper56": "DBT vs skills-only vs individual-only: kept by A 3/3, excluded by B2 and B3 as 'incomplete versions', although the full DBT arm qualifies"
+ },
+ "scoringRule": "A: kept = the model's main include list plus 'include but verify' items; companion/secondary reports offered as optional (A1: 156,117,113,159,58,64,136,137) are counted as not kept. None of the missed labeled-included records (8,68,153) were among them, so recall is unaffected."
+}

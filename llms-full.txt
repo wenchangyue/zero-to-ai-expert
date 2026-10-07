@@ -263,6 +263,19 @@ What this lesson covers:
 - Explain why agreement between two chats is not proof.
 - Check numbers and named facts, and walk through activities, before class.
 
+### Screen 200 Research Papers with AI, and Check What It Missed
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-screen-research-papers-screen-rescue-recheck/
+
+Let AI take the first pass with your exact criteria (exceptions included) and a decision for every record; send every record with no abstract that could be relevant to full text; and give a fresh chat the excluded pile for a second look. In one test (Claude Sonnet; 200 records from the SYNERGY Oud_2018 dataset, 20 labeled included), pasting all 200 at once kept 17 or 18 of the 20 per run; three known papers were kept in all 6 runs while others were missed; a no-abstract title filter (14 records) brought back two misses and a second look brought back one; one miss was never recovered.
+
+What this lesson covers:
+
+- Explain why dropped papers are harder to catch than invented claims.
+- Run AI screening with a decision for every record and count them.
+- Explain why a small known-paper check can pass while papers are missed.
+- Use a no-abstract rescue rule and a second look at excluded records.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
