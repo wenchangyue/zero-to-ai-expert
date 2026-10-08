@@ -1,0 +1,107 @@
+[
+ {
+  "qid": "T1-1",
+  "topic": "T1",
+  "message": "How much notice do you need for a custom cake?"
+ },
+ {
+  "qid": "T1-2",
+  "topic": "T1",
+  "message": "When's the latest I can order a cake for my daughter's party?"
+ },
+ {
+  "qid": "T1-3",
+  "topic": "T1",
+  "message": "how many days in advance do cakes need to be ordered"
+ },
+ {
+  "qid": "T2-1",
+  "topic": "T2",
+  "message": "How much is a cake for 15 people?"
+ },
+ {
+  "qid": "T2-2",
+  "topic": "T2",
+  "message": "What would a cake that feeds about fifteen cost?"
+ },
+ {
+  "qid": "T2-3",
+  "topic": "T2",
+  "message": "price for a cake for 15 guests?"
+ },
+ {
+  "qid": "T3-1",
+  "topic": "T3",
+  "message": "Do you deliver on Sundays?"
+ },
+ {
+  "qid": "T3-2",
+  "topic": "T3",
+  "message": "Could you bring the cake to our house this Sunday?"
+ },
+ {
+  "qid": "T3-3",
+  "topic": "T3",
+  "message": "is sunday delivery possible"
+ },
+ {
+  "qid": "T4-1",
+  "topic": "T4",
+  "message": "My son has a nut allergy. Can you make a nut-free cake?"
+ },
+ {
+  "qid": "T4-2",
+  "topic": "T4",
+  "message": "Is it possible to get a cake with no nuts at all? It's for a kid with a severe allergy."
+ },
+ {
+  "qid": "T4-3",
+  "topic": "T4",
+  "message": "nut free cake for allergy kid??"
+ },
+ {
+  "qid": "T5-1",
+  "topic": "T5",
+  "message": "If I cancel 2 days before pickup, do I get my deposit back?"
+ },
+ {
+  "qid": "T5-2",
+  "topic": "T5",
+  "message": "Something came up and I need to cancel. Pickup is in 48 hours. Can I get my deposit refunded?"
+ },
+ {
+  "qid": "T5-3",
+  "topic": "T5",
+  "message": "cancelling, pickup is the day after tomorrow, refund?"
+ },
+ {
+  "qid": "T6-1",
+  "topic": "T6",
+  "message": "My cake arrived with the top smashed. I want a full refund."
+ },
+ {
+  "qid": "T6-2",
+  "topic": "T6",
+  "message": "The cake we picked up yesterday was damaged and the party was ruined. What are you going to do about it?"
+ },
+ {
+  "qid": "T6-3",
+  "topic": "T6",
+  "message": "cake was wrecked, want my money back"
+ },
+ {
+  "qid": "T7-1",
+  "topic": "T7",
+  "message": "Do you make vegan cakes?"
+ },
+ {
+  "qid": "T7-2",
+  "topic": "T7",
+  "message": "Is there an option without eggs or dairy? We're vegan."
+ },
+ {
+  "qid": "T7-3",
+  "topic": "T7",
+  "message": "vegan cake possible?"
+ }
+]

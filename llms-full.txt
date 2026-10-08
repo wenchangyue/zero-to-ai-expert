@@ -276,6 +276,19 @@ What this lesson covers:
 - Explain why a small known-paper check can pass while papers are missed.
 - Use a no-abstract rescue rule and a second look at excluded records.
 
+### Customer Replies with AI: Give It the Facts, Then Check What It Promises
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-customer-replies-policy-paste-probe/
+
+Write your facts on one page (including what you don't do and the promises staff never make), paste it into every request for a reply, and before relying on it, ask a fresh chat which customer questions it doesn't answer and where it is unclear. In one test (Claude Sonnet, a fictional bakery, 21 messages, 3 runs), replies written without the policy passed 0 of 63 checklist items and 26 invented something, including refunds and Sunday delivery; with the policy, 63 of 63 passed, but a close read still found a too-soon pickup suggestion, a leftover placeholder and one vague line read two ways.
+
+What this lesson covers:
+
+- Explain why a "friendly reply" without your facts can invent promises.
+- Write a one-page policy that includes the "no"s and the hand-offs.
+- Use a fresh chat to find gaps and unclear lines in the policy.
+- Check a draft for promises, unsupported facts and leftover placeholders.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

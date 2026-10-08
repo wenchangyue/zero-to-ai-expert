@@ -1,0 +1,86 @@
+{
+ "perArmTopic": {
+  "A": {
+   "T1": {
+    "placeholder": 9
+   },
+   "T2": {
+    "placeholder": 9
+   },
+   "T3": {
+    "placeholder": 6,
+    "guess": 3
+   },
+   "T4": {
+    "guess": 3,
+    "placeholder": 6
+   },
+   "T5": {
+    "placeholder": 6,
+    "guess": 3
+   },
+   "T6": {
+    "guess": 9
+   },
+   "T7": {
+    "placeholder": 1,
+    "guess": 8
+   }
+  },
+  "B": {
+   "T1": {
+    "correct": 9
+   },
+   "T2": {
+    "correct": 9
+   },
+   "T3": {
+    "correct": 9
+   },
+   "T4": {
+    "correct": 9
+   },
+   "T5": {
+    "correct": 9
+   },
+   "T6": {
+    "correct": 9
+   },
+   "T7": {
+    "correct": 9
+   }
+  }
+ },
+ "A": {
+  "correct": 0,
+  "placeholder": 37,
+  "guess": 26,
+  "guessBreakingMustNot": 23
+ },
+ "B": {
+  "correct": 63
+ },
+ "A_phrasingFlips": {
+  "T3": "'Could you bring the cake to our house this Sunday?' got a yes-draft 3/3; the other phrasings got two drafts",
+  "T5": "terse 'cancelling \u2026 refund?' got a promised refund 3/3; others got options"
+ },
+ "A_T6": "9/9 promise a remedy (6 full refund; 3 refund or replacement)",
+ "A_T7": "8/9 'yes, we make vegan cakes'",
+ "B_T6_24h": {
+  "T6-1": "'within 24 hours of the order' 3/3",
+  "T6-2": "'of pickup' 3/3",
+  "T6-3": "pickup / pickup or delivery / unspecified"
+ },
+ "B_T4": "2 of 9 refuse outright ('can't make a nut-free cake'), beyond the policy's 'can't guarantee'; none promise",
+ "C_gapCheck": {
+  "runs": 3,
+  "vegan_gap": "3/3",
+  "24h_from_what": "3/3",
+  "nut_wording": "3/3",
+  "words": [
+   936,
+   588,
+   621
+  ]
+ }
+}

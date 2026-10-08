@@ -1,0 +1,1451 @@
+[
+ {
+  "id": "A-T1-1",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice left as bracketed '[1–2 weeks]' / '[3–4 weeks]': concrete example numbers inside brackets, flagged as placeholders to owner"
+ },
+ {
+  "id": "A-T1-1",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-1",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-2",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-2",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-2",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-3",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-3",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T1-3",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "notice period left as [X days]; example numbers only in brackets/owner note"
+ },
+ {
+  "id": "A-T2-1",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-1",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-1",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-2",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-2",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-2",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-3",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as '[PRICE RANGE, e.g., $60–$85]' (example range inside brackets)"
+ },
+ {
+  "id": "A-T2-3",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T2-3",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "price left as $[price]; size left bracketed with example sizes"
+ },
+ {
+  "id": "A-T3-1",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: yes / no Sunday delivery"
+ },
+ {
+  "id": "A-T3-1",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: yes / no Sunday delivery"
+ },
+ {
+  "id": "A-T3-1",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: yes / no Sunday delivery"
+ },
+ {
+  "id": "A-T3-2",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "We'd be happy to deliver your cake this Sunday."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "single draft agrees to Sunday delivery (opposite of policy); a swap-in 'can't deliver Sundays' line only in owner notes"
+ },
+ {
+  "id": "A-T3-2",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we'd be happy to deliver your cake this Sunday."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "main draft agrees to Sunday delivery (fee bracketed); full alternative 'not able to deliver' draft offered below"
+ },
+ {
+  "id": "A-T3-2",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we'd be happy to deliver your cake this Sunday!"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "single draft agrees to Sunday delivery; 'can't do Sunday' only as optional tweak in notes"
+ },
+ {
+  "id": "A-T3-3",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: yes / no Sunday delivery"
+ },
+ {
+  "id": "A-T3-3",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: yes / no Sunday delivery"
+ },
+ {
+  "id": "A-T3-3",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: yes / no Sunday delivery"
+ },
+ {
+  "id": "A-T4-1",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "We can make a cake using nut-free recipes and ingredients."
+  ],
+  "hitsMustNot": null,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "asserts nut-free-ingredient cake; promises to explain kitchen handling later; owner note warns about cross-contact. Borderline 'promise nut-free'"
+ },
+ {
+  "id": "A-T4-1",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "Option A (kitchen handles nuts, can't guarantee) vs Option B (careful steps); owner picks"
+ },
+ {
+  "id": "A-T4-1",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "Option A (can't guarantee) vs Option B ('Our kitchen is nut-free'); owner picks"
+ },
+ {
+  "id": "A-T4-2",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "Option A (if you can guarantee nut-free) vs Option B (kitchen handles nuts)"
+ },
+ {
+  "id": "A-T4-2",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we can make a cake without nuts in any of the ingredients."
+  ],
+  "hitsMustNot": null,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "asserts nut-ingredient-free cake as fact; cross-contact statement bracketed for owner (both bracket options say not guaranteed). Borderline"
+ },
+ {
+  "id": "A-T4-2",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we can make a cake with no nut ingredients."
+  ],
+  "hitsMustNot": null,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "asserts nut-ingredient-free cake as fact; kitchen/cross-contact status bracketed. Borderline"
+ },
+ {
+  "id": "A-T4-3",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no answer; asks allergy details and says 'I'll let you know exactly what we can do'; owner note on cross-contact"
+ },
+ {
+  "id": "A-T4-3",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "allergen practice left as bracketed line with two example options"
+ },
+ {
+  "id": "A-T4-3",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no answer; kitchen status left out, suggested lines in owner note"
+ },
+ {
+  "id": "A-T5-1",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [
+   "deposits aren't refundable within 3 days of pickup"
+  ],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "Option A full refund / Option B non-refundable; Option B invents a 3-day window (coincides with policy's 72 h) as fact inside that option"
+ },
+ {
+  "id": "A-T5-1",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "bracketed choice: full refund / non-refundable within [X] days"
+ },
+ {
+  "id": "A-T5-1",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "two drafts: refundable / not refundable within [X] days"
+ },
+ {
+  "id": "A-T5-2",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "choose-one options (full refund / partial / credit or non-refundable); draft asserts the order is already cancelled; owner note recommends full or partial refund as 'goodwill-building'"
+ },
+ {
+  "id": "A-T5-2",
+  "repeat": 2,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "choose-one options (full refund / partial / credit or non-refundable); draft asserts the order is already cancelled"
+ },
+ {
+  "id": "A-T5-2",
+  "repeat": 3,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "choose-one options (full refund / partial / credit or non-refundable); draft asserts the order is already cancelled"
+ },
+ {
+  "id": "A-T5-3",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Your refund of [amount] will go back to your original payment method"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "asserts a refund (amount bracketed); partial-refund swap line in notes"
+ },
+ {
+  "id": "A-T5-3",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "we'll refund you in full to your original payment method",
+   "You should see it within 5-7 business days.",
+   "pickup on Saturday"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "asserts full refund, invents 5-7 day timeline and Saturday pickup"
+ },
+ {
+  "id": "A-T5-3",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Since you're cancelling more than 24 hours ahead, we'll send a full refund to your original payment method."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "asserts full refund and invents a 24-hour cancellation rule"
+ },
+ {
+  "id": "A-T6-1",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'd be happy to give you a full refund.",
+   "I'll process it today",
+   "the refund is still yours"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund",
+  "altDraftsOffered": false,
+  "note": "promises refund today; photo optional ('the refund is still yours')"
+ },
+ {
+  "id": "A-T6-1",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "We'd be happy to make this right with a full refund."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-1",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'm happy to give you a full refund."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-2",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'll offer you either a full refund or a replacement cake, whichever you prefer.",
+   "I'd be glad to bake something special for you at no charge."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund or replacement (+ free future cake)",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-2",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'll arrange a full refund or a replacement cake, whichever you prefer."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund or replacement",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-2",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'll be happy to offer you a full refund or a free replacement cake, whichever you prefer."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund or replacement",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-3",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'll get your refund sorted out right away."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-3",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'll get your refund sorted out right away."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T6-3",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "promises remedy",
+  "inventedSpecifics": [
+   "I'll get your refund processed right away."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": "refund",
+  "altDraftsOffered": false,
+  "note": "asks for a photo, but promises remedy"
+ },
+ {
+  "id": "A-T7-1",
+  "repeat": 1,
+  "class": "placeholder",
+  "answer": "both drafts",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": true,
+  "note": "'If yes' / 'If not' drafts"
+ },
+ {
+  "id": "A-T7-1",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we do make vegan cakes!"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": ""
+ },
+ {
+  "id": "A-T7-1",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we do make vegan cakes!"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "owner note: 'I assumed you do offer vegan cakes'"
+ },
+ {
+  "id": "A-T7-2",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we do have vegan options!",
+   "while the recipes themselves are fully vegan"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "item list bracketed; mentions egg/dairy cross-contact"
+ },
+ {
+  "id": "A-T7-2",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we do have vegan options made without eggs or dairy."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "item list bracketed; mentions cross-contact"
+ },
+ {
+  "id": "A-T7-2",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we do have vegan options, made without eggs or dairy.",
+   "We're also happy to take special orders with a bit of notice."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "item list bracketed; cross-contact line"
+ },
+ {
+  "id": "A-T7-3",
+  "repeat": 1,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we can make a vegan cake.",
+   "We ask for a few days' notice on custom orders"
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no draft separators; whole reply customer-facing"
+ },
+ {
+  "id": "A-T7-3",
+  "repeat": 2,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we can make a vegan cake."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "lead time bracketed"
+ },
+ {
+  "id": "A-T7-3",
+  "repeat": 3,
+  "class": "guess",
+  "answer": "yes",
+  "inventedSpecifics": [
+   "Yes, we can make a vegan cake.",
+   "We usually ask for a few days' notice for custom orders."
+  ],
+  "hitsMustNot": true,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": ""
+ },
+ {
+  "id": "B-T1-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T1-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "at least 5 days; shorter notice = owner decides, no promise"
+ },
+ {
+  "id": "B-T2-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T2-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": null,
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "8-inch, serves 14-16, from $65, design affects price"
+ },
+ {
+  "id": "B-T3-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy)"
+ },
+ {
+  "id": "B-T3-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy)"
+ },
+ {
+  "id": "B-T3-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy)"
+ },
+ {
+  "id": "B-T3-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy); owner note flags that 'this Sunday' (Oct 11) is <5 days' notice and leaves rush-order call to owner"
+ },
+ {
+  "id": "B-T3-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy); owner note flags possible shortfall vs 5-day notice"
+ },
+ {
+  "id": "B-T3-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy); owner note flags that 'this Sunday' (Oct 11) is <5 days' notice and leaves rush-order call to owner (draft still suggests Saturday pickup; note says that is also <5 days)"
+ },
+ {
+  "id": "B-T3-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy)"
+ },
+ {
+  "id": "B-T3-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy)"
+ },
+ {
+  "id": "B-T3-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no Sunday delivery; offers pickup/delivery Tue-Sat ('Tuesday through Saturday' delivery is inferred from hours, not stated in policy)"
+ },
+ {
+  "id": "B-T4-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered; also recommends a dedicated nut-free bakery"
+ },
+ {
+  "id": "B-T4-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered"
+ },
+ {
+  "id": "B-T4-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered"
+ },
+ {
+  "id": "B-T4-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered; stronger than policy: 'we can't safely make a cake for a severe nut allergy' (refusal rather than 'can't guarantee')"
+ },
+ {
+  "id": "B-T4-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered"
+ },
+ {
+  "id": "B-T4-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered"
+ },
+ {
+  "id": "B-T4-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered; stronger than policy: 'we can't make a nut-free cake'; recommends a dedicated nut-free bakery"
+ },
+ {
+  "id": "B-T4-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered"
+ },
+ {
+  "id": "B-T4-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "kitchen uses nuts; can't guarantee nut-free; no workaround offered"
+ },
+ {
+  "id": "B-T5-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T5-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "no",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no refund; needs 72 h; no exception offered (owner note says exceptions are owner's call)"
+ },
+ {
+  "id": "B-T6-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; anchors the 24-h window to 'the order' (policy gives no anchor) - minor misreading"
+ },
+ {
+  "id": "B-T6-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; anchors the 24-h window to 'the order' (policy gives no anchor) - minor misreading"
+ },
+ {
+  "id": "B-T6-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; anchors the 24-h window to 'the order' (policy gives no anchor) - minor misreading"
+ },
+ {
+  "id": "B-T6-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; anchors 24-h window to pickup and flags customer may be at/past it"
+ },
+ {
+  "id": "B-T6-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; anchors 24-h window to pickup and flags customer may be at/past it"
+ },
+ {
+  "id": "B-T6-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; anchors 24-h window to pickup and flags customer may be at/past it; leaves 'She/he' pronoun for owner to fix"
+ },
+ {
+  "id": "B-T6-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; states 24-h window (anchored to pickup)"
+ },
+ {
+  "id": "B-T6-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; states 24-h window (anchored to pickup)"
+ },
+ {
+  "id": "B-T6-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "owner reviews",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": "none",
+  "altDraftsOffered": false,
+  "note": "asks for photo; owner reviews and decides; no refund/replacement promised; omits 24-h window on purpose (pickup time unknown)"
+ },
+ {
+  "id": "B-T7-1",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; says 'We'll check what we can do'; flags allergens; adds notice + prices"
+ },
+ {
+  "id": "B-T7-1",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; will confirm with owner; flags eggs/dairy in kitchen"
+ },
+ {
+  "id": "B-T7-1",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; will check with owner; asks if vegan is need or preference"
+ },
+ {
+  "id": "B-T7-2",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; 'can't promise a fully vegan cake'; recommends a dedicated vegan bakery (leans to no); owner note says policy is silent"
+ },
+ {
+  "id": "B-T7-2",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "can't guarantee",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; can't promise egg/dairy-free; 'we'll see what we can do' if vegan by choice"
+ },
+ {
+  "id": "B-T7-2",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; will check with owner"
+ },
+ {
+  "id": "B-T7-3",
+  "repeat": 1,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; 'I'll check with our baker'"
+ },
+ {
+  "id": "B-T7-3",
+  "repeat": 2,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; 'can't confirm a vegan cake just yet', checking with owner"
+ },
+ {
+  "id": "B-T7-3",
+  "repeat": 3,
+  "class": "correct",
+  "answer": "check",
+  "inventedSpecifics": [],
+  "hitsMustNot": false,
+  "promisesRemedy": null,
+  "altDraftsOffered": false,
+  "note": "no vegan offer invented; checking with owner"
+ }
+]
