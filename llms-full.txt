@@ -289,6 +289,19 @@ What this lesson covers:
 - Use a fresh chat to find gaps and unclear lines in the policy.
 - Check a draft for promises, unsupported facts and leftover placeholders.
 
+### Before You Automate a Daily AI Summary: Checks for Silent Failures
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-daily-automation-status-coverage-heartbeat/
+
+Make every automated AI message start with a status line (OK or ALERT, with rules for the failures you can name), end with a coverage line (dates and count), and know when it should arrive so a missing message prompts a check. In one test (Claude Sonnet, a fictional bakery inbox, ten mornings, 3 runs), a plain instruction caught an empty inbox, an error page and missing emails every time, but summarized a re-sent, two-day-old batch as new in every run; with the status and coverage lines, all four broken mornings got an ALERT and none of the normal mornings did. No trigger, connection or delivery was built.
+
+What this lesson covers:
+
+- Describe the three parts of a daily automation (trigger, AI step, output).
+- Explain why stale input can pass silently while obvious failures don't.
+- Write a status line and a coverage line for an automated AI message.
+- Use a heartbeat and deliberate broken inputs to test an automation.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

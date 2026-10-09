@@ -1,0 +1,22 @@
+{
+ "A": {
+  "empty": "3/3 flagged",
+  "error": "3/3 flagged",
+  "truncated": "3/3 flagged",
+  "stale": "0/3 flagged (silent; all 3 noted Leo's email was sent Thursday without concluding the batch was outside the window; one opened 'came in overnight')",
+  "normalFalseAlarms": "0/18"
+ },
+ "B": {
+  "empty": "3/3",
+  "error": "3/3",
+  "truncated": "3/3",
+  "stale": "3/3",
+  "normalFalseAlarms": "0/18",
+  "coverageLines": "30/30 present; ranges and counts match the inputs"
+ },
+ "notes": {
+  "B-D03": "one run speculated that an empty overnight inbox 'would be unusual' for a bakery (an assumption)",
+  "staleCoverage": "on Oct 17 the coverage line reads Oct 15\u201316 in 3/3",
+  "systemDate": "B-D08 r1 noted its system clock said Oct 9 while the input said Oct 20"
+ }
+}

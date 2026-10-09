@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-10-08
+Updated: 2026-10-09
 
 ## Main pages
 
@@ -38,6 +38,7 @@ Updated: 2026-10-08
 - [AI for Teachers: Draft a Lesson Pack Fast, Then Check It](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-for-teachers-lesson-quiz-feedback-checks/)
 - [Screen 200 Research Papers with AI, and Check What It Missed](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-screen-research-papers-screen-rescue-recheck/)
 - [Customer Replies with AI: Give It the Facts, Then Check What It Promises](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-customer-replies-policy-paste-probe/)
+- [Before You Automate a Daily AI Summary: Checks for Silent Failures](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-daily-automation-status-coverage-heartbeat/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

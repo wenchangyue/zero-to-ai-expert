@@ -1,0 +1,62 @@
+[
+ {
+  "day": 1,
+  "date": "2026-10-13",
+  "kind": "normal",
+  "input": "Today's date: Tuesday, October 13, 2026\nEmails received since 6 pm yesterday (3):\n\nFrom: Maria Lopez\nDate: Mon Oct 12, 7:15 pm\nSubject: Order for Saturday\n\nHi! Can I add a message to my cake: 'Happy 40th, Dan'? Pickup Saturday 10am.\n\n---\n\nFrom: Supply Co.\nDate: Tue Oct 13, 2:20 am\nSubject: Flour delivery\n\nYour flour delivery is scheduled for Thursday between 8 and 10 am.\n\n---\n\nFrom: Jake\nDate: Mon Oct 12, 9:45 pm\nSubject: Question\n\nDo you have any gluten-free options this week?"
+ },
+ {
+  "day": 2,
+  "date": "2026-10-14",
+  "kind": "normal",
+  "input": "Today's date: Wednesday, October 14, 2026\nEmails received since 6 pm yesterday (3):\n\nFrom: Priya\nDate: Tue Oct 13, 7:15 pm\nSubject: Cancel order\n\nI need to cancel my order #2211 for Friday. Sorry!\n\n---\n\nFrom: Tom Reed\nDate: Wed Oct 14, 2:20 am\nSubject: Thank you\n\nThe birthday cake was perfect, thank you all.\n\n---\n\nFrom: City Market\nDate: Tue Oct 13, 9:45 pm\nSubject: Stall reminder\n\nReminder: your Saturday market stall fee is due by Friday 5 pm."
+ },
+ {
+  "day": 3,
+  "date": "2026-10-15",
+  "kind": "empty",
+  "input": "Today's date: Thursday, October 15, 2026\nEmails received since 6 pm yesterday (0):\n\n"
+ },
+ {
+  "day": 4,
+  "date": "2026-10-16",
+  "kind": "normal",
+  "input": "Today's date: Friday, October 16, 2026\nEmails received since 6 pm yesterday (4):\n\nFrom: Ana\nDate: Thu Oct 15, 7:15 pm\nSubject: Wedding tasting\n\nCould we book a tasting for next Tuesday afternoon?\n\n---\n\nFrom: Supply Co.\nDate: Fri Oct 16, 2:20 am\nSubject: Butter price change\n\nFrom November 1, butter goes up 6%.\n\n---\n\nFrom: Leo\nDate: Thu Oct 15, 9:45 pm\nSubject: Late pickup\n\nI'm running late, can I pick up my order at 4:30 instead of 4?\n\n---\n\nFrom: Grace\nDate: Fri Oct 16, 4:40 am\nSubject: Allergy question\n\nDoes the carrot cake contain walnuts?"
+ },
+ {
+  "day": 5,
+  "date": "2026-10-17",
+  "kind": "stale",
+  "input": "Today's date: Saturday, October 17, 2026\nEmails received since 6 pm yesterday (4):\n\nFrom: Ana\nDate: Thu Oct 15, 7:15 pm\nSubject: Wedding tasting\n\nCould we book a tasting for next Tuesday afternoon?\n\n---\n\nFrom: Supply Co.\nDate: Fri Oct 16, 2:20 am\nSubject: Butter price change\n\nFrom November 1, butter goes up 6%.\n\n---\n\nFrom: Leo\nDate: Thu Oct 15, 9:45 pm\nSubject: Late pickup\n\nI'm running late, can I pick up my order at 4:30 instead of 4?\n\n---\n\nFrom: Grace\nDate: Fri Oct 16, 4:40 am\nSubject: Allergy question\n\nDoes the carrot cake contain walnuts?"
+ },
+ {
+  "day": 6,
+  "date": "2026-10-18",
+  "kind": "normal",
+  "input": "Today's date: Sunday, October 18, 2026\nEmails received since 6 pm yesterday (2):\n\nFrom: Ben\nDate: Sat Oct 17, 7:15 pm\nSubject: Corporate order\n\nWe'd like 40 cupcakes for an office event on the 29th. Is that possible?\n\n---\n\nFrom: Maria Lopez\nDate: Sun Oct 18, 2:20 am\nSubject: Re: Order for Saturday\n\nThanks! Also, could the frosting be light blue?"
+ },
+ {
+  "day": 7,
+  "date": "2026-10-19",
+  "kind": "error",
+  "input": "Today's date: Monday, October 19, 2026\nEmails received since 6 pm yesterday:\n\n<html><head><title>429 Too Many Requests</title></head><body><h1>Too Many Requests</h1><p>You have exceeded the rate limit for this API. Try again later.</p></body></html>"
+ },
+ {
+  "day": 8,
+  "date": "2026-10-20",
+  "kind": "normal",
+  "input": "Today's date: Tuesday, October 20, 2026\nEmails received since 6 pm yesterday (3):\n\nFrom: Supply Co.\nDate: Mon Oct 19, 7:15 pm\nSubject: Delivery delayed\n\nThursday's flour delivery is delayed to Friday morning.\n\n---\n\nFrom: Kim\nDate: Tue Oct 20, 2:20 am\nSubject: Complaint\n\nThe croissants I bought yesterday were stale. Not happy.\n\n---\n\nFrom: Ana\nDate: Mon Oct 19, 9:45 pm\nSubject: Re: Wedding tasting\n\nTuesday 2pm works for us, see you then!"
+ },
+ {
+  "day": 9,
+  "date": "2026-10-21",
+  "kind": "truncated",
+  "input": "Today's date: Wednesday, October 21, 2026\nEmails received since 6 pm yesterday (6):\n\nFrom: Omar\nDate: Tue Oct 20, 7:15 pm\nSubject: Large order\n\nCould you make 3 sheet cakes for a school fundraiser on the 30th?\n\n---\n\nFrom: Supply Co.\nDate: Wed Oct 21, 2:20 am\nSubject: Invoice overdue\n\nInvoice #8812 is now 14 days overdue. Please pay to avoid a hold on deliveries."
+ },
+ {
+  "day": 10,
+  "date": "2026-10-22",
+  "kind": "normal",
+  "input": "Today's date: Thursday, October 22, 2026\nEmails received since 6 pm yesterday (3):\n\nFrom: Rosa\nDate: Wed Oct 21, 7:15 pm\nSubject: Bread subscription\n\nCan I pause my weekly bread subscription for two weeks?\n\n---\n\nFrom: City Market\nDate: Thu Oct 22, 2:20 am\nSubject: Market cancelled\n\nSaturday's market is cancelled due to the weather forecast.\n\n---\n\nFrom: Dan\nDate: Wed Oct 21, 9:45 pm\nSubject: Pickup confirmed\n\nPicking up the 40th birthday cake Saturday at 10. Thanks!"
+ }
+]

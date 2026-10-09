@@ -1,0 +1,302 @@
+{
+ "A-D01#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D01#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D01#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D02#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D02#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D02#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D03#1": {
+  "kind": "empty",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D03#2": {
+  "kind": "empty",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D03#3": {
+  "kind": "empty",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D04#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D04#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D04#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D05#1": {
+  "kind": "stale",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D05#2": {
+  "kind": "stale",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D05#3": {
+  "kind": "stale",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D06#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D06#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D06#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D07#1": {
+  "kind": "error",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D07#2": {
+  "kind": "error",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D07#3": {
+  "kind": "error",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D08#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D08#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D08#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D09#1": {
+  "kind": "truncated",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D09#2": {
+  "kind": "truncated",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D09#3": {
+  "kind": "truncated",
+  "flag": true,
+  "coverage": null
+ },
+ "A-D10#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D10#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "A-D10#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": null
+ },
+ "B-D01#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D01#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D01#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D02#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D02#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D02#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D03#1": {
+  "kind": "empty",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D03#2": {
+  "kind": "empty",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D03#3": {
+  "kind": "empty",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D04#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D04#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D04#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D05#1": {
+  "kind": "stale",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D05#2": {
+  "kind": "stale",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D05#3": {
+  "kind": "stale",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D06#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D06#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D06#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D07#1": {
+  "kind": "error",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D07#2": {
+  "kind": "error",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D07#3": {
+  "kind": "error",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D08#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D08#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D08#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D09#1": {
+  "kind": "truncated",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D09#2": {
+  "kind": "truncated",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D09#3": {
+  "kind": "truncated",
+  "flag": true,
+  "coverage": true
+ },
+ "B-D10#1": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D10#2": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ },
+ "B-D10#3": {
+  "kind": "normal",
+  "flag": false,
+  "coverage": true
+ }
+}
