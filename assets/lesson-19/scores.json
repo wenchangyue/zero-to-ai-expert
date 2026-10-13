@@ -1,0 +1,64 @@
+{
+ "runs": {
+  "c1": {
+   "isEmail": true,
+   "subject": "Kitchen Faucet Repair Request",
+   "placeholders": 0,
+   "signedAlex": true,
+   "saysProblem": true,
+   "saysHowLong": true,
+   "asksThisWeek": true,
+   "wordsBody": 65,
+   "wordsWithSubject": 69,
+   "goodToSend": true
+  },
+  "c2": {
+   "isEmail": true,
+   "subject": "Kitchen Faucet Repair Request",
+   "placeholders": 0,
+   "signedAlex": true,
+   "saysProblem": true,
+   "saysHowLong": true,
+   "asksThisWeek": true,
+   "wordsBody": 73,
+   "wordsWithSubject": 77,
+   "goodToSend": true
+  },
+  "c3": {
+   "isEmail": true,
+   "subject": "Kitchen Faucet Repair Request",
+   "placeholders": 0,
+   "signedAlex": true,
+   "saysProblem": true,
+   "saysHowLong": true,
+   "asksThisWeek": true,
+   "wordsBody": 73,
+   "wordsWithSubject": 77,
+   "goodToSend": true
+  },
+  "v1": {
+   "isEmail": false,
+   "asksClarifyingQuestion": true,
+   "firstLine": "Of course! What would you like to tell your landlord? For example, is it about a repair, rent, a noise complaint, a lease issue, or something else?"
+  },
+  "v2": {
+   "isEmail": false,
+   "asksClarifyingQuestion": true,
+   "firstLine": "Of course! What would you like to tell your landlord? For example, is it about a repair, rent, a noise complaint, a lease issue, or something else?"
+  },
+  "v3": {
+   "isEmail": false,
+   "asksClarifyingQuestion": true,
+   "firstLine": "Of course! What would you like to tell your landlord? For example, is it about a repair, rent, a noise complaint, a lease issue, or something else?"
+  }
+ },
+ "c1_followups": {
+  "turn2_mentionsFriday": true,
+  "turn2_subject": "Urgent: Kitchen Faucet Repair Request",
+  "turn2_wordsBody": 64,
+  "turn2_wordsWithSubject": 69,
+  "turn3_claimedWords": 77,
+  "turn3_claimText": "Yes! The email is 77 words, including the subject line, greeting, and signature. It\u2019s comfortably under your 100-word limit.",
+  "turn3_claimMatchesCount": false
+ }
+}

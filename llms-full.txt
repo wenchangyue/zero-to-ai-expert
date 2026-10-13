@@ -302,6 +302,19 @@ What this lesson covers:
 - Write a status line and a coverage line for an automated AI message.
 - Use a heartbeat and deliberate broken inputs to test an automation.
 
+### How to Use ChatGPT for Beginners: Your First Real Task
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-chatgpt-for-beginners/
+
+Type the situation, not just the task: what happened, what you want, by when, how long and in what tone, and whose name goes on it. In a test on 2026-10-13 (ChatGPT on the web, logged out), "Write an email to my landlord." got a question back in 3 of 3 new chats, while a request with the situation came back ready to send in 3 of 3. Then refine in the same chat and read every line: a "firmer" rewrite added an untrue "I'm writing to follow up", and ChatGPT reported its email as 77 words when a real count was 69.
+
+What this lesson covers:
+
+- Start a first task in ChatGPT without an account.
+- Write a request that includes the situation, not just the task.
+- Refine an answer in the same chat and reread the whole result.
+- Check counts, dates and prices yourself instead of asking ChatGPT.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
