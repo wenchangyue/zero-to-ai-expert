@@ -315,6 +315,19 @@ What this lesson covers:
 - Refine an answer in the same chat and reread the whole result.
 - Check counts, dates and prices yourself instead of asking ChatGPT.
 
+### ChatGPT vs Claude vs Gemini: Same 3 Tasks, Side by Side
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/chatgpt-vs-claude-vs-gemini/
+
+None of the three won cleanly. In one session at 11 pm on 2026-10-16 (3 runs per task): asked for a text "by 6 pm today", ChatGPT and Gemini kept "today" in 3 of 3 runs although 6 pm had passed, while Claude (signed-in account, Opus 5.5) switched to "tomorrow" in 3 of 3 and said why. On "days from March 1 to April 15, 2027" (45), ChatGPT and Claude were right 3 of 3; Gemini (logged out, Flash-Lite) said 45 each time but twice labelled it as the inclusive count and gave a wrong 44. Pick an app with your own small test: same task, a known answer, and a read for what each app adds.
+
+What this lesson covers:
+
+- Run the same task in several AI apps and compare them fairly.
+- Write an answer key before reading any answer.
+- Spot what an app changed or added that you didn't give it.
+- Put context (time, timing) into a request so no app has to guess.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

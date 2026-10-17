@@ -1,0 +1,137 @@
+{
+ "chatgpt-t1-r1": {
+  "answer": "Writing\n\nHi! Would you mind moving your car out of my driveway by 6 pm today, please? I’d really appreciate it. Thanks so much for understanding!",
+  "startedAt": "2026-10-17T02:59:46.460Z",
+  "modelLabel": null
+ },
+ "chatgpt-t1-r2": {
+  "answer": "Writing\n\nHi! I hope you’re doing well. Would you mind moving your car out of my driveway by 6 pm today? I’d really appreciate it—thank you!",
+  "startedAt": "2026-10-17T03:00:06.647Z",
+  "modelLabel": null
+ },
+ "chatgpt-t1-r3": {
+  "answer": "Writing\n\nHi! I hope you’re doing well. Would you mind moving your car out of my driveway by 6 pm today? I’d really appreciate it—thank you!",
+  "startedAt": "2026-10-17T03:00:24.817Z",
+  "modelLabel": null
+ },
+ "chatgpt-t2-r1": {
+  "answer": "There are 45 days from March 1, 2027, to April 15, 2027.\n\nIf you count both March 1 and April 15 inclusively, there are 46 days.",
+  "startedAt": "2026-10-17T03:00:42.608Z",
+  "modelLabel": null
+ },
+ "chatgpt-t2-r2": {
+  "answer": "There are 45 days from March 1, 2027, to April 15, 2027.\n\nMarch 1–31: 30 days\n\nMarch 31–April 15: 15 days\n\nTotal: 45 days (excluding March 1 and counting up to April 15).",
+  "startedAt": "2026-10-17T03:01:00.524Z",
+  "modelLabel": null
+ },
+ "chatgpt-t2-r3": {
+  "answer": "There are 45 days from March 1, 2027, to April 15, 2027.\n\nMarch 1–31: 30 days elapsed after March 1\n\nApril 1–15: 15 days\n\nTotal: 30 + 15 = 45 days\n\nIf you count both March 1 and April 15 inclusively, there are 46 days.",
+  "startedAt": "2026-10-17T03:01:17.792Z",
+  "modelLabel": null
+ },
+ "chatgpt-t3-r1": {
+  "answer": "The community pool will be closed for cleaning June 7–11, and members will receive one free guest pass per closure day, redeemable by July 31, with questions handled at the front desk from 8 am to 6 pm.",
+  "startedAt": "2026-10-17T03:01:35.058Z",
+  "modelLabel": null
+ },
+ "chatgpt-t3-r2": {
+  "answer": "The community pool will be closed June 7–11 for cleaning, and each member receives one free guest pass per closure day to use by July 31, with questions answered at the front desk from 8 am to 6 pm.",
+  "startedAt": "2026-10-17T03:01:53.186Z",
+  "modelLabel": null
+ },
+ "chatgpt-t3-r3": {
+  "answer": "The community pool will be closed for cleaning June 7–11, and each member will receive five free guest passes to use by July 31, with questions answered at the front desk from 8 am to 6 pm.",
+  "startedAt": "2026-10-17T03:02:11.642Z",
+  "modelLabel": null
+ },
+ "claude-t1-r1": {
+  "answer": "[message card]\nHi! Sorry to bother you, but I think your car is parked in my driveway. Would you mind moving it by 6 pm tomorrow? Thanks so much, I really appreciate it!\n[/message card]\nNoticing the deadline mentioned has already passed.\nNoticing the deadline mentioned has already passed.\n\n\n\nSince it’s already past 6 pm tonight, I wrote this for 6 pm tomorrow. If you meant a different time, just swap it in.\n\n\n\n",
+  "startedAt": "2026-10-17T02:56:03.557Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t1-r2": {
+  "answer": "[message card]\nHi! I noticed your car is parked in my driveway, and I'll need the space by 6 pm tomorrow. Would you mind moving it before then? Thanks so much, I really appreciate it!\n[/message card]\nChecking whether the requested time has already passed.\nChecking whether the requested time has already passed.\n\nQuick heads-up: it’s already almost 11 pm, so 6 pm today has passed. I wrote the draft for 6 pm tomorrow (Saturday) instead.\n\n\n\n\nIf you need the space sooner, change “by 6 pm tomorrow” to “first thing tomorrow morning.”\n\n\n\n",
+  "startedAt": "2026-10-17T02:56:24.605Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t1-r3": {
+  "answer": "[message card]\nHi, it's your neighbor! I noticed your car is parked in my driveway, and I'll need the space by 6 pm tomorrow. Would you mind moving it before then? Thanks so much!\nHi, it's your neighbor! I noticed your car is in my driveway, and I'll need the space by 6 pm tomorrow, so would you mind moving it before then? Thanks so much!\n[/message card]\nThought for 4s\n\nThought for 4s\n\n\n\n\n\nThe first draft came out at four sentences, so use this second one, which keeps it to three. It’s already almost 11 pm, so a 6 pm deadline today has passed, and I changed it to “tomorrow.” Swap in a different time if you need the space sooner.\n\n\n\n",
+  "startedAt": "2026-10-17T02:56:45.620Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t2-r1": {
+  "answer": "There are 45 days from March 1, 2027 to April 15, 2027: 31 days to get from March 1 to April 1, plus 14 more to April 15.\n\nIf you count both the start and end dates, it’s 46 days.\n\n\n\n",
+  "startedAt": "2026-10-17T02:57:10.150Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t2-r2": {
+  "answer": "There are 45 days from March 1, 2027 to April 15, 2027: 31 days to get from March 1 to April 1, plus 14 more to reach April 15.\n\nIf you count both the start and end dates, it’s 46 days.\n\n\n\n",
+  "startedAt": "2026-10-17T02:57:27.095Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t2-r3": {
+  "answer": "There are 45 days from March 1 to April 15, 2027. March contributes 31 days to get you to April 1, and then 14 more days to reach April 15.\n\nIf you count both the start and end dates (inclusive), it’s 46 days.\n\n\n\n",
+  "startedAt": "2026-10-17T02:57:44.188Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t3-r1": {
+  "answer": "The pool is closed for cleaning June 7–11, so each member gets five free guest passes (one per closed day) to use by July 31, and the front desk (8 am–6 pm) can answer questions.\n\nIf this notice is for 2026, those dates have already passed.\n\n\n\n",
+  "startedAt": "2026-10-17T02:58:01.139Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t3-r2": {
+  "answer": "The pool closes for cleaning June 7–11, and each member gets five free guest passes (one per closed day) to use by July 31, with questions handled at the front desk from 8 am to 6 pm.\n\nIf this notice is from this year, note that those dates have already passed, so the passes would have expired.\n\n\n\n",
+  "startedAt": "2026-10-17T02:58:18.773Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "claude-t3-r3": {
+  "answer": "The community pool is closed for cleaning June 7–11, so each member gets five free guest passes (one per closed day) to use by July 31, and questions can go to the front desk from 8 am to 6 pm.\n\nSince it’s now mid-October, those passes have already expired if this notice is from 2026.\n\n\n\n",
+  "startedAt": "2026-10-17T02:58:36.579Z",
+  "modelLabel": "Opus 5.5"
+ },
+ "gemini-t1-r1": {
+  "answer": "Hi! Could you please move your car out of my driveway by 6:00 PM today? I need to use the space this evening. Thanks so much for understanding!",
+  "startedAt": "2026-10-17T03:02:29.436Z",
+  "modelLabel": null
+ },
+ "gemini-t1-r2": {
+  "answer": "Hi there! Could you please move your car out of my driveway by 6:00 PM today? Thanks so much for your help with this!",
+  "startedAt": "2026-10-17T03:02:48.891Z",
+  "modelLabel": null
+ },
+ "gemini-t1-r3": {
+  "answer": "Hi! Could you please move your car out of my driveway by 6 PM today? I need to use it this evening and would really appreciate your help. Thanks so much!",
+  "startedAt": "2026-10-17T03:03:08.223Z",
+  "modelLabel": null
+ },
+ "gemini-t2-r1": {
+  "answer": "To find the number of days from March 1, 2027 to April 15, 2027:\n\nMarch 2027 has 31 days. From March 1 to March 31 is 30 days.\n\nApril 2027 adds another 15 days up to April 15.\n\nTotal days = 30 + 15 = 45 days (inclusive of both start and end dates, or 44 days if calculating the duration between the two dates).",
+  "startedAt": "2026-10-17T03:03:28.651Z",
+  "modelLabel": null
+ },
+ "gemini-t2-r2": {
+  "answer": "To find the number of days from March 1, 2027, to April 15, 2027, we can break it down by month:\n\nMarch 2027: March has 31 days. From March 1 to March 31 is 30 days.\n\nApril 2027: From April 1 to April 15 is 15 days.\n\nAdding them together:\n\n30\n+\n15\n=\n45\n30+15=45\n\nThere are 45 days (inclusive of both start and end dates, or 44 days if counting the duration between them).",
+  "startedAt": "2026-10-17T03:03:47.459Z",
+  "modelLabel": null
+ },
+ "gemini-t2-r3": {
+  "answer": "To find the number of days from March 1, 2027, to April 15, 2027:\n\nMarch 2027 has 31 days. Counting from March 1 to March 31 gives 30 days (or 31 days if you include both the start and end dates of the span).\n\nApril 2027 adds 15 days up to April 15.\n\nTotal Days Calculation:\n\nStrict duration (difference between the two dates): 45 days\n\nInclusive count (counting both March 1 and April 15): 46 days",
+  "startedAt": "2026-10-17T03:04:06.366Z",
+  "modelLabel": null
+ },
+ "gemini-t3-r1": {
+  "answer": "The community pool will be closed for cleaning from June 7 to June 11, during which members will receive one free guest pass per closure day (valid until July 31), and the front desk is available from 8 am to 6 pm for any questions.",
+  "startedAt": "2026-10-17T03:04:25.608Z",
+  "modelLabel": null
+ },
+ "gemini-t3-r2": {
+  "answer": "The community pool will be closed for cleaning from June 7 to June 11, during which members will receive one free guest pass per closure day (valid until July 31), and the front desk is available from 8 am to 6 pm for any questions.",
+  "startedAt": "2026-10-17T03:04:45.149Z",
+  "modelLabel": null
+ },
+ "gemini-t3-r3": {
+  "answer": "The community pool will be closed for cleaning from June 7 to June 11, during which members will receive free daily guest passes valid through July 31.",
+  "startedAt": "2026-10-17T03:05:04.304Z",
+  "modelLabel": null
+ }
+}

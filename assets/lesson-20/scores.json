@@ -1,0 +1,276 @@
+{
+ "chatgpt-t1-r1": {
+  "message": "Hi! I hope you’re doing well. Would you mind moving your car out of my driveway by 6 pm today? I’d really appreciate it—thank you!",
+  "sentences": 4,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": true,
+  "saysTomorrow": false
+ },
+ "chatgpt-t1-r2": {
+  "message": "Hi! Would you mind moving your car out of my driveway by 6 pm today? I’d really appreciate it—thank you for understanding!",
+  "sentences": 3,
+  "sentencesWithoutGreeting": 2,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": true,
+  "saysTomorrow": false
+ },
+ "chatgpt-t1-r3": {
+  "message": "Hi! I hope you’re doing well. Would you mind moving your car out of my driveway by 6 pm today? I’d really appreciate it—thank you for understanding!",
+  "sentences": 4,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": true,
+  "saysTomorrow": false
+ },
+ "chatgpt-t2-r1": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "chatgpt-t2-r2": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "chatgpt-t2-r3": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "chatgpt-t3-r1": {
+  "summary": "The community pool will be closed for cleaning June 7–11, and each member will receive one free guest pass per closure day, valid through July 31; the front desk is available 8 am–6 pm for questions.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": false,
+  "keepsDeskHours": true,
+  "extraParagraphs": 0
+ },
+ "chatgpt-t3-r2": {
+  "summary": "The community pool will be closed for cleaning June 7–11, and each member receives one free guest pass per closure day, valid through July 31, with questions directed to the front desk (8 am–6 pm).",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": false,
+  "keepsDeskHours": true,
+  "extraParagraphs": 0
+ },
+ "chatgpt-t3-r3": {
+  "summary": "The community pool will be closed for cleaning June 7–11, and members will receive one free guest pass per closure day, valid through July 31, with the front desk available from 8 am to 6 pm for questions.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": false,
+  "keepsDeskHours": true,
+  "extraParagraphs": 0
+ },
+ "gemini-t1-r1": {
+  "message": "Hi! Could you please move your car out of my driveway by 6:00 PM today? I need to use the space this evening. Thanks so much for understanding!",
+  "sentences": 4,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": true,
+  "saysTomorrow": false
+ },
+ "gemini-t1-r2": {
+  "message": "Hi there! Could you please move your car out of my driveway by 6:00 PM today? Thanks so much for your help with this!",
+  "sentences": 3,
+  "sentencesWithoutGreeting": 2,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": true,
+  "saysTomorrow": false
+ },
+ "gemini-t1-r3": {
+  "message": "Hi! Could you please move your car out of my driveway by 6 PM today? I need to use it this evening and would really appreciate your help. Thanks so much!",
+  "sentences": 4,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": true,
+  "saysTomorrow": false
+ },
+ "gemini-t2-r1": {
+  "dayNumbers": [
+   44,
+   45
+  ],
+  "pass": false,
+  "mentions46inclusive": false,
+  "wrongNumbers": [
+   44
+  ],
+  "calls45inclusive": true
+ },
+ "gemini-t2-r2": {
+  "dayNumbers": [
+   44,
+   45
+  ],
+  "pass": false,
+  "mentions46inclusive": false,
+  "wrongNumbers": [
+   44
+  ],
+  "calls45inclusive": true
+ },
+ "gemini-t2-r3": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "gemini-t3-r1": {
+  "summary": "The community pool will be closed for cleaning from June 7 to June 11, during which members will receive one free guest pass per closure day (valid until July 31), and the front desk is available from 8 am to 6 pm for any questions.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": false,
+  "keepsDeskHours": true,
+  "extraParagraphs": 0
+ },
+ "gemini-t3-r2": {
+  "summary": "The community pool will be closed for cleaning from June 7 to June 11, during which members will receive one free guest pass per closure day (valid until July 31), and the front desk is available from 8 am to 6 pm for any questions.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": false,
+  "keepsDeskHours": true,
+  "extraParagraphs": 0
+ },
+ "gemini-t3-r3": {
+  "summary": "The community pool will be closed for cleaning from June 7 to June 11, during which members will receive free daily guest passes valid through July 31.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": false,
+  "keepsDeskHours": false,
+  "extraParagraphs": 0
+ },
+ "claude-t1-r1": {
+  "message": "Hi! Sorry to bother you, but I think your car is parked in my driveway. Would you mind moving it by 6 pm tomorrow? Thanks so much, I really appreciate it!",
+  "sentences": 4,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": false,
+  "saysTomorrow": true
+ },
+ "claude-t1-r2": {
+  "message": "Hi! I noticed your car is parked in my driveway, and I'll need the space by 6 pm tomorrow. Would you mind moving it before then? Thanks so much, I really appreciate it!",
+  "sentences": 4,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": false,
+  "saysToday": false,
+  "saysTomorrow": true
+ },
+ "_notes": {
+  "claude-t1-r3": {
+   "firstDraft": "Hi, it's your neighbor! I noticed your car is parked in my driveway, and I'll need the space by 6 pm tomorrow. Would you mind moving it before then? Thanks so much!",
+   "firstDraftSentences": [
+    4,
+    4
+   ]
+  }
+ },
+ "claude-t1-r3": {
+  "message": "Hi, it's your neighbor! I noticed your car is in my driveway, and I'll need the space by 6 pm tomorrow, so would you mind moving it before then? Thanks so much!",
+  "sentences": 3,
+  "sentencesWithoutGreeting": 3,
+  "has6pm": true,
+  "blanks": 0,
+  "claimsThree": true,
+  "saysToday": false,
+  "saysTomorrow": true
+ },
+ "claude-t2-r1": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "claude-t2-r2": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "claude-t2-r3": {
+  "dayNumbers": [
+   45,
+   46
+  ],
+  "pass": true,
+  "mentions46inclusive": true,
+  "wrongNumbers": [],
+  "calls45inclusive": false
+ },
+ "claude-t3-r1": {
+  "summary": "The pool is closed for cleaning June 7–11, so each member gets five free guest passes (one per closed day) to use by July 31, and the front desk (8 am–6 pm) can answer questions.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": true,
+  "keepsDeskHours": true,
+  "extraParagraphs": 2
+ },
+ "claude-t3-r2": {
+  "summary": "The pool closes for cleaning June 7–11, and each member gets five free guest passes (one per closed day) to use by July 31, with questions handled at the front desk from 8 am to 6 pm.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": true,
+  "keepsDeskHours": true,
+  "extraParagraphs": 2
+ },
+ "claude-t3-r3": {
+  "summary": "The community pool is closed for cleaning June 7–11, so each member gets five free guest passes (one per closed day) to use by July 31, and questions can go to the front desk from 8 am to 6 pm.",
+  "sentences": 1,
+  "keepsJune7to11": true,
+  "keepsJuly31": true,
+  "statesFive": true,
+  "keepsDeskHours": true,
+  "extraParagraphs": 2
+ }
+}
