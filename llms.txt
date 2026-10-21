@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-10-16
+Updated: 2026-10-21
 
 ## Main pages
 
@@ -41,6 +41,7 @@ Updated: 2026-10-16
 - [Before You Automate a Daily AI Summary: Checks for Silent Failures](https://wenchangyue.github.io/zero-to-ai-expert/lessons/ai-daily-automation-status-coverage-heartbeat/)
 - [How to Use ChatGPT for Beginners: Your First Real Task](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-chatgpt-for-beginners/)
 - [ChatGPT vs Claude vs Gemini: Same 3 Tasks, Side by Side](https://wenchangyue.github.io/zero-to-ai-expert/lessons/chatgpt-vs-claude-vs-gemini/)
+- [How to Summarize a Long Document with ChatGPT (and Check It)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-summarize-a-long-document-with-chatgpt/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

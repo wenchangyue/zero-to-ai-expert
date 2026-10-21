@@ -1,0 +1,79 @@
+{
+ "docWords": 1088,
+ "run-a1": {
+  "words": 1060,
+  "covered": 12,
+  "missing": [],
+  "wrong": {},
+  "adBelowAnswer": false
+ },
+ "run-a2": {
+  "words": 1044,
+  "covered": 12,
+  "missing": [],
+  "wrong": {},
+  "adBelowAnswer": true
+ },
+ "run-a3": {
+  "words": 1013,
+  "covered": 12,
+  "missing": [],
+  "wrong": {},
+  "adBelowAnswer": true
+ },
+ "run-b1": {
+  "words": 2670,
+  "covered": 12,
+  "missing": [],
+  "wrong": {},
+  "adBelowAnswer": true
+ },
+ "run-b2": {
+  "words": 2643,
+  "covered": 12,
+  "missing": [],
+  "wrong": {},
+  "adBelowAnswer": true
+ },
+ "run-b3": {
+  "words": 2368,
+  "covered": 12,
+  "missing": [],
+  "wrong": {},
+  "adBelowAnswer": false
+ },
+ "run-c1": {
+  "words": 192,
+  "covered": 9,
+  "missing": [
+   "K1 term",
+   "K4 deposit 30 days",
+   "K6 pets"
+  ],
+  "wrong": {},
+  "adBelowAnswer": false
+ },
+ "run-c2": {
+  "words": 235,
+  "covered": 8,
+  "missing": [
+   "K1 term",
+   "K4 deposit 30 days",
+   "K7 repairs"
+  ],
+  "wrong": {
+   "K12 subletting": "wrong: says no subletting at all; \u00a711.1 allows it with written consent"
+  },
+  "adBelowAnswer": false
+ },
+ "run-c3": {
+  "words": 213,
+  "covered": 10,
+  "missing": [
+   "K1 term",
+   "K4 deposit 30 days"
+  ],
+  "wrong": {},
+  "adBelowAnswer": false
+ }
+}

@@ -328,6 +328,19 @@ What this lesson covers:
 - Spot what an app changed or added that you didn't give it.
 - Put context (time, timing) into a request so no app has to guess.
 
+### How to Summarize a Long Document with ChatGPT (and Check It)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-summarize-a-long-document-with-chatgpt/
+
+Say who you are, what you need and how long the answer should be; ask for the section number after each item; then check it yourself. In a test on one fictional 1,088-word lease (ChatGPT, logged out, 2026-10-20), "Summarize this lease" covered all 12 preset items but ran 1,013–1,060 words; a tenant-focused request covered all 12 with section numbers but ran 2,368–2,670 words; a shorter request with a 200-word limit ran 192–235 words and covered 8–10 of 12. All three short runs left out the deposit-return deadline, and one stated a subletting rule wrongly while citing the right section.
+
+What this lesson covers:
+
+- Ask for a summary with a role, a need and a length.
+- Ask for a section or page number after each item.
+- Write a short must-know list before reading the summary.
+- Check the original sentence, including its conditions, for every line you rely on.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
