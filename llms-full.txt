@@ -341,6 +341,19 @@ What this lesson covers:
 - Write a short must-know list before reading the summary.
 - Check the original sentence, including its conditions, for every line you rely on.
 
+### How to Use ChatGPT to Study: Make It Quiz You on Your Notes
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-chatgpt-to-study/
+
+Paste your own notes, say what is on the exam, and ask ChatGPT to quiz you one question at a time and to quote the line from your notes after each answer. In a test on one page of made-up biology notes (ChatGPT, logged out, 2026-10-23): a plain study guide covered all 10 must-know items and respected the exam scope, but ran 1,132–1,299 words (notes: 230) and added terms the notes never mention; practice questions with quoted note lines matched the notes word for word in all 24 questions; a one-at-a-time quiz caught a deliberately wrong answer in 3 of 3 runs, quoting the exact note line.
+
+What this lesson covers:
+
+- Turn your own notes into a quiz instead of a reading guide.
+- Ask for the line from your notes after every answer.
+- Check a quoted line with Ctrl F / Cmd F in your notes.
+- Spot study-guide content that is not from your class.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

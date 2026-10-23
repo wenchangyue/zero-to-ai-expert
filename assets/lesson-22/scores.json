@@ -1,0 +1,176 @@
+{
+ "notesWords": 230,
+ "run-a1": {
+  "words": 1132,
+  "adBelowAnswer": true,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "missing": [],
+  "beyond": [
+   "ATP synthase",
+   "C4",
+   "CAM",
+   "RuBP"
+  ],
+  "quotes": 1,
+  "quotesNotInNotes": [
+   "only happens at night."
+  ],
+  "questions": 22
+ },
+ "run-a2": {
+  "words": 1299,
+  "adBelowAnswer": true,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "missing": [],
+  "beyond": [
+   "ATP synthase",
+   "C4",
+   "CAM",
+   "RuBP"
+  ],
+  "quotes": 0,
+  "quotesNotInNotes": [],
+  "questions": 23
+ },
+ "run-a3": {
+  "words": 1271,
+  "adBelowAnswer": true,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "missing": [],
+  "beyond": [
+   "C4",
+   "CAM",
+   "RuBP"
+  ],
+  "quotes": 0,
+  "quotesNotInNotes": [],
+  "questions": 22
+ },
+ "run-b1": {
+  "words": 563,
+  "adBelowAnswer": false,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "missing": [],
+  "beyond": [
+   "C4",
+   "CAM"
+  ],
+  "quotes": 12,
+  "quotesNotInNotes": [
+   "Called ‘light-independent’, but it normally runs in daylight because it needs ATP and NADPH from the light reactions."
+  ],
+  "questions": 8
+ },
+ "run-b2": {
+  "words": 609,
+  "adBelowAnswer": false,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "missing": [],
+  "beyond": [
+   "C4",
+   "CAM"
+  ],
+  "quotes": 0,
+  "quotesNotInNotes": [],
+  "questions": 8
+ },
+ "run-b3": {
+  "words": 717,
+  "adBelowAnswer": false,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "missing": [],
+  "beyond": [
+   "C4",
+   "CAM"
+  ],
+  "quotes": 16,
+  "quotesNotInNotes": [
+   "Called 'light-independent', but it normally runs in daylight because it needs ATP and NADPH from the light reactions."
+  ],
+  "questions": 8
+ },
+ "run-c1": {
+  "saysWrong": true,
+  "givesWater": true,
+  "quotesLine": true,
+  "nextQuestionNoAnswer": true
+ },
+ "run-c2": {
+  "saysWrong": true,
+  "givesWater": true,
+  "quotesLine": true,
+  "nextQuestionNoAnswer": true
+ },
+ "run-c3": {
+  "saysWrong": true,
+  "givesWater": true,
+  "quotesLine": true,
+  "nextQuestionNoAnswer": true
+ }
+}
