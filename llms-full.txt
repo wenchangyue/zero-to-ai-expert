@@ -354,6 +354,19 @@ What this lesson covers:
 - Check a quoted line with Ctrl F / Cmd F in your notes.
 - Spot study-guide content that is not from your class.
 
+### Why ChatGPT Gives Wrong Answers (and How to Catch Them)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/why-chatgpt-gives-wrong-answers/
+
+Check the answers that are counts, sums, dates or sources. In a test on 2026-10-27 (ChatGPT, logged out, three fresh chats per request), asking how many times the letter "e" appears in one sentence gave 38, 36 and 36; the answer is 44. "Go word by word" gave 38, 48 and 44, and every run had wrong per-word counts. "Use Python" gave 45, 44 and 44; the 45 appeared under code that returns 44. A 15-item grocery total was right twice and one cent short once. Citations with DOIs were real and matched in all three runs (with web search). Ask again in a fresh chat, then verify with a tool or the source.
+
+What this lesson covers:
+
+- Recognize answers that need checking (counts, sums, dates, sources).
+- Use a second fresh chat as a warning sign, not as proof.
+- Check numbers with a spreadsheet formula or calculator.
+- Check a citation by opening it and matching title and authors.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

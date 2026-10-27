@@ -1,0 +1,15 @@
+Bread $3.49
+Eggs (12) $4.29
+Milk (1 gal) $3.89
+Bananas $1.37
+Chicken thighs $8.62
+Rice (2 lb) $2.99
+Spinach $3.18
+Cheddar $5.47
+Apples (3 lb) $4.86
+Pasta $1.79
+Tomato sauce $2.58
+Yogurt (4) $4.96
+Coffee $9.74
+Olive oil $7.31
+Onions $2.27

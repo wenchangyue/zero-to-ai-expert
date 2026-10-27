@@ -1,0 +1,174 @@
+{
+ "trueE": 44,
+ "trueTotal": 66.81,
+ "run-a1": {
+  "words": 1,
+  "adOnPage": false,
+  "said": 38,
+  "correct": false
+ },
+ "run-a2": {
+  "words": 1,
+  "adOnPage": false,
+  "said": 36,
+  "correct": false
+ },
+ "run-a3": {
+  "words": 1,
+  "adOnPage": false,
+  "said": 36,
+  "correct": false
+ },
+ "run-b1": {
+  "words": 6,
+  "adOnPage": false,
+  "said": 66.81,
+  "correct": true,
+  "itemsCopiedCorrectly": false
+ },
+ "run-b2": {
+  "words": 60,
+  "adOnPage": false,
+  "said": 66.8,
+  "correct": false,
+  "itemsCopiedCorrectly": true
+ },
+ "run-b3": {
+  "words": 5,
+  "adOnPage": false,
+  "said": 66.81,
+  "correct": true,
+  "itemsCopiedCorrectly": false
+ },
+ "run-c1": {
+  "words": 390,
+  "adOnPage": true,
+  "dois": [
+   "10.1016/j.neuroimage.2016.06.057",
+   "10.1093/gerona/glac239",
+   "10.1093/gerona/glx069",
+   "10.1093/sleep/zsx035"
+  ]
+ },
+ "run-c2": {
+  "words": 334,
+  "adOnPage": false,
+  "dois": [
+   "10.1016/j.neuroimage.2016.06.057",
+   "10.1093/gerona/glx069",
+   "10.1093/sleep/zsx035"
+  ]
+ },
+ "run-c3": {
+  "words": 403,
+  "adOnPage": true,
+  "dois": [
+   "10.1016/j.neuroimage.2016.06.057",
+   "10.1093/gerona/glac239",
+   "10.1093/sleep/zsx035",
+   "10.1111/jgs.14368"
+  ]
+ },
+ "run-d1": {
+  "words": 144,
+  "adOnPage": false,
+  "said": 38,
+  "firstStated": 35,
+  "correct": false,
+  "perWordListed": 27,
+  "perWordWrong": [
+   [
+    "Every",
+    1,
+    2
+   ],
+   [
+    "evening,",
+    3,
+    2
+   ],
+   [
+    "twelve",
+    1,
+    2
+   ],
+   [
+    "pushes",
+    0,
+    1
+   ]
+  ]
+ },
+ "run-d2": {
+  "words": 142,
+  "adOnPage": false,
+  "said": 48,
+  "firstStated": 48,
+  "correct": false,
+  "perWordListed": 27,
+  "perWordWrong": [
+   [
+    "evening,",
+    3,
+    2
+   ],
+   [
+    "river",
+    2,
+    1
+   ]
+  ]
+ },
+ "run-d3": {
+  "words": 163,
+  "adOnPage": true,
+  "said": 44,
+  "firstStated": 44,
+  "correct": true,
+  "perWordListed": 27,
+  "perWordWrong": [
+   [
+    "evening",
+    3,
+    2
+   ],
+   [
+    "twelve",
+    1,
+    2
+   ],
+   [
+    "pushes",
+    0,
+    1
+   ]
+  ]
+ },
+ "run-e1": {
+  "words": 87,
+  "adOnPage": true,
+  "said": 45,
+  "firstStated": 45,
+  "correct": false,
+  "perWordListed": 0,
+  "perWordWrong": []
+ },
+ "run-e2": {
+  "words": 75,
+  "adOnPage": false,
+  "said": 44,
+  "firstStated": 44,
+  "correct": true,
+  "perWordListed": 0,
+  "perWordWrong": []
+ },
+ "run-e3": {
+  "words": 88,
+  "adOnPage": true,
+  "said": 44,
+  "firstStated": 44,
+  "correct": true,
+  "perWordListed": 0,
+  "perWordWrong": []
+ }
+}

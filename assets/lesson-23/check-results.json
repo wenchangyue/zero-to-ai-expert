@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e_count",
+    "formula": "=LEN(A1)-LEN(SUBSTITUTE(LOWER(A1),\"e\",\"\"))",
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "44"
+  },
+  {
+    "id": "receipt_total",
+    "formula": "=SUM(B3:B17)",
+    "engine": "LibreOffice 26.2.4.2",
+    "value": "66.81"
+  }
+]
