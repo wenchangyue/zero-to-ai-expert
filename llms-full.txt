@@ -367,6 +367,18 @@ What this lesson covers:
 - Check numbers with a spreadsheet formula or calculator.
 - Check a citation by opening it and matching title and authors.
 
+### How to Translate with ChatGPT Without Losing Your Tone
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-translate-with-chatgpt/
+
+Tell ChatGPT who the reader is and the tone you want, name the formal or familiar "you" when the language has both, and check the result in a new chat. In a test on 2026-10-31 (ChatGPT, logged out, three fresh chats per request), a plain "translate this into Spanish" kept the tone, idioms and emoji of a casual text in 3 of 3 runs. A firm invoice email was not softened, but every run used the familiar "tú" for the client, even when told the client is in Mexico and the writer has never met them; adding "use the formal usted" gave usted in 3 of 3. Six of twelve invoice translations turned "by Friday" into "antes del viernes" (before Friday). A back-translation showed the deadline change; only a direct "formal or informal?" question showed the "you".
+
+What this lesson covers:
+
+- Write a translation prompt that names the reader, the tone and the "you".
+- Check a translation without speaking the language.
+- Know what a back-translation can and can't show.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
