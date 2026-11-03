@@ -379,6 +379,19 @@ What this lesson covers:
 - Check a translation without speaking the language.
 - Know what a back-translation can and can't show.
 
+### How to Use NotebookLM to Study (Now Gemini Notebook)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-notebooklm-to-study/
+
+Make a notebook whose only source is your class notes (Add sources → Copied text, or upload a file), ask it to quiz you one question at a time, answer before you look, and click the small citation number to see the line in your notes. In a test on 2026-11-03 (Gemini Notebook, three new notebooks, one 230-word page of fictional biology notes): a question the notes don't cover got "your notes don't explain that" plus an offer to search the web in 3 of 3; a deliberately wrong quiz answer was caught in 3 of 3 with the exact notes line quoted; the study guide covered 10 of 10 key points and did not teach RuBP (ChatGPT's guides on the same notes did, 3 of 3), but added textbook words and ran 1,682–2,003 words.
+
+What this lesson covers:
+
+- Set up a notebook whose only source is your own notes.
+- Make it quiz you one question at a time, and use the Studio quiz.
+- Check an answer by clicking its citation number.
+- Know what a generated study guide adds beyond your notes.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

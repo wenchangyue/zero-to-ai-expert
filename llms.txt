@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-10-31
+Updated: 2026-11-03
 
 ## Main pages
 
@@ -45,6 +45,7 @@ Updated: 2026-10-31
 - [How to Use ChatGPT to Study: Make It Quiz You on Your Notes](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-chatgpt-to-study/)
 - [Why ChatGPT Gives Wrong Answers (and How to Catch Them)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/why-chatgpt-gives-wrong-answers/)
 - [How to Translate with ChatGPT Without Losing Your Tone](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-translate-with-chatgpt/)
+- [How to Use NotebookLM to Study (Now Gemini Notebook)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-notebooklm-to-study/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use

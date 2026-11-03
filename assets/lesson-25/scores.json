@@ -1,0 +1,88 @@
+{
+ "notesWords": 230,
+ "run-1": {
+  "guideWords": 2003,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "beyond": [
+   "C4",
+   "CAM"
+  ],
+  "saysNotInNotes": true,
+  "explainsFromOutside": false,
+  "offersWebSearch": true,
+  "asksOxygenFirst": true,
+  "replyChipsGiveAnswer": false,
+  "correctsWrong": true,
+  "quotesNotesLine": true,
+  "studioQuizQuestions": 10,
+  "studioQuizQ1": "Question 1: If a student taking Prof. Reyes's BIO 101 exam writes only $6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2$ on a question asking for the pho..."
+ },
+ "run-2": {
+  "guideWords": 1682,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "beyond": [
+   "C4",
+   "CAM"
+  ],
+  "saysNotInNotes": true,
+  "explainsFromOutside": false,
+  "offersWebSearch": true,
+  "asksOxygenFirst": true,
+  "replyChipsGiveAnswer": false,
+  "correctsWrong": true,
+  "quotesNotesLine": true,
+  "studioQuizQuestions": 10,
+  "studioQuizQ1": "Question 1: A student taking an exam writes $6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2$ on a question asking for the general reaction of photosynth..."
+ },
+ "run-3": {
+  "guideWords": 1805,
+  "covered": [
+   "K1 word equation",
+   "K2 word equation on exam / half marks",
+   "K3 thylakoid + stroma",
+   "K4 red and blue, reflects green",
+   "K5 oxygen from water",
+   "K6 ATP and NADPH",
+   "K7 RuBisCO",
+   "K8 G3P",
+   "K9 light-independent but daylight",
+   "K10 limiting factors"
+  ],
+  "beyond": [
+   "C4",
+   "CAM",
+   "NADP+"
+  ],
+  "saysNotInNotes": true,
+  "explainsFromOutside": false,
+  "offersWebSearch": true,
+  "asksOxygenFirst": true,
+  "replyChipsGiveAnswer": true,
+  "correctsWrong": true,
+  "quotesNotesLine": true,
+  "studioQuizQuestions": 10,
+  "studioQuizQ1": "Question 1: A student taking the BIO 101 exam writes "
+ }
+}
