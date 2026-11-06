@@ -392,6 +392,19 @@ What this lesson covers:
 - Check an answer by clicking its citation number.
 - Know what a generated study guide adds beyond your notes.
 
+### How to Summarize a YouTube Video with AI (and Catch Fakes)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-summarize-a-youtube-video-with-ai/
+
+Give the AI the video's words: paste the transcript into ChatGPT, or add the link to a Gemini Notebook (formerly NotebookLM). Then ask about something you know isn't in the video; the right answer is that it isn't mentioned. In a test on 2026-11-06 with one 5:38 video and three runs each, logged-out ChatGPT with only the link said it couldn't get the video in 3 of 3 chats, yet follow-up questions drew invented answers in 2 of 3. With the transcript pasted, and in Gemini Notebook, every run named the right steps and said what the video didn't contain.
+
+What this lesson covers:
+
+- Get a summary from a pasted transcript or a Gemini Notebook source.
+- Recognize when a chatbot doesn't have the video.
+- Use a trap question to check that the tool is reading the video.
+- Know what a transcript-based summary can't contain.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml
