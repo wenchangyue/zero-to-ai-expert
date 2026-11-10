@@ -405,6 +405,19 @@ What this lesson covers:
 - Use a trap question to check that the tool is reading the video.
 - Know what a transcript-based summary can't contain.
 
+### How to Write a Resume with ChatGPT (Without Made-Up Lines)
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-write-a-resume-with-chatgpt/
+
+Paste your resume and the job post, and add rules: use only facts from my resume; don't add numbers, tools, job titles or degrees I didn't list; write [ADD NUMBER] instead of guessing; then list the requirements my resume doesn't show. Fill the blanks with real numbers and check every new line against your original. In a test on 2026-11-10 (one made-up resume, three runs per prompt, ChatGPT logged out), the plain prompt "Rewrite my resume for this job" added lines she never wrote in 3 of 3 chats, most of them echoing the job post; with the rules, the rewritten resumes had no clear additions in 3 of 3.
+
+What this lesson covers:
+
+- Tailor a resume to a job post with a prompt that keeps it to your facts.
+- Use [ADD NUMBER] placeholders instead of guessed numbers.
+- Get a list of requirements your resume doesn't show.
+- Check a rewritten resume line by line against your original.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

@@ -1,0 +1,175 @@
+{
+ "plain-1": {
+  "invented": [
+   {
+    "type": "activity",
+    "quote": "in-store signage"
+   }
+  ],
+  "count": 1,
+  "borderline": [
+   {
+    "type": "activity",
+    "quote": "Use Canva to create visually appealing promotional content and marketing materials"
+   },
+   {
+    "type": "activity",
+    "quote": "Design and plan weekly specials boards"
+   }
+  ],
+  "tools_titles_degrees_added": 0,
+  "placeholders": 0
+ },
+ "plain-2": {
+  "invented": [
+   {
+    "type": "activity",
+    "quote": "social media graphics"
+   },
+   {
+    "type": "activity",
+    "quote": "promotional signage"
+   }
+  ],
+  "count": 2,
+  "borderline": [
+   {
+    "type": "number",
+    "quote": "4+ years of experience"
+   },
+   {
+    "type": "activity",
+    "quote": "Use Canva to create visually appealing promotional materials"
+   },
+   {
+    "type": "activity",
+    "quote": "data organization"
+   }
+  ],
+  "tools_titles_degrees_added": 0,
+  "placeholders": 0
+ },
+ "plain-3": {
+  "invented": [
+   {
+    "type": "number",
+    "quote": "2+ years of experience managing social media content"
+   },
+   {
+    "type": "activity",
+    "quote": "social media graphics"
+   },
+   {
+    "type": "activity",
+    "quote": "promotional signs"
+   },
+   {
+    "type": "activity",
+    "quote": "Promotional campaigns"
+   },
+   {
+    "type": "activity",
+    "quote": "reporting fundamentals"
+   },
+   {
+    "type": "activity",
+    "quote": "Content writing"
+   }
+  ],
+  "count": 6,
+  "borderline": [
+   {
+    "type": "activity",
+    "quote": "Use Canva to create visually appealing promotional materials"
+   },
+   {
+    "type": "activity",
+    "quote": "Design and organize weekly specials boards"
+   }
+  ],
+  "tools_titles_degrees_added": 0,
+  "placeholders": 0
+ },
+ "rules-1": {
+  "invented": [],
+  "count": 0,
+  "borderline": [
+   {
+    "type": "activity",
+    "quote": "Use Canva to support visual content creation and promotional design"
+   }
+  ],
+  "tools_titles_degrees_added": 0,
+  "placeholders": 2,
+  "gaps_listed": [
+   "experience",
+   "mailchimp",
+   "analytics",
+   "facebook",
+   "bachelor"
+  ]
+ },
+ "rules-2": {
+  "invented": [],
+  "count": 0,
+  "borderline": [
+   {
+    "type": "activity",
+    "quote": "creating in-store specials displays"
+   }
+  ],
+  "tools_titles_degrees_added": 0,
+  "placeholders": 3,
+  "gaps_listed": [
+   "experience",
+   "mailchimp",
+   "analytics",
+   "facebook",
+   "bachelor"
+  ]
+ },
+ "rules-3": {
+  "invented": [],
+  "count": 0,
+  "borderline": [
+   {
+    "type": "activity",
+    "quote": "creating in-store displays"
+   },
+   {
+    "type": "activity",
+    "quote": "Create promotional and in-store messaging"
+   }
+  ],
+  "tools_titles_degrees_added": 0,
+  "placeholders": 1,
+  "gaps_listed": [
+   "experience",
+   "mailchimp",
+   "analytics",
+   "facebook",
+   "bachelor"
+  ]
+ },
+ "summary": {
+  "plain_runs_with_invented": 3,
+  "plain_counts": [
+   1,
+   2,
+   6
+  ],
+  "rules_counts": [
+   0,
+   0,
+   0
+  ],
+  "tools_titles_degrees_added_any_run": 0,
+  "plain_years_number_runs": 1,
+  "rules_gaps_all5_runs": 3,
+  "rules_placeholders": [
+   2,
+   3,
+   1
+  ]
+ }
+}
