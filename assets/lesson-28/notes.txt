@@ -1,0 +1,31 @@
+BIO 101 - LECTURE 7 NOTES: PHOTOSYNTHESIS (fictional course, for a lesson)
+
+What it is
+- Plants, algae and some bacteria turn light energy into chemical energy stored in sugar.
+- Word equation: carbon dioxide + water --(light)--> glucose + oxygen
+- Symbol equation: 6CO2 + 6H2O -> C6H12O6 + 6O2
+- Prof. Reyes: on the exam, write the WORD equation. The symbol equation alone gets half marks.
+
+Where it happens
+- In chloroplasts.
+- Light reactions: thylakoid membranes.
+- Calvin cycle: stroma (the fluid around the thylakoids).
+
+Light reactions
+- Chlorophyll absorbs mostly red and blue light and reflects green, which is why leaves look green.
+- Water is split. The oxygen that plants release comes from WATER, not from carbon dioxide.
+- Products passed on to the Calvin cycle: ATP and NADPH.
+
+Calvin cycle
+- Uses ATP and NADPH to fix carbon dioxide into sugar.
+- The enzyme that grabs CO2 is RuBisCO.
+- The direct product is G3P, which the plant uses to build glucose.
+- Called "light-independent", but it normally runs in daylight because it needs ATP and NADPH from the light reactions.
+
+Limiting factors
+- Light intensity, carbon dioxide concentration, temperature.
+- Whichever one is in shortest supply limits the rate.
+
+Exam scope
+- The exam covers the light reactions and the Calvin cycle only.
+- C4 and CAM plants are NOT on this exam.

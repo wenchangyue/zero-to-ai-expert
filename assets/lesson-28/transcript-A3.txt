@@ -1,0 +1,436 @@
+[0:00] Look out your window right now.
+[0:01] Let me just take a second and really look.
+[0:03] Yeah, every single green leaf you see out there.
+[0:06] Exactly.
+[0:07] They are quietly pulling off this magic trick
+[0:11] that human scientists have spent billions of dollars
+[0:13] trying to replicate.
+[0:14] Billions, and still haven't quite matched it.
+[0:17] Right, because they are literally turning thin air
+[0:19] and sunshine into solid food.
+[0:23] So, welcome to The Deep Dive.
+[0:25] It's honestly a process that quite literally sustains
+[0:27] the entire planetary food web, you know, like turning the intangible into something physical.
+[0:34] Yeah, it's wild. And if you are listening to this right now, we know exactly why you're here.
+[0:39] We actually have your Bio 101 lecture, seven notes sitting right in front of us.
+[0:43] The big photosynthesis lecture. The big one. And while the planetary
+[0:47] scale of this magic trick is like totally amazing, our mission today is highly specific.
+[0:53] Very specific. We are your study companions for the next bit.
+[0:57] We're going to deconstruct these concepts so you not only understand the sheer biological
+[1:02] wizardry at play.
+[1:03] Which is important, of course.
+[1:05] Right.
+[1:06] But more importantly, so you can walk into Professor Reyes' upcoming exam and just
+[1:10] completely own it.
+[1:12] Absolutely.
+[1:12] Because that means translating these pages of diagrams and chemical formulas into a
+[1:17] mental model you can actually use under pressure.
+[1:20] Under the ticking clock of a midterm.
+[1:22] Exactly.
+[1:22] And your notes provide a very clear roadmap of what this professor expects.
+[1:27] But more importantly, they highlight a few very specific pitfalls where students typically
+[1:31] lose easy points.
+[1:33] Yeah, let's tackle the biggest pitfall right out of the gate.
+[1:36] Good idea.
+[1:36] Because before we get into like microscopic manufacturing or electron theft, we have
+[1:42] to look at the master recipe, the basic definition of the process.
+[1:46] The foundation.
+[1:47] Right.
+[1:47] But I am looking at your notes, and there are two distinct ways this recipe is written
+[1:53] out.
+[1:53] Yeah.
+[1:53] There's a clear split there.
+[1:55] First, we have the symbol equation, the classic 6CO2 plus 6H2O, an arrow, and then
+[2:03] C6H12O6 plus 6O2.
+[2:04] Right.
+[2:05] The raw chemistry.
+[2:06] It's the law of conservation of mass on full display.
+[2:09] Proving that no atoms are lost, they're just rearranged.
+[2:12] Exactly.
+[2:12] Sure.
+[2:13] I mean, it proves you know how to balance carbon and oxygen atoms.
+[2:16] But then, right below it in your notes is the word equation.
+[2:21] Just plain English.
+[2:23] Carbon dioxide plus water, an arrow with light written over it, pointing to glucose
+[2:29] plus oxygen.
+[2:31] Simple and to the point.
+[2:32] But here's the thing.
+[2:33] If I am studying for a college level biology exam, my instinct is to memorize the complex
+[2:39] chemical symbols, right?
+[2:40] Like to prove to the professor how smart I am.
+[2:43] Oh, totally.
+[2:43] you want to show off that you memorize the big formula.
+[2:46] But your notes basically have a giant flashing neon sign
+[2:49] warning you not to do that.
+[2:51] Why?
+[2:52] Well, it's because Professor Reyes
+[2:53] is laying a very deliberate trap here.
+[2:55] A trap.
+[2:56] Yeah, biology professors often do this actually.
+[2:59] They want to separate the students
+[3:00] who are just memorizing sequences
+[3:03] from the students who truly understand
+[3:04] the conceptual flow of energy.
+[3:06] Oh, I see.
+[3:07] So if the exam asks you to quote,
+[3:09] write the equation for photosynthesis
+[3:10] and you write down that complex symbol equation.
+[3:13] You think you're getting an A+.
+[3:15] You're actually going to lose half your points.
+[3:17] Which is devastating.
+[3:19] You put in all that mental labor to memorize C6H12O6, you balance all those sixes perfectly,
+[3:25] and you literally get penalized for it.
+[3:27] Yeah, you lose points because the professor is testing your biological understanding of
+[3:31] the inputs and outputs, not your ability to do atomic accounting.
+[3:35] Okay, that makes a lot of sense, actually.
+[3:37] Atomic accounting is for chemistry.
+[3:39] Exactly.
+[3:39] Absolutely. The word equation forces you to state clearly what is physically entering
+[3:44] the system from the environment and what is leaving it.
+[3:48] So to you, our listener studying right now, take a highlighter to this exact part
+[3:53] of your notes.
+[3:54] Yes, highlight it twice.
+[3:55] When you sit down in that exam hall, write the words. Do not try to flex your
+[4:00] chemistry muscles here. Write carbon dioxide plus water, draw the arrow, write light
+[4:06] over the arrow to show the energy source.
+[4:09] Very important detail, the light.
+[4:11] Right, and then write glucose plus oxygen.
+[4:14] Protect those points.
+[4:16] Save the atomic balancing for your chemistry midterm.
+[4:19] Here the focus is entirely on the biological reality of the plant's supply chain.
+[4:24] Okay, so now that we have the recipe secured, we need to look at the kitchen.
+[4:28] Where's the plant actually doing all this cooking?
+[4:30] Right, the location.
+[4:32] The notes point us to a specific organelle called the chloroplast.
+[4:36] and I usually hear this compared to a generic factory.
+[4:41] That's the standard textbook analogy, yeah.
+[4:44] But looking at the actual mechanism in these notes,
+[4:47] it feels much more like, I don't know,
+[4:49] high-tech microscopic 3D printing facility.
+[4:51] I like that a lot better, actually,
+[4:53] because it's a facility
+[4:54] that generates its own power onsite.
+[4:56] Oh, true.
+[4:57] The chloroplast has distinct zones
+[4:59] for different parts of the manufacturing process.
+[5:02] The power generation happens first.
+[5:04] In what your notes call the light reactions.
+[5:08] And this takes place on the thylakoid membranes.
+[5:11] So if we are sticking with our 3D printing facility mental bottle, the thylakoids are
+[5:16] like the solar panels stacked up on the roof.
+[5:18] Perfect analogy.
+[5:20] And those solar panels are loaded with chlorophyll, which is the pigment that actually
+[5:24] catches the sunbeams.
+[5:26] But wait, here is the thing that always trips me up.
+[5:29] What's that?
+[5:30] If chlorophyll is a solar panel designed to absorb light for power, why do leaves look green to us?
+[5:37] Like, if a human engineer designed a solar panel that completely rejected a massive chunk of the
+[5:42] visible light spectrum, they'd be fired. Yeah, I mean, a perfectly efficient human-made
+[5:47] solar panel looks completely black. Right, because it absorbs every wavelength. Exactly.
+[5:52] Chlorophyll, however, has a very narrow evolutionary operational preference.
+[5:56] It strongly absorbs wavelengths
+[5:58] in the red and blue parts of the spectrum.
+[6:01] Just red and blue?
+[6:02] Mostly, yeah.
+[6:03] That specific energy is what it takes
+[6:05] to excite the molecules enough
+[6:06] to kickstart the whole facility.
+[6:08] Leaving the green light to just, what, bounce off?
+[6:11] It is entirely rejected.
+[6:13] Wow.
+[6:14] So when you look at a lush, vibrant green forest,
+[6:16] you are essentially looking at the plant's optical trash.
+[6:20] Optical trash?
+[6:20] Yeah, the green wavelengths are useless to the chlorophyll,
+[6:23] so they are reflected back into the environment
+[6:25] and they just happen to hit our retinas.
+[6:28] I love that.
+[6:29] The color we most associate with nature and vitality
+[6:31] is literally the one flavor of light the plant refuses to eat.
+[6:35] It's the exhaust.
+[6:36] That is so cool.
+[6:38] But let's follow those red and blue wavelengths that do get absorbed.
+[6:41] This is where the notes really blew my mind a little bit.
+[6:44] The water splitting?
+[6:45] Yes.
+[6:46] The light hits the chlorophyll solar panel and it powers water splitting.
+[6:51] Why on earth is it splitting water?
+[6:52] This is arguably the most consequential chemical reaction on Earth.
+[6:57] Oh, without a doubt.
+[6:59] When that red and blue light hits the chlorophyll, the energy physically excites electrons within the pigment.
+[7:05] Okay, they get energized.
+[7:07] Right, they get so energized they literally jump out of their standard positions and flow down this sort of energy chain.
+[7:13] Like an electric current.
+[7:14] Exactly, but suddenly the plant has a massive problem.
+[7:18] What's the problem?
+[7:18] It has a hole where an electron used to be.
+[7:21] And it desperately needs to replace it to keep the current flowing.
+[7:24] So it just violently mugs a nearby water molecule?
+[7:28] That is a surprisingly accurate way to describe the mechanism, actually.
+[7:31] Seriously?
+[7:32] Yeah.
+[7:32] The plant uses this specific enzyme complex to grab an H2O molecule and literally rip
+[7:37] it apart, specifically just to steal its electrons.
+[7:40] Okay.
+[7:41] Let's visualize that.
+[7:42] Water is H2O, two hydrogens, one oxygen.
+[7:45] The plant tears it apart, steals the electrons from the hydrogen to replace the ones the
+[7:49] sunlight knocked loose, and the oxygen is just left over.
+[7:53] It is trash to the plant.
+[7:55] It is a hazardous waste byproduct, basically, that the plant immediately vents out into
+[7:59] the atmosphere.
+[8:01] This completely rewrites what we learn in elementary school.
+[8:04] I know.
+[8:04] It's a huge misconception.
+[8:05] Because we are always taught that we breathe in oxygen and breathe out CO2, right?
+[8:10] And the plant does the exact reverse.
+[8:11] It takes in our CO2 and gives us back oxygen.
+[8:13] Yeah, which leads to a false conclusion.
+[8:16] Right. You naturally assume the oxygen the plant releases is just the O2 part of the CO2.
+[8:21] That is the assumption almost everyone makes. They think the plant keeps the
+[8:25] carbon to build itself and just spits the leftover oxygen back out.
+[8:29] But your notes emphasize a critical correction here. The oxygen released during photosynthesis
+[8:34] comes entirely from the shattered water molecules during those light reactions.
+[8:38] Entirely from the water. It has absolutely nothing to do with the carbon dioxide.
+[8:42] So, if you're listening to this right now, take a deep breath. Seriously, take one.
+[8:48] The oxygen currently keeping your brain functioning so you can study for this test.
+[8:52] That stuff keeping you alive. Yeah, that oxygen is the ghostly remains
+[8:56] of a water molecule that a plant ripped apart with a sunbeam. It is not recycled
+[9:01] CO2. It is a spectacular piece of biological
+[9:04] trivia, but more importantly for our listener, it is a guaranteed exam concept.
+[9:08] Oh, for sure. Professor Reyes will almost certainly test
+[9:11] on the true origin of that oxygen.
+[9:14] Got it.
+[9:14] Oxygen comes from water.
+[9:16] So the plants split the water, stole the electrons,
+[9:18] and now it has a flowing current of energy.
+[9:21] What does it actually do with that power?
+[9:23] It uses that electrical current
+[9:25] to manufacture two highly specialized,
+[9:27] fully charged cellular batteries.
+[9:29] Okay, batteries.
+[9:30] Yeah, and they go by the acronyms ATP and NADPH.
+[9:34] ATP and NADPH?
+[9:36] Yes.
+[9:37] Okay, I am going to think of these
+[9:38] as the heavy duty battery packs rolling off the assembly line on the roof.
+[9:43] That works perfectly.
+[9:44] The solar panels have done their job. They caught the light, they split the water,
+[9:48] vented the oxygen, and packed the sun's energy into these tangible chemical batteries.
+[9:52] Right. But batteries aren't food.
+[9:55] Yep. We haven't made any sugar yet. We can't eat batteries.
+[9:58] Exactly. The roof only generates the power. To actually build the sugar,
+[10:03] those ATP and NADPH batteries have to be sent down into the main
+[10:07] Fluid-filled floor of the chloroplast like taking the elevator down to the factory floor
+[10:11] Yep into a space called the stroma welcome to the stroma the actual 3d printing floor of the facility
+[10:18] Now the notes label this next phase the Calvin cycle the famous Calvin cycle, right?
+[10:24] And they also call it the light independent reactions. Yes
+[10:28] I have to push back on that naming convention because honestly it feels like another professor trap. It really is
+[10:34] Calling it light-independent makes it sound like the plant works a night shift.
+[10:38] Like the sun goes down, the solar panels turn off, and the stroma takes over in the dark.
+[10:43] It is a terrible, highly misleading name, which is exactly why your notes take the time to clarify the paradox here.
+[10:49] So it doesn't happen at night?
+[10:52] The Calvin cycle itself does not require a photon of light to physically strike its machinery in order to work.
+[10:58] Okay.
+[10:59] In that very narrow, literal sense, sure, it is independent of light.
+[11:03] However, if you try to run this cycle in the dark, it will shut down almost immediately.
+[11:08] Because it is completely dependent on the batteries we just made on the roof.
+[11:13] And it burns through those ATP and NADPH batteries at a ferocious rate.
+[11:19] The plant does not stockpile massive reserves of them, it makes them and uses
+[11:24] them instantly.
+[11:25] So because those batteries are only being manufactured while the sun is shining, the
+[11:29] Calvin cycle normally runs in broad daylight.
+[11:32] Right.
+[11:32] In direct tandem with the light reactions.
+[11:34] Precisely.
+[11:36] So to the listener, if you see a true or false question on the exam asking if the light
+[11:40] independent reactions happen at night.
+[11:42] That is a hard false.
+[11:44] A very hard false.
+[11:45] They happen during the day, constantly demanding fresh power.
+[11:48] You absolutely need the sun shining to keep the battery supply chain moving.
+[11:52] Makes total sense.
+[11:53] So let's look at what those batteries are actually powering down on the stroma floor.
+[11:58] You have a very specific worker on this assembly line.
+[12:00] Rubisco.
+[12:01] RUBISCO. The notes make a really big deal out of the sensai.
+[12:06] As they should. Rubisco is arguably the most abundant protein on planet earth.
+[12:11] The most abundant?
+[12:12] Yeah.
+[12:13] Wow.
+[12:13] And its primary job is carbon fixation.
+[12:16] Okay. Carbon fixation is one of those textbook phrases that immediately glazes my eyes over.
+[12:22] Let's ground that.
+[12:23] Fair enough.
+[12:24] Carbon dioxide is a gas. It is floating around in the air, completely intangible.
+[12:29] Invisible.
+[12:29] Right, so Rubisco's job is to literally reach out, grab that invisible ghost of a
+[12:35] gas, and pin it down, fix it, into a solid, tangible molecule.
+[12:40] That is a brilliant way to visualize the mechanism. It is the robotic arm in our
+[12:46] 3D printing facility, pulling raw material out of thin air.
+[12:49] That's insane when you think about it.
+[12:51] It really is. Rubisco pulls the carbon out of the air, and then the machinery uses
+[12:56] the massive energy stored in our ATP and NADPH batteries to weld that carbon to other
+[13:01] molecules.
+[13:02] Building up a larger physical structure.
+[13:04] Step by step, yes.
+[13:05] Which brings us to the next massive point of confusion in these notes.
+[13:09] The overall recipe, our word equation from the beginning, says the plant makes
+[13:13] glucose.
+[13:14] Right, glucose plus oxygen.
+[13:16] But the notes explicitly say the Calvin cycle does not make glucose, it makes something
+[13:21] called G3P.
+[13:23] Did the master recipe lie to us?
+[13:25] Well, the recipe gave you the final macroscopic outcome, skipping over a vital microscopic
+[13:30] intermediate step.
+[13:31] Oh, so just fast forward it a bit?
+[13:33] Exactly.
+[13:34] The Kevin cycle is incredibly complex, but it actually doesn't have the capacity to
+[13:38] spit out a perfectly formed massive six carbon glucose molecule all at once.
+[13:42] It's too big.
+[13:43] Yeah.
+[13:43] Instead, the cycle produces G3P, which is a three carbon sugar.
+[13:47] A prefabricated building block.
+[13:49] You can think of G3P as essentially half of a glucose molecule.
+[13:52] Oh, okay.
+[13:53] The chloroplast churns out these G3P blocks, and then the plant takes two of them, clicks them together, outside the cycle, and boom, you finally have your glucose.
+[14:05] Okay, so if I am staring down a multiple choice question asking for the direct product of the Calvin cycle, I am ignoring glucose entirely, and I am hunting for the answer that says G3P.
+[14:16] You must select G3P. I guarantee the professor will offer glucose as a bait answer. Do not take it.
+[14:23] consider it ignored. G3P is the answer. Definitely. Let's do a quick mental checkpoint for you
+[14:29] listening. We have the word equation down to protect our points. No symbol equations. Right.
+[14:36] We know the solar panels on the thylakoid roof absorb red and blue light. They split water to
+[14:40] steal electrons and they vent oxygen. The trash. Yep. The trash we breathe. And they
+[14:45] pack the solar energy into ATP and NADPH batteries. Which then drop down. Right,
+[14:51] They drop down to the Stromba floor, where the Rubisco robotic arm grabs invisible CO2
+[14:56] gas, uses the battery power to weld it, and spits out G3P building blocks.
+[15:02] We have the entire facility mapped out.
+[15:04] The mechanism is perfectly mapped.
+[15:07] But having a fully functioning facility does not guarantee infinite production.
+[15:13] Ah, right.
+[15:14] Bottlenecks.
+[15:15] Exactly.
+[15:16] Makes sense.
+[15:17] A major portion of your notes, and likely a major portion of the exam, focuses on supply
+[15:23] chain logistics. What happens when the facility gets stressed?
+[15:27] The limiting factors. Because this biological 3D printing plant doesn't just run at maximum
+[15:33] capacity forever. The environment dictates the speed.
+[15:37] It's entirely at the mercy of its surroundings.
+[15:40] I have always thought about limiting factors like baking.
+[15:44] Okay, let's hear it.
+[15:45] If you were baking cookies, you might have like 10 pounds of flour,
+[15:50] gallons of vanilla extract, and enough chocolate chips to fill a swimming pool.
+[15:54] Sounds delicious.
+[15:55] Right. But if you only have two eggs, you can only make a single batch of cookies.
+[16:00] Ah, I see.
+[16:02] The eggs limit your entire operation, and having all that extra flour doesn't help you at all.
+[16:07] That's perfect. The law of limiting factors operates on that exact biological logic.
+[16:12] work. The rate of photosynthesis is constrained by whichever essential input is in the shortest
+[16:16] supply.
+[16:17] So looking at the notes, it highlights three specific bottlenecks. Light intensity, carbon
+[16:23] dioxide concentration, and temperature.
+[16:26] Those are the big three.
+[16:28] So if a plant is sitting in a dark closet, it doesn't matter if I pump pure CO2 into
+[16:33] the room.
+[16:34] Not at all.
+[16:35] Light is the bottleneck. The solar panels are offline, so the whole factory stops.
+[16:39] The extra CO2 is as useless as the extra flour in your baking analogy.
+[16:44] Got it.
+[16:45] But let us reverse the scenario.
+[16:47] You take that same plant out of the closet and put it under incredibly intense bright grow lights.
+[16:52] So now light is maxed out.
+[16:54] The solar panels are firing on all cylinders.
+[16:56] The plant becomes an indestructible sugar-making machine, right?
+[16:59] It just produces infinitely.
+[17:01] Not quite.
+[17:02] Because the bottleneck simply shifts to a new input.
+[17:05] Oh right.
+[17:06] The CO2.
+[17:07] The CO2.
+[17:07] Yeah, with all that power generation, the Rubisco robotic arm is working furiously.
+[17:13] It might actually clear out all the available carbon dioxide in its immediate microscopic
+[17:18] vicinity.
+[17:18] It's grabbing it too fast.
+[17:19] Exactly.
+[17:20] Suddenly, CO2 concentration becomes the new limiting factor.
+[17:25] The factory has immense power, but it is starving for raw materials.
+[17:28] Okay, so what if I max them both out?
+[17:30] I put the plant under blazing lights inside a sealed greenhouse flooded with CO2.
+[17:34] I have eliminated both bottlenecks.
+[17:37] What is stopping it now?
+[17:40] Ah.
+[17:40] And this is where the machinery can literally break down.
+[17:43] Photosynthesis relies heavily on enzymes like Rubisco
+[17:46] and enzymes are very finicky proteins.
+[17:49] Like they need a Goldilocks zone.
+[17:50] Exactly.
+[17:51] If the temperature is too low,
+[17:53] the molecules in the plant move sluggishly.
+[17:55] The robotic arms cannot swing fast enough
+[17:57] to grab the CO2 no matter how much is floating around.
+[18:00] Like trying to assemble a car in a freezing warehouse.
+[18:02] Your fingers just freeze up and don't work.
+[18:05] But if you go to the other extreme, if you crank the heat in that greenhouse too high,
+[18:09] the enzymes do not just slow down, they de-nature.
+[18:13] De-nature.
+[18:14] Meaning they break. They physically warp and lose their specific shape.
+[18:18] A warped robotic arm cannot grab anything. The entire 3D printing floor collapses.
+[18:23] So extreme temperatures, hot or cold, will absolutely cap your production rate,
+[18:27] even with abundant light and carbon.
+[18:28] Whatever is at its worst level sets the maximum speed for the whole system.
+[18:33] That makes total sense.
+[18:35] Now if you are looking at these notes and starting to feel overwhelmed by how many complex variables there are,
+[18:40] I have some phenomenal news for you.
+[18:42] We need to talk about the exam scope section at the very bottom of the page.
+[18:47] Yes, because if you open your textbook to the chapter on photosynthesis right now,
+[18:51] you are going to see massive, terrifying diagrams about things called C4 plants and CAM pathways.
+[18:58] It looks like a completely different language.
+[19:00] Totally. It's so confusing. But your notes explicitly state,
+[19:04] C4 and CAM are entirely off the scope for this exam.
+[19:08] Which is huge. Knowing what to ignore is a critical study skill.
+[19:13] C4 and CAM pathways are extraordinary evolutionary adaptations.
+[19:18] They're basically alternative factory floor layouts used by plants
+[19:22] in brutal desert environments to conserve water while still fixing carbon.
+[19:26] Super cool, but-
+[19:28] complex and fascinating, but for Professor Reyes's exam next week, they do not exist.
+[19:33] So if you are flipping through the book and you see a diagram of a pineapple or a cactus
+[19:38] explaining CAM photosynthesis, turn the page. Turn the page. Do not waste a single ounce
+[19:43] of your brain power trying to decipher it. Guard your energy. Just master the standard
+[19:48] thylakoid roof and the stroma floor. That is your firm boundary line. By establishing
+[19:53] that boundary, you keep your mental model clean and functional. You know exactly what
+[19:57] is expected of you. I feel incredibly confident about this. We map the
+[20:01] blueprint. You know to dodge the symbol equation trap and write out the words.
+[20:06] Protect those points. You know why leaves reject green light and you
+[20:10] understand the mechanical reason why the plant has to split water to steal
+[20:13] electrons giving us the oxygen we breathe. Not from CO2. Right, from water.
+[20:18] You understand that the light independence cycle is secretly totally
+[20:21] dependent on the Sun and you know how to identify whether light CO2 or
+[20:25] temperature is the bottleneck in the supply chain.
+[20:29] You are armed with the mechanics, not just the vocabulary.
+[20:32] You are genuinely ready to crush this test.
+[20:36] But before we let you get back to your flashcards, I want to leave you with one
+[20:39] final thought.
+[20:40] Something to ponder.
+[20:41] Yeah, something to chew on that pulls this entire microscopic process out of the
+[20:45] textbook and places it directly into the real world you walk around in every day.
+[20:50] A way to see the global implications of this cellular machinery?
+[20:53] Think about the limiting factors we just discussed. The speed at which every plant on Earth pulls
+[20:58] carbon out of the atmosphere is bottlenecked by carbon dioxide concentration and temperature.
+[21:04] Those are the key levers.
+[21:05] Well, look at the news. Look at the data. Global carbon emissions are rising. Global
+[21:10] temperatures are rising.
+[21:12] Yeah.
+[21:12] The very limiting factors that control this ancient biological alchemy are being
+[21:16] fundamentally altered by us on a planetary scale.
+[21:20] We are rapidly tweaking the inputs of the most critical factory on Earth.
+[21:24] Which brings us to the big question.
+[21:27] How is the machinery going to react?
+[21:29] As we pump more CO2 and heat into the system, are the plants covering our planet going
+[21:34] to just shift into high gear overdrive, fixing carbon faster than ever before?
+[21:39] Or are we going to push the temperatures so high that those delicate rubisco enzymes
+[21:45] start to warp?
+[21:47] Right.
+[21:47] Will the microscopic robotic arms break down,
+[21:50] causing the planetary factory to grind to a halt?
+[21:55] It is something profound to think about the next time you look at a simple green leaf.
+[21:59] It really is.
+[22:01] You've got this. Good luck on the exam.

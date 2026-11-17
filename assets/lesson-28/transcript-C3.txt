@@ -1,0 +1,36 @@
+[0:00] This is the brief on BIO 101, Photosynthesis. We're reviewing Prof Reyes's Lecture 7 notes
+[0:06] to highlight exactly what to study and skip to the ACIR exam. First, the big picture. You know,
+[0:12] plants, algae, and some bacteria turning light energy into chemical energy stored as sugar.
+[0:19] Now for the exam, you absolutely must write the word equation. Carbon dioxide plus water,
+[0:25] using light, makes glucose plus oxygen.
+[0:29] Writing only chemical symbols gets you half marks.
+[0:32] Think of it kind of like a recipe.
+[0:34] The professor wants it written out in plain words.
+[0:37] Second, let's zoom into the chloroplasts.
+[0:39] The light reactions in the thalakoid membranes
+[0:41] split water and pass ATP and NADPH
+[0:44] to the Calvin cycle in the fluid stroma.
+[0:47] So when a plant exhales oxygen,
+[0:49] where is that actually coming from?
+[0:51] Well, it comes from splitting water,
+[0:53] not carbon dioxide.
+[0:55] Then, the Calvin cycle uses an enzyme
+[0:57] called Rubisco to fix CO2
+[0:59] into G3P sugar.
+[1:02] Finally, this whole process
+[1:03] has speed limits. Light intensity,
+[1:06] carbon dioxide concentration,
+[1:07] and temperature. Whichever is in the
+[1:09] shortest supply limits the rate, exactly like
+[1:11] a bottleneck on an assembly line.
+[1:13] For the test, focus only on the
+[1:15] light reactions and Calvin cycle.
+[1:17] C4 and CAM plants are absolutely
+[1:19] not on the exam. Ultimately,
+[1:21] photosynthesis is a two-stage process limited by environmental factors that
+[1:26] turns water, light, and CO2 into sugar and oxygen. Let's finish up with a
+[1:31] rapid-fire quiz. What specific colors of light does chlorophyll mostly absorb?
+[1:36] Red and blue. What's the enzyme that grabs CO2 in the Calvin cycle? Rubisco.
+[1:42] Is the Calvin cycle truly light-independent in nature? No way. It
+[1:47] normally runs in daylight because it needs ATP and NADPH from the light
+[1:50] reactions.

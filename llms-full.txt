@@ -418,6 +418,18 @@ What this lesson covers:
 - Get a list of requirements your resume doesn't show.
 - Check a rewritten resume line by line against your original.
 
+### NotebookLM Podcast Tutorial: Your Notes in Under 2 Minutes
+
+Canonical page: https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-make-a-podcast-with-notebooklm/
+
+Add your notes as a source, open Audio Overview in the Studio panel, choose the Brief format, and type instructions in "What should the AI hosts focus on?": use only my notes, say these points, end with a quiz. Then check it: tick your must-know points while you listen, and find anything you'd write on an exam in your notes. In a test on 2026-11-17 (one page of made-up notes, three notebooks), the default Deep Dive ran 21 to 22 minutes and the hosts added material that isn't in the notes, including three different exam dates; Brief with instructions ran under two minutes with nothing found that wasn't in the notes, but one of three left out three key points.
+
+What this lesson covers:
+
+- Make an Audio Overview (podcast) from your own notes in NotebookLM.
+- Use the Format setting and the focus box to get a short episode that sticks to your notes.
+- Check an episode against your notes with a must-know checklist.
+
 ## Machine-readable entry points
 
 - Sitemap: https://wenchangyue.github.io/zero-to-ai-expert/sitemap.xml

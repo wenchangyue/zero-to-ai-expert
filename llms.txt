@@ -7,7 +7,7 @@ YouTube: https://www.youtube.com/@ZeroToAIExpert
 Repository: https://github.com/wenchangyue/zero-to-ai-expert
 Author: Wenchang Yue
 Language: English
-Updated: 2026-11-10
+Updated: 2026-11-17
 
 ## Main pages
 
@@ -48,6 +48,7 @@ Updated: 2026-11-10
 - [How to Use NotebookLM to Study (Now Gemini Notebook)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-use-notebooklm-to-study/)
 - [How to Summarize a YouTube Video with AI (and Catch Fakes)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-summarize-a-youtube-video-with-ai/)
 - [How to Write a Resume with ChatGPT (Without Made-Up Lines)](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-write-a-resume-with-chatgpt/)
+- [NotebookLM Podcast Tutorial: Your Notes in Under 2 Minutes](https://wenchangyue.github.io/zero-to-ai-expert/lessons/how-to-make-a-podcast-with-notebooklm/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## Use
